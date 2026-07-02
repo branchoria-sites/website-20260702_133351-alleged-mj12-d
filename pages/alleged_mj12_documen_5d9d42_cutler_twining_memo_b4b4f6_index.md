@@ -16,11 +16,11 @@ parent_permalink: /cutler-memo/
 
 # Explore Topics in Cutler Memo
 
-The following pages expand on the main **[Cutler Memo]({{'/cutler-memo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Cutler Memo]({{ '/cutler-memo/' | relative_url }})** page and cover its key branches in.
 
-- [Custody Gap]({{'/custody-gap/' | relative_url }})
-- [Marking Problem]({{'/marking-problem/' | relative_url }})
-- [Cutler Abroad]({{'/cutler-abroad/' | relative_url }})
-- [Missing Briefing]({{'/missing-briefing/' | relative_url }})
-- [Paper Clues]({{'/paper-clues/' | relative_url }})
-- [Filing Anomalies]({{'/filing-anomalies/' | relative_url }})
+- [Custody Gap]({{ '/custody-gap/' | relative_url }})
+- [Marking Problem]({{ '/marking-problem/' | relative_url }})
+- [Cutler Abroad]({{ '/cutler-abroad/' | relative_url }})
+- [Missing Briefing]({{ '/missing-briefing/' | relative_url }})
+- [Paper Clues]({{ '/paper-clues/' | relative_url }})
+- [Filing Anomalies]({{ '/filing-anomalies/' | relative_url }})

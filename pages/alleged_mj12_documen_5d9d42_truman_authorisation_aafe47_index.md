@@ -16,11 +16,11 @@ parent_permalink: /truman-memo/
 
 # Explore Topics in Truman Memo
 
-The following pages expand on the main **[Truman Memo]({{'/truman-memo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Truman Memo]({{ '/truman-memo/' | relative_url }})** page and cover its key branches in.
 
-- [Order Number]({{'/order-number/' | relative_url }})
-- [Paper Trail]({{'/paper-trail-bc95f8/' | relative_url }})
-- [1947 Context]({{'/1947-context/' | relative_url }})
-- [Control Claim]({{'/control-claim/' | relative_url }})
-- [Meeting Date]({{'/meeting-date/' | relative_url }})
-- [Signature]({{'/signature/' | relative_url }})
+- [Order Number]({{ '/order-number/' | relative_url }})
+- [Paper Trail]({{ '/paper-trail-bc95f8/' | relative_url }})
+- [1947 Context]({{ '/1947-context/' | relative_url }})
+- [Control Claim]({{ '/control-claim/' | relative_url }})
+- [Meeting Date]({{ '/meeting-date/' | relative_url }})
+- [Signature]({{ '/signature/' | relative_url }})

@@ -16,11 +16,11 @@ parent_permalink: /members/
 
 # Explore Topics in Members
 
-The following pages expand on the main **[Members]({{'/members/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Members]({{ '/members/' | relative_url }})** page and cover its key branches in.
 
-- [Borrowed Trust]({{'/borrowed-trust/' | relative_url }})
-- [Bush]({{'/bush-272d88/' | relative_url }})
-- [Intel Chiefs]({{'/intel-chiefs/' | relative_url }})
-- [Forrestal]({{'/forrestal-c6ce59/' | relative_url }})
-- [Committee Mix]({{'/committee-mix/' | relative_url }})
-- [Science Cast]({{'/science-cast/' | relative_url }})
+- [Borrowed Trust]({{ '/borrowed-trust/' | relative_url }})
+- [Bush]({{ '/bush-272d88/' | relative_url }})
+- [Intel Chiefs]({{ '/intel-chiefs/' | relative_url }})
+- [Forrestal]({{ '/forrestal-c6ce59/' | relative_url }})
+- [Committee Mix]({{ '/committee-mix/' | relative_url }})
+- [Science Cast]({{ '/science-cast/' | relative_url }})

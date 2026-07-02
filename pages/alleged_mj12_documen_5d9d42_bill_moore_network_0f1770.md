@@ -445,7 +445,11 @@ header:
 image: /assets/images/alleged_mj12_documen_5d9d42_bill_moore_network_0f1770-overview-social.jpg
 ---
 
-## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B1swLAHD5y0" title="1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer">1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive</a></p><p class="youtube-embed-meta">Channel: UFOs Around The World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B1swLAHD5y0">Open on YouTube</a></p></div></div></div>
+## Introduction
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B1swLAHD5y0" title="1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer">1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive</a></p><p class="youtube-embed-meta">Channel: UFOs Around The World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B1swLAHD5y0">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Moore's place in MJ-12 history
 

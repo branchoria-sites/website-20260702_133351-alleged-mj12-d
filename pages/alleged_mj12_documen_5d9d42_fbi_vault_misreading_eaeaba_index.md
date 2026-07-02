@@ -16,11 +16,11 @@ parent_permalink: /vault-myth/
 
 # Explore Topics in Vault Myth
 
-The following pages expand on the main **[Vault Myth]({{'/vault-myth/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Vault Myth]({{ '/vault-myth/' | relative_url }})** page and cover its key branches in.
 
-- [Bogus Finding]({{'/bogus-finding/' | relative_url }})
-- [Archive Gap]({{'/archive-gap-1aa23b/' | relative_url }})
-- [Custody]({{'/custody-a973a5/' | relative_url }})
-- [FOIA Trap]({{'/foia-trap/' | relative_url }})
-- [Screenshots]({{'/screenshots/' | relative_url }})
-- [Read Files]({{'/read-files/' | relative_url }})
+- [Bogus Finding]({{ '/bogus-finding/' | relative_url }})
+- [Archive Gap]({{ '/archive-gap-1aa23b/' | relative_url }})
+- [Custody]({{ '/custody-a973a5/' | relative_url }})
+- [FOIA Trap]({{ '/foia-trap/' | relative_url }})
+- [Screenshots]({{ '/screenshots/' | relative_url }})
+- [Read Files]({{ '/read-files/' | relative_url }})

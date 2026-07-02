@@ -16,11 +16,11 @@ parent_permalink: /roswell-link/
 
 # Explore Topics in Roswell Link
 
-The following pages expand on the main **[Roswell Link]({{'/roswell-link/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Roswell Link]({{ '/roswell-link/' | relative_url }})** page and cover its key branches in.
 
-- [Briefing Story]({{'/briefing-story/' | relative_url }})
-- [Debris Question]({{'/debris-question/' | relative_url }})
-- [Missing Trail]({{'/missing-trail/' | relative_url }})
-- [Need for MJ 12]({{'/need-for-mj-12/' | relative_url }})
-- [Press Reversal]({{'/press-reversal/' | relative_url }})
-- [Revival Era]({{'/revival-era/' | relative_url }})
+- [Briefing Story]({{ '/briefing-story/' | relative_url }})
+- [Debris Question]({{ '/debris-question/' | relative_url }})
+- [Missing Trail]({{ '/missing-trail/' | relative_url }})
+- [Need for MJ 12]({{ '/need-for-mj-12/' | relative_url }})
+- [Press Reversal]({{ '/press-reversal/' | relative_url }})
+- [Revival Era]({{ '/revival-era/' | relative_url }})

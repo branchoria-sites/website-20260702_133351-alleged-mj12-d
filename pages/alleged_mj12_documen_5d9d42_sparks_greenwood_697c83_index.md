@@ -16,11 +16,11 @@ parent_permalink: /sparks-greenwood/
 
 # Explore Topics in Sparks Greenwood
 
-The following pages expand on the main **[Sparks Greenwood]({{'/sparks-greenwood/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Sparks Greenwood]({{ '/sparks-greenwood/' | relative_url }})** page and cover its key branches in.
 
-- [Aquarius Echoes]({{'/aquarius-echoes/' | relative_url }})
-- [BOGUS Stamp]({{'/bogus-stamp/' | relative_url }})
-- [Dead Names]({{'/dead-names/' | relative_url }})
-- [Timing Test]({{'/timing-test/' | relative_url }})
-- [Private Leaks]({{'/private-leaks/' | relative_url }})
-- [Typewriter Clues]({{'/typewriter-clues/' | relative_url }})
+- [Aquarius Echoes]({{ '/aquarius-echoes/' | relative_url }})
+- [BOGUS Stamp]({{ '/bogus-stamp/' | relative_url }})
+- [Dead Names]({{ '/dead-names/' | relative_url }})
+- [Timing Test]({{ '/timing-test/' | relative_url }})
+- [Private Leaks]({{ '/private-leaks/' | relative_url }})
+- [Typewriter Clues]({{ '/typewriter-clues/' | relative_url }})

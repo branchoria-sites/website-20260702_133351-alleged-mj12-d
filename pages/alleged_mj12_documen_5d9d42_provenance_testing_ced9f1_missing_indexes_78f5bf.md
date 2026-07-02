@@ -345,7 +345,11 @@ Consequently, archivists distinguish between two situations:
 * No neighbouring records using the same filing system.
 * No corroborating administrative traces across related collections.</div>
 
-The second situation presents a substantially greater provenance problem because it leaves no institutional framework within which the document naturally belongs.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TU1eq5WK0Tw" title="Stanton Friedman | Majestic 12, Project Blue Book, Roswell | EODR 38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TU1eq5WK0Tw" target="_blank" rel="noopener noreferrer">Stanton Friedman | Majestic 12, Project Blue Book, Roswell | EODR 38</a></p><p class="youtube-embed-meta">Channel: End of Days Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TU1eq5WK0Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TU1eq5WK0Tw">Open on YouTube</a></p></div></div></div>
+The second situation presents a substantially greater provenance problem because it leaves no institutional framework within which the document naturally belongs.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TU1eq5WK0Tw" title="Stanton Friedman | Majestic 12, Project Blue Book, Roswell | EODR 38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TU1eq5WK0Tw" target="_blank" rel="noopener noreferrer">Stanton Friedman | Majestic 12, Project Blue Book, Roswell | EODR 38</a></p><p class="youtube-embed-meta">Channel: End of Days Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TU1eq5WK0Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TU1eq5WK0Tw">Open on YouTube</a></p></div></div></div>
+
+
 
 ## The Cutler–Twining memorandum illustrates the problem
 

@@ -16,11 +16,11 @@ parent_permalink: /briefing-doc/
 
 # Explore Topics in Briefing Doc
 
-The following pages expand on the main **[Briefing Doc]({{'/briefing-doc/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Briefing Doc]({{ '/briefing-doc/' | relative_url }})** page and cover its key branches in.
 
-- [CIA Briefings]({{'/cia-briefings/' | relative_url }})
-- [Timing Hook]({{'/timing-hook/' | relative_url }})
-- [El Indio]({{'/el-indio/' | relative_url }})
-- [Hillenkoetter]({{'/hillenkoetter/' | relative_url }})
-- [Roswell Claim]({{'/roswell-claim/' | relative_url }})
-- [UFO Projects]({{'/ufo-projects/' | relative_url }})
+- [CIA Briefings]({{ '/cia-briefings/' | relative_url }})
+- [Timing Hook]({{ '/timing-hook/' | relative_url }})
+- [El Indio]({{ '/el-indio/' | relative_url }})
+- [Hillenkoetter]({{ '/hillenkoetter/' | relative_url }})
+- [Roswell Claim]({{ '/roswell-claim/' | relative_url }})
+- [UFO Projects]({{ '/ufo-projects/' | relative_url }})

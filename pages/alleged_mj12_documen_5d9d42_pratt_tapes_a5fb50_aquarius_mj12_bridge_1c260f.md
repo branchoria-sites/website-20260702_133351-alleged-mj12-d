@@ -284,7 +284,11 @@ That distinction matters because it places the concept of an elite UFO managemen
 * a presidential-level classified programme;
 * tightly compartmented access;
 * an exclusive supervisory committee;
-* historical continuity reaching back to the late 1940s.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/53mud0ZuKIg" title="Ex Air Force Agent Breaks Silence on UFOs! | Richard Doty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer">Ex Air Force Agent Breaks Silence on UFOs! | Richard Doty</a></p><p class="youtube-embed-meta">Channel: Awaken Zone &middot; Views: 31.2K &middot; Uploaded: February 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=53mud0ZuKIg">Open on YouTube</a></p></div></div></div>
+* historical continuity reaching back to the late 1940s.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/53mud0ZuKIg" title="Ex Air Force Agent Breaks Silence on UFOs! | Richard Doty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer">Ex Air Force Agent Breaks Silence on UFOs! | Richard Doty</a></p><p class="youtube-embed-meta">Channel: Awaken Zone &middot; Views: 31.2K &middot; Uploaded: February 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=53mud0ZuKIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=53mud0ZuKIg">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How Aquarius resembles the Eisenhower briefing
 
@@ -305,7 +309,11 @@ The same continuity that makes Aquarius historically interesting also weakens it
 
 If the MJ-12 briefing papers had introduced genuinely novel concepts unavailable to their recipients beforehand, researchers could argue that they reflected access to an unknown archive. Instead, the Aquarius connection suggests many of the key narrative components already existed within the network surrounding Moore, Pratt, Doty and later Jaime Shandera.
 
-This has several consequences.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jG4YraHmRzQ" title="&quot;The 1983 Project Aquarius Leak: Majestic 12’s Hidden UFO Database?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jG4YraHmRzQ" target="_blank" rel="noopener noreferrer">&quot;The 1983 Project Aquarius Leak: Majestic 12’s Hidden UFO Database?</a></p><p class="youtube-embed-meta">Channel: emgotv/majestic 12 and secret space force</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jG4YraHmRzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jG4YraHmRzQ">Open on YouTube</a></p></div></div></div>
+This has several consequences.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jG4YraHmRzQ" title="&quot;The 1983 Project Aquarius Leak: Majestic 12’s Hidden UFO Database?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jG4YraHmRzQ" target="_blank" rel="noopener noreferrer">&quot;The 1983 Project Aquarius Leak: Majestic 12’s Hidden UFO Database?</a></p><p class="youtube-embed-meta">Channel: emgotv/majestic 12 and secret space force</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jG4YraHmRzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jG4YraHmRzQ">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Did Aquarius become the MJ-12 template?
 

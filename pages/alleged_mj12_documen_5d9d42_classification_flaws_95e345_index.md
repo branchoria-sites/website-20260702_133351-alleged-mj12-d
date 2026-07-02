@@ -16,11 +16,11 @@ parent_permalink: /markings/
 
 # Explore Topics in Markings
 
-The following pages expand on the main **[Markings]({{'/markings/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Markings]({{ '/markings/' | relative_url }})** page and cover its key branches in.
 
-- [Copy Control]({{'/copy-control/' | relative_url }})
-- [Era Rules]({{'/era-rules/' | relative_url }})
-- [Magic Link]({{'/magic-link/' | relative_url }})
-- [MAJIC Codeword]({{'/majic-codeword/' | relative_url }})
-- [NARA Objections]({{'/nara-objections/' | relative_url }})
-- [Top Secret]({{'/top-secret/' | relative_url }})
+- [Copy Control]({{ '/copy-control/' | relative_url }})
+- [Era Rules]({{ '/era-rules/' | relative_url }})
+- [Magic Link]({{ '/magic-link/' | relative_url }})
+- [MAJIC Codeword]({{ '/majic-codeword/' | relative_url }})
+- [NARA Objections]({{ '/nara-objections/' | relative_url }})
+- [Top Secret]({{ '/top-secret/' | relative_url }})

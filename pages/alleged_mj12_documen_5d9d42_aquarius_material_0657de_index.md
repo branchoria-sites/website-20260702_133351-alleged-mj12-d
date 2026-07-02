@@ -16,11 +16,11 @@ parent_permalink: /aquarius/
 
 # Explore Topics in Aquarius
 
-The following pages expand on the main **[Aquarius]({{'/aquarius/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Aquarius]({{ '/aquarius/' | relative_url }})** page and cover its key branches in.
 
-- [Archive Trail]({{'/archive-trail/' | relative_url }})
-- [Aquarius Memo]({{'/aquarius-memo/' | relative_url }})
-- [Code Names]({{'/code-names/' | relative_url }})
-- [Bennewitz Loop]({{'/bennewitz-loop/' | relative_url }})
-- [FOIA Culture]({{'/foia-culture/' | relative_url }})
-- [Real Aquarius]({{'/real-aquarius/' | relative_url }})
+- [Archive Trail]({{ '/archive-trail/' | relative_url }})
+- [Aquarius Memo]({{ '/aquarius-memo/' | relative_url }})
+- [Code Names]({{ '/code-names/' | relative_url }})
+- [Bennewitz Loop]({{ '/bennewitz-loop/' | relative_url }})
+- [FOIA Culture]({{ '/foia-culture/' | relative_url }})
+- [Real Aquarius]({{ '/real-aquarius/' | relative_url }})

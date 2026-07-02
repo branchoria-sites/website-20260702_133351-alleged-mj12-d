@@ -16,11 +16,11 @@ parent_permalink: /plausibility/
 
 # Explore Topics in Plausibility
 
-The following pages expand on the main **[Plausibility]({{'/plausibility/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Plausibility]({{ '/plausibility/' | relative_url }})** page and cover its key branches in.
 
-- [Cutler Memo]({{'/cutler-memo-f4275d/' | relative_url }})
-- [Famous Names]({{'/famous-names/' | relative_url }})
-- [FBI File]({{'/fbi-file-1f060f/' | relative_url }})
-- [Record Trail]({{'/record-trail-e1126f/' | relative_url }})
-- [Exact Dates]({{'/exact-dates/' | relative_url }})
-- [Familiarity]({{'/familiarity/' | relative_url }})
+- [Cutler Memo]({{ '/cutler-memo-f4275d/' | relative_url }})
+- [Famous Names]({{ '/famous-names/' | relative_url }})
+- [FBI File]({{ '/fbi-file-1f060f/' | relative_url }})
+- [Record Trail]({{ '/record-trail-e1126f/' | relative_url }})
+- [Exact Dates]({{ '/exact-dates/' | relative_url }})
+- [Familiarity]({{ '/familiarity/' | relative_url }})

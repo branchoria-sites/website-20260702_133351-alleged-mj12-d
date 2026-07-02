@@ -16,11 +16,11 @@ parent_permalink: /archive-limits/
 
 # Explore Topics in Archive Limits
 
-The following pages expand on the main **[Archive Limits]({{'/archive-limits/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Archive Limits]({{ '/archive-limits/' | relative_url }})** page and cover its key branches in.
 
-- [Blue Book]({{'/blue-book/' | relative_url }})
-- [Cutler Test]({{'/cutler-test/' | relative_url }})
-- [FOIA Limits]({{'/foia-limits/' | relative_url }})
-- [Missing Trail]({{'/missing-trail-b98edb/' | relative_url }})
-- [UAP Collection]({{'/uap-collection/' | relative_url }})
-- [Unidentified Data]({{'/unidentified-data/' | relative_url }})
+- [Blue Book]({{ '/blue-book/' | relative_url }})
+- [Cutler Test]({{ '/cutler-test/' | relative_url }})
+- [FOIA Limits]({{ '/foia-limits/' | relative_url }})
+- [Missing Trail]({{ '/missing-trail-b98edb/' | relative_url }})
+- [UAP Collection]({{ '/uap-collection/' | relative_url }})
+- [Unidentified Data]({{ '/unidentified-data/' | relative_url }})

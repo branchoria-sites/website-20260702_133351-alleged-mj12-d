@@ -16,11 +16,11 @@ parent_permalink: /twining/
 
 # Explore Topics in Twining
 
-The following pages expand on the main **[Twining]({{'/twining/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Twining]({{ '/twining/' | relative_url }})** page and cover its key branches in.
 
-- [Wright Field]({{'/wright-field/' | relative_url }})
-- [Blue Book]({{'/blue-book-6bb26c/' | relative_url }})
-- [Cutler Trip]({{'/cutler-trip/' | relative_url }})
-- [Cutler Memo]({{'/cutler-memo-76050b/' | relative_url }})
-- [Rank Plausibility]({{'/rank-plausibility/' | relative_url }})
-- [1947 Memo]({{'/1947-memo/' | relative_url }})
+- [Wright Field]({{ '/wright-field/' | relative_url }})
+- [Blue Book]({{ '/blue-book-6bb26c/' | relative_url }})
+- [Cutler Trip]({{ '/cutler-trip/' | relative_url }})
+- [Cutler Memo]({{ '/cutler-memo-76050b/' | relative_url }})
+- [Rank Plausibility]({{ '/rank-plausibility/' | relative_url }})
+- [1947 Memo]({{ '/1947-memo/' | relative_url }})

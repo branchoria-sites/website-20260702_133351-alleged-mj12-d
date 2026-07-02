@@ -16,11 +16,11 @@ parent_permalink: /ufo-culture/
 
 # Explore Topics in UFO Culture
 
-The following pages expand on the main **[UFO Culture]({{'/ufo-culture/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[UFO Culture]({{ '/ufo-culture/' | relative_url }})** page and cover its key branches in.
 
-- [FBI File]({{'/fbi-file-4a417a/' | relative_url }})
-- [Bureaucracy]({{'/bureaucracy/' | relative_url }})
-- [Denial Loop]({{'/denial-loop/' | relative_url }})
-- [Paper Trail]({{'/paper-trail/' | relative_url }})
-- [Roswell System]({{'/roswell-system/' | relative_url }})
-- [X Files Mood]({{'/x-files-mood/' | relative_url }})
+- [FBI File]({{ '/fbi-file-4a417a/' | relative_url }})
+- [Bureaucracy]({{ '/bureaucracy/' | relative_url }})
+- [Denial Loop]({{ '/denial-loop/' | relative_url }})
+- [Paper Trail]({{ '/paper-trail/' | relative_url }})
+- [Roswell System]({{ '/roswell-system/' | relative_url }})
+- [X Files Mood]({{ '/x-files-mood/' | relative_url }})

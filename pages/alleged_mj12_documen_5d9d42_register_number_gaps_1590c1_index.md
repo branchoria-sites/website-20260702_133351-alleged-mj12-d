@@ -16,11 +16,11 @@ parent_permalink: /control-gaps/
 
 # Explore Topics in Control Gaps
 
-The following pages expand on the main **[Control Gaps]({{'/control-gaps/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Control Gaps]({{ '/control-gaps/' | relative_url }})** page and cover its key branches in.
 
-- [Search Trail]({{'/search-trail/' | relative_url }})
-- [Lone Folder]({{'/lone-folder/' | relative_url }})
-- [Missing Number]({{'/missing-number/' | relative_url }})
-- [NSC Index]({{'/nsc-index/' | relative_url }})
-- [Control Officers]({{'/control-officers/' | relative_url }})
-- [Wrong Marking]({{'/wrong-marking/' | relative_url }})
+- [Search Trail]({{ '/search-trail/' | relative_url }})
+- [Lone Folder]({{ '/lone-folder/' | relative_url }})
+- [Missing Number]({{ '/missing-number/' | relative_url }})
+- [NSC Index]({{ '/nsc-index/' | relative_url }})
+- [Control Officers]({{ '/control-officers/' | relative_url }})
+- [Wrong Marking]({{ '/wrong-marking/' | relative_url }})

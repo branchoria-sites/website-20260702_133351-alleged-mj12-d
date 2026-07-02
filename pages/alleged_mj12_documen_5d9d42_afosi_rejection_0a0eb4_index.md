@@ -16,11 +16,11 @@ parent_permalink: /afosi/
 
 # Explore Topics in AFOSI
 
-The following pages expand on the main **[AFOSI]({{'/afosi/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[AFOSI]({{ '/afosi/' | relative_url }})** page and cover its key branches in.
 
-- [Dallas Request]({{'/dallas-request/' | relative_url }})
-- [FBI Closure]({{'/fbi-closure/' | relative_url }})
-- [Fake Markings]({{'/fake-markings/' | relative_url }})
-- [GAO Check]({{'/gao-check/' | relative_url }})
-- [OSI Role]({{'/osi-role/' | relative_url }})
-- [Forger Gap]({{'/forger-gap/' | relative_url }})
+- [Dallas Request]({{ '/dallas-request/' | relative_url }})
+- [FBI Closure]({{ '/fbi-closure/' | relative_url }})
+- [Fake Markings]({{ '/fake-markings/' | relative_url }})
+- [GAO Check]({{ '/gao-check/' | relative_url }})
+- [OSI Role]({{ '/osi-role/' | relative_url }})
+- [Forger Gap]({{ '/forger-gap/' | relative_url }})

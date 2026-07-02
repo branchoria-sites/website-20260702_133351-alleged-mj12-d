@@ -16,11 +16,11 @@ parent_permalink: /nsc-silence/
 
 # Explore Topics in NSC Silence
 
-The following pages expand on the main **[NSC Silence]({{'/nsc-silence/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[NSC Silence]({{ '/nsc-silence/' | relative_url }})** page and cover its key branches in.
 
-- [Bad Markings]({{'/bad-markings/' | relative_url }})
-- [Custody Test]({{'/custody-test/' | relative_url }})
-- [Cutler Travel]({{'/cutler-travel/' | relative_url }})
-- [Secret Paperwork]({{'/secret-paperwork/' | relative_url }})
-- [Missing Meeting]({{'/missing-meeting-2d218f/' | relative_url }})
-- [Index Silence]({{'/index-silence/' | relative_url }})
+- [Bad Markings]({{ '/bad-markings/' | relative_url }})
+- [Custody Test]({{ '/custody-test/' | relative_url }})
+- [Cutler Travel]({{ '/cutler-travel/' | relative_url }})
+- [Secret Paperwork]({{ '/secret-paperwork/' | relative_url }})
+- [Missing Meeting]({{ '/missing-meeting-2d218f/' | relative_url }})
+- [Index Silence]({{ '/index-silence/' | relative_url }})

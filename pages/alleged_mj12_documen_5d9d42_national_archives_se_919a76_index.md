@@ -16,11 +16,11 @@ parent_permalink: /archives/
 
 # Explore Topics in Archives
 
-The following pages expand on the main **[Archives]({{'/archives/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Archives]({{ '/archives/' | relative_url }})** page and cover its key branches in.
 
-- [Paper Clues]({{'/paper-clues-9fadcf/' | relative_url }})
-- [Cutler Problem]({{'/cutler-problem/' | relative_url }})
-- [Briefing Date]({{'/briefing-date/' | relative_url }})
-- [Search Terms]({{'/search-terms/' | relative_url }})
-- [Search Logic]({{'/search-logic/' | relative_url }})
-- [Filing Gap]({{'/filing-gap/' | relative_url }})
+- [Paper Clues]({{ '/paper-clues-9fadcf/' | relative_url }})
+- [Cutler Problem]({{ '/cutler-problem/' | relative_url }})
+- [Briefing Date]({{ '/briefing-date/' | relative_url }})
+- [Search Terms]({{ '/search-terms/' | relative_url }})
+- [Search Logic]({{ '/search-logic/' | relative_url }})
+- [Filing Gap]({{ '/filing-gap/' | relative_url }})

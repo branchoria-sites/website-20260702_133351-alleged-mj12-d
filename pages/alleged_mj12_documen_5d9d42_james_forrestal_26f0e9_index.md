@@ -16,11 +16,11 @@ parent_permalink: /forrestal/
 
 # Explore Topics in Forrestal
 
-The following pages expand on the main **[Forrestal]({{'/forrestal/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Forrestal]({{ '/forrestal/' | relative_url }})** page and cover its key branches in.
 
-- [Eberstadt]({{'/eberstadt/' | relative_url }})
-- [First NSC]({{'/first-nsc/' | relative_url }})
-- [Authorization]({{'/authorization/' | relative_url }})
-- [Death Vacancy]({{'/death-vacancy/' | relative_url }})
-- [Defense Bridge]({{'/defense-bridge/' | relative_url }})
-- [Intel Memo]({{'/intel-memo/' | relative_url }})
+- [Eberstadt]({{ '/eberstadt/' | relative_url }})
+- [First NSC]({{ '/first-nsc/' | relative_url }})
+- [Authorization]({{ '/authorization/' | relative_url }})
+- [Death Vacancy]({{ '/death-vacancy/' | relative_url }})
+- [Defense Bridge]({{ '/defense-bridge/' | relative_url }})
+- [Intel Memo]({{ '/intel-memo/' | relative_url }})

@@ -16,11 +16,11 @@ parent_permalink: /film-roll/
 
 # Explore Topics in Film Roll
 
-The following pages expand on the main **[Film Roll]({{'/film-roll/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Film Roll]({{ '/film-roll/' | relative_url }})** page and cover its key branches in.
 
-- [Postmark]({{'/postmark/' | relative_url }})
-- [Archive Detour]({{'/archive-detour/' | relative_url }})
-- [Film Roll]({{'/film-roll-1b51fd/' | relative_url }})
-- [Paper Tests]({{'/paper-tests/' | relative_url }})
-- [Release Gap]({{'/release-gap/' | relative_url }})
-- [Research Circle]({{'/research-circle/' | relative_url }})
+- [Postmark]({{ '/postmark/' | relative_url }})
+- [Archive Detour]({{ '/archive-detour/' | relative_url }})
+- [Film Roll]({{ '/film-roll-1b51fd/' | relative_url }})
+- [Paper Tests]({{ '/paper-tests/' | relative_url }})
+- [Release Gap]({{ '/release-gap/' | relative_url }})
+- [Research Circle]({{ '/research-circle/' | relative_url }})

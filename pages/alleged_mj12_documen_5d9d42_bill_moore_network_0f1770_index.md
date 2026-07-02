@@ -16,11 +16,11 @@ parent_permalink: /bill-moore/
 
 # Explore Topics in Bill Moore
 
-The following pages expand on the main **[Bill Moore]({{'/bill-moore/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Bill Moore]({{ '/bill-moore/' | relative_url }})** page and cover its key branches in.
 
-- [Archive Test]({{'/archive-test/' | relative_url }})
-- [Doty Channel]({{'/doty-channel/' | relative_url }})
-- [Custody Trail]({{'/custody-trail/' | relative_url }})
-- [Gatekeepers]({{'/gatekeepers/' | relative_url }})
-- [MUFON Speech]({{'/mufon-speech/' | relative_url }})
-- [Film Roll]({{'/film-roll-673773/' | relative_url }})
+- [Archive Test]({{ '/archive-test/' | relative_url }})
+- [Doty Channel]({{ '/doty-channel/' | relative_url }})
+- [Custody Trail]({{ '/custody-trail/' | relative_url }})
+- [Gatekeepers]({{ '/gatekeepers/' | relative_url }})
+- [MUFON Speech]({{ '/mufon-speech/' | relative_url }})
+- [Film Roll]({{ '/film-roll-673773/' | relative_url }})

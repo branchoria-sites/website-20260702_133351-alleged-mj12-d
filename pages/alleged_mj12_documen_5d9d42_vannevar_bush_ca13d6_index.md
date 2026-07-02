@@ -16,11 +16,11 @@ parent_permalink: /bush/
 
 # Explore Topics in Bush
 
-The following pages expand on the main **[Bush]({{'/bush/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Bush]({{ '/bush/' | relative_url }})** page and cover its key branches in.
 
-- [Lab Access]({{'/lab-access/' | relative_url }})
-- [Missing Trail]({{'/missing-trail-89e12b/' | relative_url }})
-- [1947 Timing]({{'/1947-timing/' | relative_url }})
-- [Wartime Role]({{'/wartime-role/' | relative_url }})
-- [Authority Appeal]({{'/authority-appeal/' | relative_url }})
-- [Signature Claim]({{'/signature-claim/' | relative_url }})
+- [Lab Access]({{ '/lab-access/' | relative_url }})
+- [Missing Trail]({{ '/missing-trail-89e12b/' | relative_url }})
+- [1947 Timing]({{ '/1947-timing/' | relative_url }})
+- [Wartime Role]({{ '/wartime-role/' | relative_url }})
+- [Authority Appeal]({{ '/authority-appeal/' | relative_url }})
+- [Signature Claim]({{ '/signature-claim/' | relative_url }})

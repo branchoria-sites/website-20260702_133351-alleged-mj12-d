@@ -16,11 +16,11 @@ parent_permalink: /authenticity/
 
 # Explore Topics in Authenticity
 
-The following pages expand on the main **[Authenticity]({{'/authenticity/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Authenticity]({{ '/authenticity/' | relative_url }})** page and cover its key branches in.
 
-- [Cutler Memo]({{'/cutler-memo-17d516/' | relative_url }})
-- [FBI File]({{'/fbi-file-dec45b/' | relative_url }})
-- [GAO Review]({{'/gao-review-9e346e/' | relative_url }})
-- [Markings]({{'/markings-a61010/' | relative_url }})
-- [Provenance Test]({{'/provenance-test/' | relative_url }})
-- [Archive Searches]({{'/archive-searches/' | relative_url }})
+- [Cutler Memo]({{ '/cutler-memo-17d516/' | relative_url }})
+- [FBI File]({{ '/fbi-file-dec45b/' | relative_url }})
+- [GAO Review]({{ '/gao-review-9e346e/' | relative_url }})
+- [Markings]({{ '/markings-a61010/' | relative_url }})
+- [Provenance Test]({{ '/provenance-test/' | relative_url }})
+- [Archive Searches]({{ '/archive-searches/' | relative_url }})

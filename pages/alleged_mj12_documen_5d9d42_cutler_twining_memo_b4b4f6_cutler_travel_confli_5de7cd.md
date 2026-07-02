@@ -301,7 +301,11 @@ The National Archives notes that the NSC Staff Papers contain a memorandum dated
 
 This delegation fits normal government practice. Senior White House officials travelling abroad routinely assigned day-to-day administrative duties to trusted deputies so that meetings, correspondence and scheduling could continue without interruption.
 
-The existence of that delegation therefore provides a practical explanation for how NSC business was expected to proceed while Cutler was overseas.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9dF-iggJusY" title="The MJ-12 Conspiracy Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9dF-iggJusY" target="_blank" rel="noopener noreferrer">The MJ-12 Conspiracy Debunked</a></p><p class="youtube-embed-meta">Channel: Malady</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9dF-iggJusY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9dF-iggJusY">Open on YouTube</a></p></div></div></div>
+The existence of that delegation therefore provides a practical explanation for how NSC business was expected to proceed while Cutler was overseas.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9dF-iggJusY" title="The MJ-12 Conspiracy Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9dF-iggJusY" target="_blank" rel="noopener noreferrer">The MJ-12 Conspiracy Debunked</a></p><p class="youtube-embed-meta">Channel: Malady</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9dF-iggJusY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9dF-iggJusY">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why Lay or Cone would be expected instead
 
@@ -333,7 +337,11 @@ Supporters of the alleged MJ-12 documents have generally not disputed that Cutle
 
 * the memorandum having been drafted before departure but dated later;
 * the document representing an unusual administrative exception;
-* archival irregularities resulting from later filing or handling.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GzULhw197ZE" title="RIR-K.Randle HR 2-MJ-12 Documents 4/6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GzULhw197ZE" target="_blank" rel="noopener noreferrer">RIR-K.Randle HR 2-MJ-12 Documents 4/6</a></p><p class="youtube-embed-meta">Channel: infanterieNICK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GzULhw197ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GzULhw197ZE">Open on YouTube</a></p></div></div></div>
+* archival irregularities resulting from later filing or handling.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GzULhw197ZE" title="RIR-K.Randle HR 2-MJ-12 Documents 4/6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GzULhw197ZE" target="_blank" rel="noopener noreferrer">RIR-K.Randle HR 2-MJ-12 Documents 4/6</a></p><p class="youtube-embed-meta">Channel: infanterieNICK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GzULhw197ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GzULhw197ZE">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why this remains an important authenticity test
 

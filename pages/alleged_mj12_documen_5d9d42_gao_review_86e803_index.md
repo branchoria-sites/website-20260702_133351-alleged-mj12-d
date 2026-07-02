@@ -16,11 +16,11 @@ parent_permalink: /gao-review/
 
 # Explore Topics in GAO Review
 
-The following pages expand on the main **[GAO Review]({{'/gao-review/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[GAO Review]({{ '/gao-review/' | relative_url }})** page and cover its key branches in.
 
-- [Agency Answers]({{'/agency-answers/' | relative_url }})
-- [ISOO Test]({{'/isoo-test/' | relative_url }})
-- [Burden Shift]({{'/burden-shift/' | relative_url }})
-- [1980 Message]({{'/1980-message/' | relative_url }})
-- [Library Searches]({{'/library-searches/' | relative_url }})
-- [Roswell Gap]({{'/roswell-gap/' | relative_url }})
+- [Agency Answers]({{ '/agency-answers/' | relative_url }})
+- [ISOO Test]({{ '/isoo-test/' | relative_url }})
+- [Burden Shift]({{ '/burden-shift/' | relative_url }})
+- [1980 Message]({{ '/1980-message/' | relative_url }})
+- [Library Searches]({{ '/library-searches/' | relative_url }})
+- [Roswell Gap]({{ '/roswell-gap/' | relative_url }})

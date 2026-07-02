@@ -16,11 +16,11 @@ parent_permalink: /missing-meeting/
 
 # Explore Topics in Missing Meeting
 
-The following pages expand on the main **[Missing Meeting]({{'/missing-meeting/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Missing Meeting]({{ '/missing-meeting/' | relative_url }})** page and cover its key branches in.
 
-- [Limits]({{'/limits/' | relative_url }})
-- [Archive Trail]({{'/archive-trail-02bfe0/' | relative_url }})
-- [Cabinet Slot]({{'/cabinet-slot/' | relative_url }})
-- [Cutler Trip]({{'/cutler-trip-c289de/' | relative_url }})
-- [July Test]({{'/july-test/' | relative_url }})
-- [Off Record]({{'/off-record/' | relative_url }})
+- [Limits]({{ '/limits/' | relative_url }})
+- [Archive Trail]({{ '/archive-trail-02bfe0/' | relative_url }})
+- [Cabinet Slot]({{ '/cabinet-slot/' | relative_url }})
+- [Cutler Trip]({{ '/cutler-trip-c289de/' | relative_url }})
+- [July Test]({{ '/july-test/' | relative_url }})
+- [Off Record]({{ '/off-record/' | relative_url }})

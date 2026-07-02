@@ -16,11 +16,11 @@ parent_permalink: /fbi-file/
 
 # Explore Topics in FBI File
 
-The following pages expand on the main **[FBI File]({{'/fbi-file/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[FBI File]({{ '/fbi-file/' | relative_url }})** page and cover its key branches in.
 
-- [Air Force Role]({{'/air-force-role/' | relative_url }})
-- [False Authority]({{'/false-authority/' | relative_url }})
-- [Secret Marks]({{'/secret-marks/' | relative_url }})
-- [Dallas 1988]({{'/dallas-1988/' | relative_url }})
-- [Vault Trap]({{'/vault-trap/' | relative_url }})
-- [Lobby Copy]({{'/lobby-copy/' | relative_url }})
+- [Air Force Role]({{ '/air-force-role/' | relative_url }})
+- [False Authority]({{ '/false-authority/' | relative_url }})
+- [Secret Marks]({{ '/secret-marks/' | relative_url }})
+- [Dallas 1988]({{ '/dallas-1988/' | relative_url }})
+- [Vault Trap]({{ '/vault-trap/' | relative_url }})
+- [Lobby Copy]({{ '/lobby-copy/' | relative_url }})

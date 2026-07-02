@@ -16,11 +16,11 @@ parent_permalink: /cutler-timing/
 
 # Explore Topics in Cutler Timing
 
-The following pages expand on the main **[Cutler Timing]({{'/cutler-timing/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Cutler Timing]({{ '/cutler-timing/' | relative_url }})** page and cover its key branches in.
 
-- [Custody]({{'/custody/' | relative_url }})
-- [Travel Gap]({{'/travel-gap/' | relative_url }})
-- [Briefing Gap]({{'/briefing-gap/' | relative_url }})
-- [Delegation]({{'/delegation/' | relative_url }})
-- [Register Gap]({{'/register-gap/' | relative_url }})
-- [Secret Meeting]({{'/secret-meeting/' | relative_url }})
+- [Custody]({{ '/custody/' | relative_url }})
+- [Travel Gap]({{ '/travel-gap/' | relative_url }})
+- [Briefing Gap]({{ '/briefing-gap/' | relative_url }})
+- [Delegation]({{ '/delegation/' | relative_url }})
+- [Register Gap]({{ '/register-gap/' | relative_url }})
+- [Secret Meeting]({{ '/secret-meeting/' | relative_url }})

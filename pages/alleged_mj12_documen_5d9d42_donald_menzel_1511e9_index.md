@@ -16,11 +16,11 @@ parent_permalink: /menzel/
 
 # Explore Topics in Menzel
 
-The following pages expand on the main **[Menzel]({{'/menzel/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Menzel]({{ '/menzel/' | relative_url }})** page and cover its key branches in.
 
-- [Defense Links]({{'/defense-links/' | relative_url }})
-- [Forgery Logic]({{'/forgery-logic/' | relative_url }})
-- [Odd Fit]({{'/odd-fit/' | relative_url }})
-- [Record Trail]({{'/record-trail/' | relative_url }})
-- [UFO Books]({{'/ufo-books/' | relative_url }})
-- [Cover Theory]({{'/cover-theory/' | relative_url }})
+- [Defense Links]({{ '/defense-links/' | relative_url }})
+- [Forgery Logic]({{ '/forgery-logic/' | relative_url }})
+- [Odd Fit]({{ '/odd-fit/' | relative_url }})
+- [Record Trail]({{ '/record-trail/' | relative_url }})
+- [UFO Books]({{ '/ufo-books/' | relative_url }})
+- [Cover Theory]({{ '/cover-theory/' | relative_url }})

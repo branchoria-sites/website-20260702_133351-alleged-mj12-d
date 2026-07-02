@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "generated_at_utc": "2026-07-02T17:50:29.958316Z",
+  "generated_at_utc": "2026-07-02T19:09:32.020727Z",
   "incremental_enabled": true,
   "files": {
     "alleged_mj12_documen_5d9d42": {
@@ -2969,16 +2969,16 @@
         "basename": "alleged_mj12_documen_5d9d42",
         "title": "The Alleged MJ 12 Documents",
         "permalink": "/the-alleged-mj-12-documents/",
-        "word_count": 7575,
-        "char_count": 64136,
-        "line_count": 427,
+        "word_count": 7448,
+        "char_count": 63119,
+        "line_count": 425,
         "heading_count": 10,
         "h2_count": 9,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 3,
-        "url_count": 137,
+        "url_count": 136,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -3010,14 +3010,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 76,
+            "line": 74,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 189,
+            "line": 187,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -3105,16 +3105,16 @@
         "basename": "alleged_mj12_documen_5d9d42_gao_review_86e803",
         "title": "What the GAO Said About MJ 12",
         "permalink": "/gao-review/",
-        "word_count": 8310,
-        "char_count": 69410,
-        "line_count": 447,
+        "word_count": 8173,
+        "char_count": 68421,
+        "line_count": 445,
         "heading_count": 10,
         "h2_count": 9,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 148,
+        "url_count": 147,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -3146,14 +3146,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 87,
+            "line": 85,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 200,
+            "line": 198,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -3646,8 +3646,8 @@
         "title": "Why the FBI File Did Not Confirm MJ 12",
         "permalink": "/fbi-file/",
         "word_count": 7854,
-        "char_count": 66163,
-        "line_count": 437,
+        "char_count": 66159,
+        "line_count": 435,
         "heading_count": 9,
         "h2_count": 8,
         "h3_count": 1,
@@ -3686,14 +3686,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 71,
+            "line": 69,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 184,
+            "line": 182,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -3917,16 +3917,16 @@
         "basename": "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5",
         "title": "What Archives Can and Cannot Prove",
         "permalink": "/archive-limits/",
-        "word_count": 7547,
-        "char_count": 65486,
-        "line_count": 424,
+        "word_count": 7408,
+        "char_count": 64463,
+        "line_count": 422,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 135,
+        "url_count": 134,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -3958,14 +3958,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 78,
+            "line": 76,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 191,
+            "line": 189,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -4053,16 +4053,16 @@
         "basename": "alleged_mj12_documen_5d9d42_nathan_twining_72c2af",
         "title": "Why Nathan Twining Became an MJ 12 Anchor",
         "permalink": "/twining/",
-        "word_count": 7736,
-        "char_count": 66215,
-        "line_count": 386,
+        "word_count": 7621,
+        "char_count": 65321,
+        "line_count": 384,
         "heading_count": 9,
         "h2_count": 8,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 115,
+        "url_count": 114,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -4094,14 +4094,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 82,
+            "line": 80,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 195,
+            "line": 193,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -4190,8 +4190,8 @@
         "title": "The Air Force Verdict on MJ 12",
         "permalink": "/afosi/",
         "word_count": 7083,
-        "char_count": 60877,
-        "line_count": 393,
+        "char_count": 60873,
+        "line_count": 391,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -4230,14 +4230,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 61,
+            "line": 59,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 174,
+            "line": 172,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -4461,16 +4461,16 @@
         "basename": "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83",
         "title": "The Researchers Who Rebuilt MJ 12's Origins",
         "permalink": "/sparks-greenwood/",
-        "word_count": 7831,
-        "char_count": 68352,
-        "line_count": 372,
+        "word_count": 7717,
+        "char_count": 67403,
+        "line_count": 370,
         "heading_count": 9,
         "h2_count": 8,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 115,
+        "url_count": 114,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -4502,14 +4502,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 79,
+            "line": 77,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 192,
+            "line": 190,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -4733,16 +4733,16 @@
         "basename": "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f",
         "title": "Why MJ 12 Authentication Falls Apart",
         "permalink": "/authenticity/",
-        "word_count": 6886,
-        "char_count": 59933,
-        "line_count": 374,
+        "word_count": 6757,
+        "char_count": 58934,
+        "line_count": 370,
         "heading_count": 9,
         "h2_count": 8,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 114,
+        "url_count": 113,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -4774,14 +4774,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 73,
+            "line": 69,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 186,
+            "line": 182,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -4869,16 +4869,16 @@
         "basename": "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8",
         "title": "Why NSC Records Are Silent on MJ 12",
         "permalink": "/nsc-silence/",
-        "word_count": 6395,
-        "char_count": 55850,
-        "line_count": 376,
+        "word_count": 6097,
+        "char_count": 53598,
+        "line_count": 372,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 116,
+        "url_count": 114,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -4910,14 +4910,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 56,
+            "line": 52,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 169,
+            "line": 165,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -5141,16 +5141,16 @@
         "basename": "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770",
         "title": "Bill Moore and the MJ 12 Backchannel Story",
         "permalink": "/bill-moore/",
-        "word_count": 7009,
-        "char_count": 62043,
-        "line_count": 405,
+        "word_count": 6757,
+        "char_count": 60167,
+        "line_count": 401,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 132,
+        "url_count": 130,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -5182,14 +5182,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 63,
+            "line": 59,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 176,
+            "line": 172,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -5413,16 +5413,16 @@
         "basename": "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7",
         "title": "How the MJ 12 Papers First Surfaced",
         "permalink": "/film-roll/",
-        "word_count": 8364,
-        "char_count": 69319,
-        "line_count": 418,
+        "word_count": 8213,
+        "char_count": 68264,
+        "line_count": 416,
         "heading_count": 10,
         "h2_count": 9,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 130,
+        "url_count": 129,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -5454,14 +5454,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 91,
+            "line": 89,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 204,
+            "line": 202,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -5685,16 +5685,16 @@
         "basename": "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6",
         "title": "The One Archived MJ 12 Memo That Backfired",
         "permalink": "/cutler-memo/",
-        "word_count": 7185,
-        "char_count": 61399,
-        "line_count": 380,
+        "word_count": 7038,
+        "char_count": 60257,
+        "line_count": 378,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 118,
+        "url_count": 117,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -5726,14 +5726,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 70,
+            "line": 68,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 183,
+            "line": 181,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -5959,8 +5959,8 @@
         "title": "The Extraordinary Recovery Claims Inside MJ 12",
         "permalink": "/recoveries/",
         "word_count": 7912,
-        "char_count": 67555,
-        "line_count": 445,
+        "char_count": 67551,
+        "line_count": 443,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -5999,14 +5999,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 74,
+            "line": 72,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 187,
+            "line": 185,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -6230,16 +6230,16 @@
         "basename": "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd",
         "title": "The Travel Date That Hurt MJ 12",
         "permalink": "/cutler-timing/",
-        "word_count": 7938,
-        "char_count": 67110,
-        "line_count": 441,
+        "word_count": 7803,
+        "char_count": 66109,
+        "line_count": 439,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 146,
+        "url_count": 145,
         "youtube_embed_count": 3,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -6271,14 +6271,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 69,
+            "line": 67,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 182,
+            "line": 180,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -6775,8 +6775,8 @@
         "title": "What the National Archives Did Not Find",
         "permalink": "/archives/",
         "word_count": 8190,
-        "char_count": 70688,
-        "line_count": 396,
+        "char_count": 70684,
+        "line_count": 394,
         "heading_count": 12,
         "h2_count": 11,
         "h3_count": 1,
@@ -6815,14 +6815,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 103,
+            "line": 101,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 216,
+            "line": 214,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -7047,8 +7047,8 @@
         "title": "Did Truman Really Authorise MJ 12?",
         "permalink": "/truman-memo/",
         "word_count": 9318,
-        "char_count": 77919,
-        "line_count": 535,
+        "char_count": 77915,
+        "line_count": 533,
         "heading_count": 11,
         "h2_count": 10,
         "h3_count": 1,
@@ -7087,14 +7087,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 93,
+            "line": 91,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 206,
+            "line": 204,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -7235,8 +7235,8 @@
         "title": "Why Agencies Could Not Verify MJ 12",
         "permalink": "/agency-answers/",
         "word_count": 5618,
-        "char_count": 49357,
-        "line_count": 331,
+        "char_count": 49353,
+        "line_count": 329,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -7275,14 +7275,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 75,
+            "line": 73,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 188,
+            "line": 186,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -7705,8 +7705,8 @@
         "title": "The Missing Presidential Paper Trail",
         "permalink": "/library-searches/",
         "word_count": 5873,
-        "char_count": 52687,
-        "line_count": 317,
+        "char_count": 52683,
+        "line_count": 315,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -7745,14 +7745,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 68,
+            "line": 66,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 181,
+            "line": 179,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -7799,8 +7799,8 @@
         "title": "Did Aquarius Become the MJ 12 Template?",
         "permalink": "/aquarius-link/",
         "word_count": 5933,
-        "char_count": 52988,
-        "line_count": 314,
+        "char_count": 52984,
+        "line_count": 312,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -7839,14 +7839,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 68,
+            "line": 66,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 181,
+            "line": 179,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -8457,8 +8457,8 @@
         "title": "How the Briefing Turned Roswell Into Origin Myth",
         "permalink": "/briefing-story/",
         "word_count": 6105,
-        "char_count": 55481,
-        "line_count": 339,
+        "char_count": 55477,
+        "line_count": 337,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -8497,14 +8497,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 73,
+            "line": 71,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 186,
+            "line": 184,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -8551,8 +8551,8 @@
         "title": "What Happened Before MJ 12 Went Public?",
         "permalink": "/release-gap/",
         "word_count": 6359,
-        "char_count": 56169,
-        "line_count": 347,
+        "char_count": 56165,
+        "line_count": 345,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -8591,14 +8591,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 69,
+            "line": 67,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 182,
+            "line": 180,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -11837,8 +11837,8 @@
         "title": "Why the FBI Called MJ 12 Bogus",
         "permalink": "/fbi-file-dec45b/",
         "word_count": 5690,
-        "char_count": 49614,
-        "line_count": 349,
+        "char_count": 49610,
+        "line_count": 347,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -11877,14 +11877,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 70,
+            "line": 68,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 183,
+            "line": 181,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -12683,8 +12683,8 @@
         "title": "Was Roswell Debris a Balloon or Craft?",
         "permalink": "/mogul-vs-saucer/",
         "word_count": 5822,
-        "char_count": 51958,
-        "line_count": 328,
+        "char_count": 51950,
+        "line_count": 324,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -12723,14 +12723,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 56,
+            "line": 52,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 169,
+            "line": 165,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -13435,8 +13435,8 @@
         "title": "The Speech That Broke Moore's Credibility",
         "permalink": "/mufon-speech/",
         "word_count": 5804,
-        "char_count": 51945,
-        "line_count": 343,
+        "char_count": 51941,
+        "line_count": 341,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -13475,14 +13475,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 63,
+            "line": 61,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 176,
+            "line": 174,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -13811,8 +13811,8 @@
         "title": "The Career Move MJ 12 Needed",
         "permalink": "/defense-bridge/",
         "word_count": 7361,
-        "char_count": 65891,
-        "line_count": 368,
+        "char_count": 65887,
+        "line_count": 366,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -13851,14 +13851,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 60,
+            "line": 58,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 173,
+            "line": 171,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -14187,8 +14187,8 @@
         "title": "What Official Reviews Found About Alien Recovery",
         "permalink": "/official-reviews/",
         "word_count": 6869,
-        "char_count": 60858,
-        "line_count": 369,
+        "char_count": 60856,
+        "line_count": 368,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -14227,14 +14227,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 78,
+            "line": 77,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 191,
+            "line": 190,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -14563,8 +14563,8 @@
         "title": "Why the BOGUS stamp was not the whole story",
         "permalink": "/bogus-stamp/",
         "word_count": 5829,
-        "char_count": 51988,
-        "line_count": 310,
+        "char_count": 51984,
+        "line_count": 308,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -14603,14 +14603,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 57,
+            "line": 55,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 170,
+            "line": 168,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -15315,8 +15315,8 @@
         "title": "How Bennewitz Became a UFO Myth Engine",
         "permalink": "/bennewitz-loop/",
         "word_count": 6475,
-        "char_count": 57316,
-        "line_count": 349,
+        "char_count": 57312,
+        "line_count": 347,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -15355,14 +15355,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 82,
+            "line": 80,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 195,
+            "line": 193,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -15502,16 +15502,16 @@
         "basename": "alleged_mj12_documen_5d9d42_aquarius_material_0657de_real_project_aquariu_3cae19",
         "title": "When a Real Code Name Misleads",
         "permalink": "/real-aquarius/",
-        "word_count": 6141,
-        "char_count": 54826,
-        "line_count": 335,
+        "word_count": 6045,
+        "char_count": 54072,
+        "line_count": 334,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 0,
-        "url_count": 89,
+        "url_count": 88,
         "youtube_embed_count": 2,
         "selected_youtube_video_count": 0,
         "selected_youtube_video_ids": [],
@@ -15543,14 +15543,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 74,
+            "line": 73,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 187,
+            "line": 186,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -17383,8 +17383,8 @@
         "title": "Who Framed MJ 12 for the Public?",
         "permalink": "/gatekeepers/",
         "word_count": 5628,
-        "char_count": 50577,
-        "line_count": 320,
+        "char_count": 50569,
+        "line_count": 316,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -17423,14 +17423,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 58,
+            "line": 54,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 171,
+            "line": 167,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -17477,8 +17477,8 @@
         "title": "Why the Shandera Film Roll Matters",
         "permalink": "/film-roll-673773/",
         "word_count": 6076,
-        "char_count": 55003,
-        "line_count": 326,
+        "char_count": 54999,
+        "line_count": 324,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -17517,14 +17517,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 64,
+            "line": 62,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 177,
+            "line": 175,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -17853,8 +17853,8 @@
         "title": "When a security marking dates a document badly",
         "permalink": "/wrong-marking/",
         "word_count": 5754,
-        "char_count": 53109,
-        "line_count": 321,
+        "char_count": 53105,
+        "line_count": 319,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -17893,14 +17893,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 62,
+            "line": 60,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 175,
+            "line": 173,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -18417,8 +18417,8 @@
         "title": "The Archive Find That Did Not Settle MJ 12",
         "permalink": "/archive-detour/",
         "word_count": 6180,
-        "char_count": 56325,
-        "line_count": 320,
+        "char_count": 56321,
+        "line_count": 318,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -18457,14 +18457,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 66,
+            "line": 64,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 179,
+            "line": 177,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -19827,8 +19827,8 @@
         "title": "Why Known UFO Projects Helped MJ 12 Sound Real",
         "permalink": "/ufo-projects/",
         "word_count": 6344,
-        "char_count": 56025,
-        "line_count": 361,
+        "char_count": 56021,
+        "line_count": 359,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -19867,14 +19867,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 93,
+            "line": 91,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 206,
+            "line": 204,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -21143,8 +21143,8 @@
         "title": "The Filing Number That Wasn't There",
         "permalink": "/register-gap/",
         "word_count": 5643,
-        "char_count": 51142,
-        "line_count": 302,
+        "char_count": 51138,
+        "line_count": 300,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
@@ -21183,14 +21183,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 47,
+            "line": 45,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 160,
+            "line": 158,
             "labels": [
               "unresolved_plain_citation"
             ],
@@ -23775,8 +23775,8 @@
         "title": "Why Presidential Control Changed the MJ 12 Story",
         "permalink": "/control-claim/",
         "word_count": 5966,
-        "char_count": 54628,
-        "line_count": 332,
+        "char_count": 54624,
+        "line_count": 330,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
@@ -23815,14 +23815,14 @@
         "hide_from_navigation": false,
         "issue_samples": [
           {
-            "line": 79,
+            "line": 77,
             "labels": [
               "unresolved_plain_citation"
             ],
             "text": "else if (navigator.language) languages = [navigator.language];"
           },
           {
-            "line": 192,
+            "line": 190,
             "labels": [
               "unresolved_plain_citation"
             ],

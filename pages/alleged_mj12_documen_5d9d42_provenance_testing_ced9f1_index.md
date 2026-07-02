@@ -16,11 +16,11 @@ parent_permalink: /provenance/
 
 # Explore Topics in Provenance
 
-The following pages expand on the main **[Provenance]({{'/provenance/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Provenance]({{ '/provenance/' | relative_url }})** page and cover its key branches in.
 
-- [Markings]({{'/markings-bd0e62/' | relative_url }})
-- [Secret Trails]({{'/secret-trails/' | relative_url }})
-- [Copy Problem]({{'/copy-problem/' | relative_url }})
-- [FBI Review]({{'/fbi-review/' | relative_url }})
-- [GAO Test]({{'/gao-test/' | relative_url }})
-- [Missing Indexes]({{'/missing-indexes/' | relative_url }})
+- [Markings]({{ '/markings-bd0e62/' | relative_url }})
+- [Secret Trails]({{ '/secret-trails/' | relative_url }})
+- [Copy Problem]({{ '/copy-problem/' | relative_url }})
+- [FBI Review]({{ '/fbi-review/' | relative_url }})
+- [GAO Test]({{ '/gao-test/' | relative_url }})
+- [Missing Indexes]({{ '/missing-indexes/' | relative_url }})

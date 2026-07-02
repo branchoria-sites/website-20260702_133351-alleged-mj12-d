@@ -16,11 +16,11 @@ parent_permalink: /recoveries/
 
 # Explore Topics in Recoveries
 
-The following pages expand on the main **[Recoveries]({{'/recoveries/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Recoveries]({{ '/recoveries/' | relative_url }})** page and cover its key branches in.
 
-- [EBE Label]({{'/ebe-label/' | relative_url }})
-- [Official Reviews]({{'/official-reviews/' | relative_url }})
-- [Mogul vs Saucer]({{'/mogul-vs-saucer/' | relative_url }})
-- [Archive Gap]({{'/archive-gap/' | relative_url }})
-- [Roswell Bodies]({{'/roswell-bodies/' | relative_url }})
-- [SOM Procedures]({{'/som-procedures/' | relative_url }})
+- [EBE Label]({{ '/ebe-label/' | relative_url }})
+- [Official Reviews]({{ '/official-reviews/' | relative_url }})
+- [Mogul vs Saucer]({{ '/mogul-vs-saucer/' | relative_url }})
+- [Archive Gap]({{ '/archive-gap/' | relative_url }})
+- [Roswell Bodies]({{ '/roswell-bodies/' | relative_url }})
+- [SOM Procedures]({{ '/som-procedures/' | relative_url }})

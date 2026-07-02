@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T17:51:34.806221Z",
+  "generated_at_utc": "2026-07-02T19:10:34.175327Z",
   "summary": {
     "total_pages_with_permalink": 242,
     "visible_pages": 211,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 1453,
+    "inline_internal_edge_count": 1451,
     "inline_internal_target_page_count": 211,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
     "visible_pages_with_inline_outbound_links": 210,
-    "average_inline_inbound_links_per_visible_page": 6.89,
+    "average_inline_inbound_links_per_visible_page": 6.88,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -60,7 +60,7 @@
         "basename": "alleged_mj12_documen_5d9d42_nathan_twining_72c2af",
         "title": "Twining",
         "permalink": "/twining/",
-        "inline_inbound_count": 70
+        "inline_inbound_count": 69
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_classification_flaws_95e345_top_secret_not_enoug_47fad3",
@@ -231,12 +231,6 @@
         "inline_inbound_count": 5
       },
       {
-        "basename": "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_albuquerque_postmark_c3109d",
-        "title": "Postmark",
-        "permalink": "/postmark/",
-        "inline_inbound_count": 5
-      },
-      {
         "basename": "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_secret_proj_6a2879",
         "title": "Code Names",
         "permalink": "/code-names/",
@@ -264,6 +258,12 @@
         "basename": "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c",
         "title": "Filing Anomalies",
         "permalink": "/filing-anomalies/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75",
+        "title": "Filing Gap",
+        "permalink": "/filing-gap/",
         "inline_inbound_count": 4
       }
     ],
