@@ -1,0 +1,2928 @@
+{
+  "generated_at": "2026-07-02T13:24:05",
+  "passed": true,
+  "baseline": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 211,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "alleged_mj12_documen_5d9d42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_dallas_request_class_df22d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_fbi_closure_bogus_ve_45b242": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_forged_classified_ma_bb5051": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_gao_reinforced_bogus_035924": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_osi_role_authenticit_47e378": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_unresolved_forger_qu_aa8155": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_archive_sea_9a85a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_memo_mj12_b_ba1d95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_secret_proj_6a2879": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_bennewitz_kirtland_l_0a8d6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_foia_ufo_document_cu_0cbd58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_real_project_aquariu_3cae19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_blue_book_archive_li_1c63f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_cutler_twining_archi_e261ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_foia_limits_ufo_sear_37df79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_missing_records_stro_42c859": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_uap_records_collecti_766d04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_unidentified_uap_dat_ca9180": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_cutler_twining_memo_b4b4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_fbi_bogus_finding_85393a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_gao_mj12_review_777f8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_classification_230b77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_provenance_test_9c21c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_nara_mj12_searches_1e326c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_cutler_twining_archi_2f8001": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_doty_contact_channel_ef01fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_mj12_custody_trail_60a2ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_mj12_public_gatekeep_b135f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_moore_mufon_trust_b56b3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_shandera_film_proven_5cade1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_copy_one_accountabil_414388": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_eisenhower_marking_r_ae349f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_magic_to_majic_recyc_e27780": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_majic_codeword_trail_fc4584": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_nara_cutler_marking_2768ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_top_secret_not_enoug_47fad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_custody_not_authenti_e9c6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_cutler_travel_gap_edaa23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_july_16_briefing_gap_75ad6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_lay_coyne_delegation_741652": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_secret_meeting_expla_54b746": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_archive_copy_authent_8119b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_classification_marki_b3171b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_cutler_travel_confli_5de7cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_missing_briefing_tra_112fc2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_paper_letterhead_clu_168e05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_defense_links_89fa67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_forgery_logic_da1ba0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_record_trail_54346d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_ufo_books_d742c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_skeptic_cover_argume_63276e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_cia_transition_brief_3efb37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_eisenhower_truman_ti_ed5786": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_el_indio_crash_claim_855687": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_roswell_recovery_pro_e374c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_sign_grudge_bluebook_61d109": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_air_force_fbi_review_1bbda8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_bureaucratic_theatre_1e9835": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_classified_markings_5c1fd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_dallas_1988_case_ope_b9646e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_fbi_vault_authentica_dc8aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_salt_lake_lobby_copy_022027": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_air_force_bogus_find_2870d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_archives_mj12_custod_097968": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_fbi_custody_authenti_74d044": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_foia_release_misread_696d80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_mj12_screenshot_clai_ed06ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_read_fbi_vault_ufo_f_faca61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_agency_origin_gap_26332e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_isoo_classification_df8d11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_mj12_burden_shift_be83ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_mj_twelve_message_fo_82f0a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_roswell_records_limi_5fdeb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_eberstadt_secrecy_ar_d623d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_first_nsc_meeting_1c00b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_authorizat_25bf22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_death_vaca_b37496": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_intel_memo_5b73e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_borrowed_credibility_370ca8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_bush_borrowed_author_8a79cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_early_intel_chiefs_89c7b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_forrestal_defence_ho_d919ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_mj12_committee_illus_ae93d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_science_aerospace_ca_c76e4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_archives_missing_mee_d7ef43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cutler_absence_sende_e30694": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_july_1954_calendar_t_445dcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_off_record_secret_me_fbd7d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_air_materiel_command_f49a34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_blue_book_twining_na_c0aef9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_twining_archi_87eb71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_rank_plausibility_au_be11dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_twining_1947_memo_li_b6e87b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_classification_paper_b05013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_cutler_absence_probl_e706e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_mj12_search_terms_fcdaff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_searched_archives_tr_b39a7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_classification_wordi_9cb1e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_custody_not_authenti_e9c6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_cutler_travel_proble_7d0df1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_eisenhower_nsc_paper_997d00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_missing_july_1954_me_d480c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_nsc_index_silence_d4f3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_cutler_twining_trap_34d203": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_famous_names_authori_2260b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_fbi_file_attention_aee14b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_missing_admin_shadow_96be72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_precise_dates_verifi_9de528": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_repetition_familiari_926617": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_aquarius_mj12_bridge_1c260f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_aquarius_project_fic_ef1c45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_doty_moore_pratt_cha_c6256e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_eisenhower_transitio_d9a95e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_pratt_recordings_evi_551286": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_roswell_research_fee_414019": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_classification_marki_31bab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_classified_record_tr_c7aa8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_copies_vs_originals_8c4dd9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_fbi_hoax_review_ad7fad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_gao_origin_test_055eed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_missing_indexes_78f5bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_failed_agency_search_19f3a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_missing_ts_number_833276": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_nsc_index_gap_c2ebc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_ts_control_officers_8adfe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_eisenhower_briefing_bce18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_debris_vs_al_04006b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_missing_pape_5e669b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_mj12_necessi_69a469": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_press_revers_3d2746": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_revival_mj12_65fe52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_albuquerque_postmark_c3109d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_film_roll_authentici_4002ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_missing_paper_tests_c23ac3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_shandera_research_ci_942247": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_aquarius_eisenhower_0b9e51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_bogus_stamp_not_enou_dcbee5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_dead_named_officials_d70370": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_pratt_timing_test_d28466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_private_leak_provena_454960": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_typewriter_clues_dot_e5b4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_executive_order_clai_a4d452": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_missing_follow_on_re_0e0ec5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_presidential_control_38d305": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_meeting_camou_67f598": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_signature_cop_96603b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_fbi_file_mj12_lore_656169": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_mj12_bureaucracy_c1a856": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_official_denial_loop_f3491a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_official_paperwork_p_fa7f5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_roswell_system_story_3e429d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_xfiles_mj12_suspicio_04d5ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_ebe_label_evidence_c8cb13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_gao_aaro_reviews_7a04ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_mogul_vs_saucer_eaff1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_national_archives_ga_b74f5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_roswell_body_records_cd974f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_som_recovery_procedu_b197b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_lab_access_sign_77d58d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_missing_archive_fa308b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_rdb_timing_hook_be111f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_wartime_plausib_da1db1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_science_authority_pe_ec453c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_truman_bush_signatur_912cc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 211,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "alleged_mj12_documen_5d9d42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_dallas_request_class_df22d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_fbi_closure_bogus_ve_45b242": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_forged_classified_ma_bb5051": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_gao_reinforced_bogus_035924": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_osi_role_authenticit_47e378": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_unresolved_forger_qu_aa8155": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_archive_sea_9a85a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_memo_mj12_b_ba1d95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_secret_proj_6a2879": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_bennewitz_kirtland_l_0a8d6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_foia_ufo_document_cu_0cbd58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_aquarius_material_0657de_real_project_aquariu_3cae19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_blue_book_archive_li_1c63f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_cutler_twining_archi_e261ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_foia_limits_ufo_sear_37df79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_missing_records_stro_42c859": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_uap_records_collecti_766d04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_archive_limits_3f5bb5_unidentified_uap_dat_ca9180": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_cutler_twining_memo_b4b4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_fbi_bogus_finding_85393a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_gao_mj12_review_777f8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_classification_230b77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_provenance_test_9c21c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_nara_mj12_searches_1e326c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_cutler_twining_archi_2f8001": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_doty_contact_channel_ef01fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_mj12_custody_trail_60a2ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_mj12_public_gatekeep_b135f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_moore_mufon_trust_b56b3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_shandera_film_proven_5cade1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_copy_one_accountabil_414388": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_eisenhower_marking_r_ae349f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_magic_to_majic_recyc_e27780": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_majic_codeword_trail_fc4584": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_nara_cutler_marking_2768ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_classification_flaws_95e345_top_secret_not_enoug_47fad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_custody_not_authenti_e9c6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_cutler_travel_gap_edaa23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_july_16_briefing_gap_75ad6a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_lay_coyne_delegation_741652": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_secret_meeting_expla_54b746": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_archive_copy_authent_8119b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_classification_marki_b3171b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_cutler_travel_confli_5de7cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_missing_briefing_tra_112fc2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_paper_letterhead_clu_168e05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_defense_links_89fa67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_forgery_logic_da1ba0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_record_trail_54346d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_ufo_books_d742c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_skeptic_cover_argume_63276e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_cia_transition_brief_3efb37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_eisenhower_truman_ti_ed5786": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_el_indio_crash_claim_855687": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_roswell_recovery_pro_e374c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_sign_grudge_bluebook_61d109": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_air_force_fbi_review_1bbda8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_bureaucratic_theatre_1e9835": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_classified_markings_5c1fd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_dallas_1988_case_ope_b9646e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_fbi_vault_authentica_dc8aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_salt_lake_lobby_copy_022027": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_air_force_bogus_find_2870d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_archives_mj12_custod_097968": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_fbi_custody_authenti_74d044": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_foia_release_misread_696d80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_mj12_screenshot_clai_ed06ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_read_fbi_vault_ufo_f_faca61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_agency_origin_gap_26332e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_isoo_classification_df8d11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_mj12_burden_shift_be83ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_mj_twelve_message_fo_82f0a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_gao_review_86e803_roswell_records_limi_5fdeb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_eberstadt_secrecy_ar_d623d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_first_nsc_meeting_1c00b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_authorizat_25bf22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_death_vaca_b37496": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_intel_memo_5b73e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_borrowed_credibility_370ca8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_bush_borrowed_author_8a79cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_early_intel_chiefs_89c7b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_forrestal_defence_ho_d919ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_mj12_committee_illus_ae93d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_science_aerospace_ca_c76e4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_archives_missing_mee_d7ef43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cutler_absence_sende_e30694": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_july_1954_calendar_t_445dcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_off_record_secret_me_fbd7d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_air_materiel_command_f49a34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_blue_book_twining_na_c0aef9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_twining_archi_87eb71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_rank_plausibility_au_be11dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_twining_1947_memo_li_b6e87b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_classification_paper_b05013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_cutler_absence_probl_e706e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_mj12_search_terms_fcdaff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_searched_archives_tr_b39a7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_classification_wordi_9cb1e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_custody_not_authenti_e9c6a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_cutler_travel_proble_7d0df1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_eisenhower_nsc_paper_997d00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_missing_july_1954_me_d480c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_nsc_index_silence_d4f3b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_cutler_twining_trap_34d203": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_famous_names_authori_2260b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_fbi_file_attention_aee14b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_missing_admin_shadow_96be72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_precise_dates_verifi_9de528": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba_repetition_familiari_926617": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_aquarius_mj12_bridge_1c260f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_aquarius_project_fic_ef1c45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_doty_moore_pratt_cha_c6256e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_eisenhower_transitio_d9a95e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_pratt_recordings_evi_551286": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_roswell_research_fee_414019": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_classification_marki_31bab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_classified_record_tr_c7aa8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_copies_vs_originals_8c4dd9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_fbi_hoax_review_ad7fad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_gao_origin_test_055eed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1_missing_indexes_78f5bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_failed_agency_search_19f3a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_missing_ts_number_833276": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_nsc_index_gap_c2ebc7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_ts_control_officers_8adfe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_eisenhower_briefing_bce18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_debris_vs_al_04006b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_missing_pape_5e669b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_mj12_necessi_69a469": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_press_revers_3d2746": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_revival_mj12_65fe52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_albuquerque_postmark_c3109d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_film_roll_authentici_4002ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_missing_paper_tests_c23ac3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_shandera_research_ci_942247": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_aquarius_eisenhower_0b9e51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_bogus_stamp_not_enou_dcbee5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_dead_named_officials_d70370": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_pratt_timing_test_d28466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_private_leak_provena_454960": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_typewriter_clues_dot_e5b4f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_executive_order_clai_a4d452": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_missing_follow_on_re_0e0ec5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_presidential_control_38d305": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_meeting_camou_67f598": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_signature_cop_96603b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_fbi_file_mj12_lore_656169": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_mj12_bureaucracy_c1a856": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_official_denial_loop_f3491a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_official_paperwork_p_fa7f5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_roswell_system_story_3e429d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_xfiles_mj12_suspicio_04d5ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_ebe_label_evidence_c8cb13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_gao_aaro_reviews_7a04ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_mogul_vs_saucer_eaff1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_national_archives_ga_b74f5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_roswell_body_records_cd974f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_som_recovery_procedu_b197b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_lab_access_sign_77d58d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_missing_archive_fa308b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_rdb_timing_hook_be111f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_bush_wartime_plausib_da1db1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_science_authority_pe_ec453c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "alleged_mj12_documen_5d9d42_vannevar_bush_ca13d6_truman_bush_signatur_912cc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 242,
+  "regressions": []
+}

@@ -1,0 +1,656 @@
+---
+level: 3
+basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987
+parent_basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de
+child_basenames: []
+sibling_basenames:
+- alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8
+- alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_archives_missing_mee_d7ef43
+- alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cutler_absence_sende_e30694
+- alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_july_1954_calendar_t_445dcf
+- alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_off_record_secret_me_fbd7d7
+tags:
+- alleged-mj-12-documen
+- missing-meeting
+- cabinet-slot
+keywords:
+- alleged-mj-12-documen
+- missing-meeting
+- cabinet-slot
+affiliate_category: alleged-mj-12-documen
+show_ads: true
+description: The detailed 9:00 a.m.
+hero_summary: The detailed 9:00 a.m.
+layout: default
+permalink: /cabinet-slot/
+sidebar_expanded_urls:
+- /the-alleged-mj-12-documents/
+- /missing-meeting/
+nav_short_title: Cabinet Slot
+title: The Cabinet Meeting That Crowded the Claim
+title_full: The Cabinet Meeting That Crowded the Claim
+display_title_short: Cabinet Slot
+display_title: Cabinet Slot
+heading_title: The Cabinet Meeting That Crowded the Claim
+page_heading_title: The Cabinet Meeting That Crowded the Claim
+source_count: 26
+infographic_count: 3
+planned_sections:
+- Who was listed at the Cabinet meeting
+- Why named attendees matter
+- Where the alleged briefing would have had to fit
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: single_case_aspect
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix:'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template:'{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: The MJ 12 Meeting That Records Do Not Show
+parent_permalink: /missing-meeting/
+parent_nav_short_title: Missing Meeting
+parent_heading_title: The MJ 12 Meeting That Records Do Not Show
+ancestor_links:
+- basename: alleged_mj12_documen_5d9d42
+  title: MJ 12 Files
+  permalink: /the-alleged-mj-12-documents/
+  short_title: MJ 12 Files
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de
+  title: Missing Meeting | Alleged Mj 12 Documen
+  permalink: /missing-meeting/
+  short_title: Missing Meeting
+  heading_title: The MJ 12 Meeting That Records Do Not Show
+breadcrumb_links:
+- basename: alleged_mj12_documen_5d9d42
+  title: MJ 12 Files
+  permalink: /the-alleged-mj-12-documents/
+  short_title: MJ 12 Files
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de
+  title: Missing Meeting | Alleged Mj 12 Documen
+  permalink: /missing-meeting/
+  short_title: Missing Meeting
+  heading_title: The MJ 12 Meeting That Records Do Not Show
+sibling_links:
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_archives_missing_mee_d7ef43
+  title: Archive Trail | Missing Meeting
+  permalink: /archive-trail-02bfe0/
+  short_title: Archive Trail
+  heading_title: Where the Missing Meeting Should Have Appeared
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cutler_absence_sende_e30694
+  title: Cutler Trip | Missing Meeting
+  permalink: /cutler-trip-c289de/
+  short_title: Cutler Trip
+  heading_title: The Sender Problem Behind the Memo
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_july_1954_calendar_t_445dcf
+  title: July Test | Missing Meeting
+  permalink: /july-test/
+  short_title: July Test
+  heading_title: Why One July Day Matters So Much
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8
+  title: Limits | Missing Meeting
+  permalink: /limits/
+  short_title: Limits
+  heading_title: What the Calendar Can and Cannot Prove
+- basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_off_record_secret_me_fbd7d7
+  title: Off Record | Missing Meeting
+  permalink: /off-record/
+  short_title: Off Record
+  heading_title: Did Secrecy Explain the Missing Entry?
+up_link:
+  basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de
+  title: Missing Meeting | Alleged Mj 12 Documen
+  permalink: /missing-meeting/
+  short_title: Missing Meeting
+  heading_title: The MJ 12 Meeting That Records Do Not Show
+prev_link:
+  basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_archives_missing_mee_d7ef43
+  title: Archive Trail | Missing Meeting
+  permalink: /archive-trail-02bfe0/
+  short_title: Archive Trail
+  heading_title: Where the Missing Meeting Should Have Appeared
+next_link:
+  basename: alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cutler_absence_sende_e30694
+  title: Cutler Trip | Missing Meeting
+  permalink: /cutler-trip-c289de/
+  short_title: Cutler Trip
+  heading_title: The Sender Problem Behind the Memo
+date:'2026-06-29 21:00:40'
+header:
+  og_image: /assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-1-social.jpg
+  preview_image: /assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-1.webp
+image: /assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-1-social.jpg
+---
+
+## Introduction
+
+One of the strongest archival arguments against the alleged July 1954 MJ-12 briefing is not simply that no meeting was recorded, but that the specific time window identified by the disputed Cutler–[Twining]({{'twining/' | relative_url }}) memorandum was already occupied by a documented Cabinet meeting. The President's official appointment book for 16 July 1954 records a 9:00 a.m. Cabinet session attended by senior [members]({{'members/' | relative_url }}) of the administration. Rather than showing an unexplained gap into which a secret briefing could comfortably fit, the surviving records depict a structured morning of scheduled government business. This does not make every hypothetical private conversation impossible, but it significantly raises the evidential burden for claims that the alleged MJ-12 briefing occurred as described in the disputed document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects&quot;president Eisenhower&#x27;s Appointment Books contain no entry for a special...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-1-dark.svg" | relative_url }}" alt="Cabinet Slot illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## The Cabinet Meeting That Crowded the Claim
+
+The disputed memorandum attributed to Robert Cutler refers to a briefing connected with an alleged"NSC/MJ-12 Special Studies Project" on 16 July 1954. The difficulty is that the President's schedule for that morning is unusually well documented.
+
+According to the Eisenhower Presidential [Appointment Books]({{'limits/' | relative_url }}), the morning proceeded through a series of identifiable engagements. Following an off-the-record breakfast with Senate Majority Leader William F. Knowland and a meeting with officials from the Farm Credit Administration, the President entered a scheduled Cabinet meeting at 9:00 a.m. The appointment book identifies the meeting rather than leaving the period blank or vaguely reserved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/presidential-appointment-books/1954/july-1954.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eisenhowerlibrary.gov">[Eisenhower Presidential Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eisenhowerlibrary.gov</span><span class="citation-popover-title">july 1954</span><span class="citation-popover-snippet">Eisenhower Presidential Library7:45 am THURSDAY, JULY 1, 1954Hon. Allen &#x27; • Dulles, Director of Central Intelligence. Hon. Robert Cutler...</span><span class="citation-popover-meta">Published: july 1954</span></span></span>
+
+This matters because the alleged briefing is commonly interpreted as having been attached to, or replacing, a White House meeting during this same period. Instead of finding an unexplained opening in the President's diary, researchers find one of the administration's regular formal gatherings.
+
+## Who Was Listed at the Cabinet Meeting?
+
+The appointment records identify numerous senior officials attending the Cabinet meeting, including:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Vice President Richard Nixon.
+* Secretary of State John Foster Dulles.
+* Treasury Secretary George Humphrey.
+* Deputy Secretary of Defense Robert B. Anderson.
+* Attorney General Herbert Brownell Jr.
+* Other Cabinet officers and senior executive officials recorded in the day's schedule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/presidential-appointment-books/1954/july-1954.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eisenhowerlibrary.gov">[Eisenhower Presidential Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eisenhowerlibrary.gov</span><span class="citation-popover-title">july 1954</span><span class="citation-popover-snippet">Eisenhower Presidential Library7:45 am THURSDAY, JULY 1, 1954Hon. Allen &#x27; • Dulles, Director of Central Intelligence. Hon. Robert Cutler...</span><span class="citation-popover-meta">Published: july 1954</span></span></span></div>
+
+This is important because Cabinet meetings were not casual appointments. They brought together the government's highest civilian leadership to discuss administration policy across multiple departments.
+
+The Eisenhower Library's Cabinet Series further confirms that a Cabinet meeting took place on 16 July 1954 and preserves records describing its agenda. Topics included monitoring of telephone communications, foreign economic policy organisation, the St. Lawrence Seaway, employment security issues, manganese procurement, Mexican migratory labour, and an Assistant Secretary for Administration appointment. None of the recorded agenda items refers to unidentified flying objects, an MJ-12 project, or an extraordinary intelligence briefing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/eisenhower-dwight-papers-as-president/cabinet-series.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eisenhowerlibrary.gov">[Eisenhower Presidential Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eisenhowerlibrary.gov</span><span class="citation-popover-snippet">Eisenhower Presidential LibraryPapers as President CABINET SERIESJune 12, 2008 — by C SERIES — Cabinet Meeting of March 12, 1954 [employm...</span><span class="citation-popover-meta">Published: June 12, 2008</span></span></span>
+
+The existence of a documented agenda does not prove that every conversation occurring that morning has survived in the historical record. It does, however, show that historians possess independent evidence describing what the scheduled meeting was expected to address.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
+
+## Why the Named Attendees Matter
+
+The significance of the attendee list extends beyond simple scheduling.
+
+If the disputed memorandum were authentic in the way many supporters interpret it, several possibilities would need supporting evidence:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* the Cabinet meeting would have had to include an undocumented classified briefing unrelated to its recorded agenda;
+* the briefing would have needed to occur immediately before or after the Cabinet meeting without appearing in appointment records;
+* or the memorandum would have referred to a different meeting than the one researchers have generally assumed.</div>
+
+None of these alternatives is supported by surviving White House scheduling evidence.
+
+Moreover, Cabinet meetings were administrative events with known participants. When historians compare appointment books, Cabinet records, [National Security]({{'1947-context/' | relative_url }}) Council documentation and related files, they normally expect at least some overlap between independent record series. In this case, researchers instead encounter a consistent picture of routine executive business rather than corroboration for an exceptional classified session.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects&quot;president Eisenhower&#x27;s Appointment Books contain no entry for a special...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-2-dark.svg" | relative_url }}" alt="Cabinet Slot illustration 2" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Where Would the Alleged Briefing Have Fit?
+
+Supporters of the MJ-12 documents sometimes argue that highly classified meetings would not necessarily appear in public records.
+
+The appointment books themselves complicate that argument.
+
+The National [Archives]({{'archives/' | relative_url }}) notes that even meetings designated"off the record" were ordinarily entered into Eisenhower's appointment books with their scheduled time and participating individuals. The breakfast with Senator Knowland on the same morning is an example: although marked off the record, it still appears in the official schedule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects&quot;president Eisenhower&#x27;s Appointment Books contain no entry for a special...</span></span></span>
+
+Consequently, the issue is not merely that an MJ-12 briefing lacks descriptive detail. Rather, there is no corresponding scheduled time slot matching the alleged event. The documented sequence runs from the breakfast meeting to the Farm Credit meeting, into the 9:00 a.m. Cabinet meeting, and then onward to later scheduled business.
+
+For the alleged briefing to have occurred exactly as described, it would have needed to fit into an already occupied timetable without generating the kind of scheduling entry that comparable official and off-the-record meetings routinely received.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
+
+## Comparing the Cabinet Record with the MJ-12 Claim
+
+Viewed narrowly, the Cabinet evidence does not independently prove that the Cutler–Twining memorandum is forged. Historical documents can occasionally describe meetings that left incomplete paper trails.
+
+What the Cabinet evidence does provide is a direct factual comparison:
+
+Historical recordAlleged briefing claim9:00 a.m. Cabinet meeting documented in appointment booksSecret MJ-12 briefing allegedly associated with the same date and meeting periodNamed senior officials and recorded government agendaNo corroborating participant list or official agendaCabinet files preserved for the meetingNo corresponding White House or NSC documentation confirming the alleged briefingAppointment books routinely recorded even off-the-record meetingsNo appointment entry matching the alleged MJ-12 session
+
+This comparison explains why historians and archivists frequently regard the Cabinet meeting as one of the strongest chronological objections to the alleged briefing. It is not simply an argument from silence; it is a conflict between a documented official event and an extraordinary claim that lacks independent corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects&quot;president Eisenhower&#x27;s Appointment Books contain no entry for a special...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-3-dark.svg" | relative_url }}" alt="Cabinet Slot illustration 3" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What This Means for Assessing the Alleged MJ-12 Documents
+
+Within the broader debate over the alleged MJ-12 papers, the Cabinet meeting occupies a particularly important place because it tests a specific factual claim rather than relying on general scepticism.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e5sn-3smj24" title="Majestic 12 Anatomy of a Conspiracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e5sn-3smj24" target="_blank" rel="noopener noreferrer">Majestic 12 Anatomy of a Conspiracy</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e5sn-3smj24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e5sn-3smj24">Open on YouTube</a></p></div></div></div>
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a></h4><p class="fr-book-author">By Annie Jacobsen</p><p class="fr-book-desc">Explores Cold War secrecy and documentary claims relevant to evaluating MJ-12 narratives.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the Cult of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xi-sAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The CIA and the Cult of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a></h4><p class="fr-book-author">By Victor Marchetti, John Marks</p><p class="fr-book-desc">Supplies historical background on intelligence institutions often referenced in conspiracy and secrecy discussions.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Case closed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/240789-M.jpg" alt="Cover for Case closed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case closed">Case closed</a></h4><p class="fr-book-author">By Gerald L. Posner</p><p class="fr-book-desc">First published 1993. Subjects: Assassination, Assassinat, Mord, Assassinat de JFK, Moorden.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The CIA and the Cult of Intelligence</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{'/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{'/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{'/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{'/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="cabinet-slot-the-cabinet-meeting-that-crowded-the-claim-alleged-mj-12-documen-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket ='';
+    var languageMarket ='';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language ||'';
+  }
+  function inferFromTimezone() {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return'';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] ||'';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();</script><script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label ||'eBay';
+  }
+  function flagClass(marketId) {
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ?'true' :'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey:'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();</script></section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: archives.gov  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects&quot;president Eisenhower&#x27;s Appointment Books contain no entry for a special...</p></details>
+
+2.<a id="endnote-2"></a>
+   Source: history.state.gov  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1952-54v02p1/d120" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1952-54v02p1/d120</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Relations of the United States, 1952–1954...Memorandum of Discussion at the 204th Meeting of the National Security Council, Thursday, J...</p></details>
+
+3.<a id="endnote-3"></a>
+   Source: history.state.gov  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1952-54v13p2/d841" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1952-54v13p2/d841</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Documents - Office of the HistorianThe President&#x27;s appointment book indicates that the meeting occurred at 9:30 a.m...</p></details>
+
+4.<a id="endnote-4"></a>
+   Source: history.state.gov  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1952-54v02p1/d104" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1952-54v02p1/d104</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Documents - Office of the HistorianEisenhower Library, Eisenhower papers, Whitman file. Memorandum of Discussion at the 171st Meeting of...</p></details>
+
+5.<a id="endnote-5"></a>
+   Source: history.state.gov  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1952-54v01p2/comp1?start=91" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1952-54v01p2/comp1?start=91</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Documents - Office of the Historian[118] Memorandum of Discussion at the 205th Meeting of the National Security Council on Thursday, July...</p></details>
+
+6.<a id="endnote-6"></a>
+   Source: archives.gov  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Compilation of Periodical Literature: Genealogy ClusterCompilation of Periodical Literature: Genealogy Cluster. Record Groups: 15, 28, 29...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: archives.gov  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a><details class="endnote-snippet"><summary>Source snippet</summary><p>n the National Archives Catalog.Read more...</p></details>
+
+8.<a id="endnote-8"></a>
+   Source: eisenhowerlibrary.gov  
+   Title: july 1954  
+   Link:<a href="https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/presidential-appointment-books/1954/july-1954.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eisenhowerlibrary.gov/sites/default/files/research/online-documents/presidential-appointment-books/1954/july-1954.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Eisenhower Presidential Library7:45 am THURSDAY, JULY 1, 1954Hon. Allen &#x27; • Dulles, Director of Central Intelligence. Hon. Robert Cutler...</p></details>
+   Published: july 1954  
+
+9.<a id="endnote-9"></a>
+   Source: eisenhowerlibrary.gov  
+   Link:<a href="https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/eisenhower-dwight-papers-as-president/cabinet-series.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/eisenhower-dwight-papers-as-president/cabinet-series.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Eisenhower Presidential LibraryPapers as President CABINET SERIESJune 12, 2008 — by C SERIES — Cabinet Meeting of March 12, 1954 [employm...</p></details>
+   Published: June 12, 2008  
+
+10.<a id="endnote-10"></a>
+   Source: eisenhowerlibrary.gov  
+   Link:<a href="https://www.eisenhowerlibrary.gov/research/presidential-appointment-books" target="_blank" rel="noopener noreferrer nofollow">https://www.eisenhowerlibrary.gov/research/presidential-appointment-books</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Appointment Books12 Jan 2026 — Eisenhower Presidential Appointment Books Series consists of nearly 23,000 pages which cover...</p></details>
+
+11.<a id="endnote-11"></a>
+   Source: sscnet.ucla.edu  
+   Link:<a href="https://www.sscnet.ucla.edu/polisci/faculty/trachtenberg/guide/nsc.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sscnet.ucla.edu/polisci/faculty/trachtenberg/guide/nsc.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARIES OF DISCUSSION: THE EISENHOWER...NSC SUMMARIES OF DISCUSSION: THE EISENHOWER PERIOD. This list was copied from the following...</p></details>
+
+### Additional References
+
+12.<a id="endnote-12"></a>
+   Source: flatlandkc.org  
+   Title: truman eisenhower and the endless pursuit of ufos  
+   Link:<a href="https://flatlandkc.org/news-issues/truman-eisenhower-and-the-endless-pursuit-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://flatlandkc.org/news-issues/truman-eisenhower-and-the-endless-pursuit-of-ufos/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Truman, Eisenhower and the Endless Pursuit of UFOs30 Jun 2022 — The traffic in UFO-related research visits has been a workplace reality f...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>g on July 16, 1954 which might have included a briefing on MJ-12...</p></details>
+   Published: July 16, 1954  
+
+14.<a id="endnote-14"></a>
+   Source: reddit.com  
+   Title: two dates in the mj12 eisenhower briefing  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f36jdu/two_dates_in_the_mj12_eisenhower_briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f36jdu/two_dates_in_the_mj12_eisenhower_briefing/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Two dates in the MJ-12 Eisenhower briefing document can...28 Aug 2024 — The Cutler-Twining Memo (CTM) of July 14, 1954 was found in July...</p></details>
+   Published: July 14, 1954  
+
+15.<a id="endnote-15"></a>
+   Source: bibliotecapleyades.net  
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mj12_10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mj12_10.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1954 which might have included a briefing on MJ-12. Even when the President had &#x27;off the record&#x27; meetings, the Appointment Books...</p></details>
+   Published: July 16, 1954  
+
+16.<a id="endnote-16"></a>
+   Source: scribd.com  
+   Link:<a href="https://www.scribd.com/document/1606041/Majestic-12" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1606041/Majestic-12</a><details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1954. A search of all NSC meetings for July 1954 did not find any mention of MJ-12 or...</p></details>
+   Published: July 16, 1954  
+
+17.<a id="endnote-17"></a>
+   Source: gyatdalf.substack.com  
+   Title: the fourth reich majestic 12s mj  
+   Link:<a href="https://gyatdalf.substack.com/p/the-fourth-reich-majestic-12s-mj" target="_blank" rel="noopener noreferrer nofollow">https://gyatdalf.substack.com/p/the-fourth-reich-majestic-12s-mj</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Fourth Reich, MAJESTIC 12&#x27;s (MJ-12) Smoking Gun...It references a rescheduled briefing on the “NSC/MJ-12 Special Studies Project” to occ...</p></details>
+
+18.<a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Majestic 12 Anatomy of a Conspiracy  
+   Link:<a href="https://www.youtube.com/watch?v=e5sn-3smj24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e5sn-3smj24</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic 12 documents Cutler Twining memo A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check NewsNation...</p></details>
+
+19.<a id="endnote-19"></a>
+   Source: bibliotecapleyades.net  
+   Link:<a href="https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Cutler-Twining Memo A Hoax?&quot;President Eisenhower&#x27;s Appointment Books contain no entry for a special meeting on July 16, 1954 which...</p></details>
+   Published: July 16, 1954  
+
+20.<a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: A secret history: Inside shadow intelligence, the MJ-12 documents  
+   Link:<a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ogJplVuElLs</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ep 020: A Full Reading of the MJ-12 Eisenhower Briefing Document...</p></details>
+
+21.<a id="endnote-21"></a>
+   Source: trumanlibrary.gov  
+   Title: Harry S  
+   Link:<a href="https://www.trumanlibrary.gov/library/truman-papers/harry-s-truman-paperspresidents-secretarys-files" target="_blank" rel="noopener noreferrer nofollow">https://www.trumanlibrary.gov/library/truman-papers/harry-s-truman-paperspresidents-secretarys-files</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Truman Papers: President&#x27;s Secretary&#x27;s FilesThe President&#x27;s Secretary&#x27;s Files include national security and intelligence information, the...</p></details>
