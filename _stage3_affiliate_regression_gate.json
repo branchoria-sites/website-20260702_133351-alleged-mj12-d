@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T13:24:05",
+  "generated_at": "2026-07-02T15:23:55",
   "passed": true,
   "baseline": {
     "article_pages": 242,
-    "amazon_specific_pages": 211,
+    "amazon_specific_pages": 152,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 211,
     "ebay_fallback_pages": 0,
@@ -21,13 +21,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_dallas_request_class_df22d6": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_fbi_closure_bogus_ve_45b242": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -51,13 +51,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_osi_role_authenticit_47e378": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_unresolved_forger_qu_aa8155": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -69,7 +69,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_archive_sea_9a85a9": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -171,13 +171,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_fbi_bogus_finding_85393a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_gao_mj12_review_777f8e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -189,7 +189,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_classification_230b77": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -201,7 +201,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_nara_mj12_searches_1e326c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -219,7 +219,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_doty_contact_channel_ef01fe": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -267,7 +267,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_classification_flaws_95e345_eisenhower_marking_r_ae349f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -285,13 +285,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_classification_flaws_95e345_majic_codeword_trail_fc4584": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_classification_flaws_95e345_nara_cutler_marking_2768ac": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -309,13 +309,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_custody_not_authenti_e9c6a3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_cutler_travel_gap_edaa23": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -333,7 +333,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_lay_coyne_delegation_741652": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -363,7 +363,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_classification_marki_b3171b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -381,13 +381,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_missing_briefing_tra_112fc2": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_paper_letterhead_clu_168e05": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -423,7 +423,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -453,7 +453,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_cia_transition_brief_3efb37": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -471,7 +471,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -483,7 +483,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_roswell_recovery_pro_e374c4": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -501,7 +501,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_air_force_fbi_review_1bbda8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -519,7 +519,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_dallas_1988_case_ope_b9646e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -537,7 +537,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_salt_lake_lobby_copy_022027": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -585,7 +585,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_read_fbi_vault_ufo_f_faca61": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -609,13 +609,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_isoo_classification_df8d11": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_mj12_burden_shift_be83ef": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -627,13 +627,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_roswell_records_limi_5fdeb7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -669,7 +669,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_death_vaca_b37496": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -705,7 +705,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_bush_borrowed_author_8a79cf": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -735,7 +735,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_science_aerospace_ca_c76e4b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -747,7 +747,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -759,7 +759,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -777,13 +777,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_july_1954_calendar_t_445dcf": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_off_record_secret_me_fbd7d7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -825,13 +825,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_rank_plausibility_au_be11dc": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_twining_1947_memo_li_b6e87b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -849,7 +849,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_national_archives_se_919a76_cutler_absence_probl_e706e2": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -873,7 +873,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_national_archives_se_919a76_searched_archives_tr_b39a7c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -897,19 +897,19 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_custody_not_authenti_e9c6a3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_cutler_travel_proble_7d0df1": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_eisenhower_nsc_paper_997d00": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1017,13 +1017,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_pratt_recordings_evi_551286": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_roswell_research_fee_414019": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1095,13 +1095,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_missing_ts_number_833276": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1149,7 +1149,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_missing_pape_5e669b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1161,7 +1161,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_press_revers_3d2746": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1203,7 +1203,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_missing_paper_tests_c23ac3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1215,7 +1215,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_shandera_research_ci_942247": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1293,13 +1293,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_presidential_control_38d305": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1359,7 +1359,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_xfiles_mj12_suspicio_04d5ea": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1371,7 +1371,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_ebe_label_evidence_c8cb13": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1389,7 +1389,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_mogul_vs_saucer_eaff1c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1407,7 +1407,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_som_recovery_procedu_b197b1": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1464,7 +1464,7 @@
   },
   "current": {
     "article_pages": 242,
-    "amazon_specific_pages": 211,
+    "amazon_specific_pages": 152,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 211,
     "ebay_fallback_pages": 0,
@@ -1482,13 +1482,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_dallas_request_class_df22d6": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_fbi_closure_bogus_ve_45b242": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1512,13 +1512,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_osi_role_authenticit_47e378": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4_unresolved_forger_qu_aa8155": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1530,7 +1530,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_aquarius_material_0657de_aquarius_archive_sea_9a85a9": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1632,13 +1632,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_fbi_bogus_finding_85393a": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_gao_mj12_review_777f8e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1650,7 +1650,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_classification_230b77": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1662,7 +1662,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_nara_mj12_searches_1e326c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1680,7 +1680,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_doty_contact_channel_ef01fe": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1728,7 +1728,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_classification_flaws_95e345_eisenhower_marking_r_ae349f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1746,13 +1746,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_classification_flaws_95e345_majic_codeword_trail_fc4584": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_classification_flaws_95e345_nara_cutler_marking_2768ac": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1770,13 +1770,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_custody_not_authenti_e9c6a3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_cutler_travel_gap_edaa23": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1794,7 +1794,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_lay_coyne_delegation_741652": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1824,7 +1824,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_classification_marki_b3171b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1842,13 +1842,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_missing_briefing_tra_112fc2": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_paper_letterhead_clu_168e05": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1884,7 +1884,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1914,7 +1914,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_cia_transition_brief_3efb37": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1932,7 +1932,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1944,7 +1944,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_roswell_recovery_pro_e374c4": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1962,7 +1962,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_air_force_fbi_review_1bbda8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1980,7 +1980,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_dallas_1988_case_ope_b9646e": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1998,7 +1998,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4_salt_lake_lobby_copy_022027": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2046,7 +2046,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_fbi_vault_misreading_eaeaba_read_fbi_vault_ufo_f_faca61": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2070,13 +2070,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_isoo_classification_df8d11": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_mj12_burden_shift_be83ef": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2088,13 +2088,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_gao_review_86e803_roswell_records_limi_5fdeb7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2130,7 +2130,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_death_vaca_b37496": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2166,7 +2166,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_bush_borrowed_author_8a79cf": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2196,7 +2196,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_membership_credibili_cf122b_science_aerospace_ca_c76e4b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2208,7 +2208,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2220,7 +2220,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_cabinet_meeting_sche_de4987": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2238,13 +2238,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_july_1954_calendar_t_445dcf": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_off_record_secret_me_fbd7d7": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2286,13 +2286,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_rank_plausibility_au_be11dc": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nathan_twining_72c2af_twining_1947_memo_li_b6e87b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2310,7 +2310,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_national_archives_se_919a76_cutler_absence_probl_e706e2": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2334,7 +2334,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_national_archives_se_919a76_searched_archives_tr_b39a7c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2358,19 +2358,19 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_custody_not_authenti_e9c6a3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_cutler_travel_proble_7d0df1": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8_eisenhower_nsc_paper_997d00": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2478,13 +2478,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_pratt_recordings_evi_551286": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_roswell_research_fee_414019": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2556,13 +2556,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_missing_ts_number_833276": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2610,7 +2610,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_missing_pape_5e669b": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2622,7 +2622,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_press_revers_3d2746": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2664,7 +2664,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_missing_paper_tests_c23ac3": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2676,7 +2676,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_shandera_research_ci_942247": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2754,13 +2754,13 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_presidential_control_38d305": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2820,7 +2820,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_xfiles_mj12_suspicio_04d5ea": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2832,7 +2832,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_ebe_label_evidence_c8cb13": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2850,7 +2850,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_mogul_vs_saucer_eaff1c": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2868,7 +2868,7 @@
         "ebay_fallback": false
       },
       "alleged_mj12_documen_5d9d42_ufo_recovery_claims_ebb12b_som_recovery_procedu_b197b1": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
