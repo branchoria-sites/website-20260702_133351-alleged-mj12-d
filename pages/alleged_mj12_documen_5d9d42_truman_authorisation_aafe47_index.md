@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-truman/
 description: Focused pages that expand on Truman Memo.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_truman_authorisation_aafe47
 parent_title: Truman Memo

@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ next_link:
   permalink: /cutler-problem/
   short_title: Cutler Problem
   heading_title: Could Cutler have signed that memo?
-date:'2026-06-29 21:00:45'
+date: '2026-06-29 21:00:45'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208-Illustration-1.webp
@@ -277,9 +277,7 @@ image: /assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_mi
 The alleged MJ-12 papers hinge in part on a one-page memorandum dated 14 July 1954 from Robert Cutler to General [Nathan Twining]({{'twining/' | relative_url }}), directing attention to a briefing scheduled for 16 July 1954. If that briefing genuinely concerned a presidential-level secret committee, historians would expect to find at least some administrative trace beyond the memo itself: [National Security]({{'1947-context/' | relative_url }}) Council (NSC) meeting records, filing indexes, White House scheduling records, or related correspondence. Instead, repeated archival searches have failed to uncover such a trail. This absence does not, by itself, prove the memorandum is inauthentic, but it is one of the principal reasons the document remains controversial. The issue is not simply that records are missing; it is that multiple independent record systems that would normally intersect with such a briefing also fail to corroborate it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The memorandum does not identify MJ-12 or the purpose of the briefing. Project BLUE...Read more...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208-Illustration-1-dark.svg" | relative_url }}" alt="Briefing Date illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_missing_1954_briefin_787208-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the memo claimed about the briefing
 
-The disputed memorandum is dated 14 July 1954 and is addressed from Robert Cutler, President Eisenhower's Special Assistant for National Security Affairs, to General Nathan Twining. Its subject line reads"NCS/MJ-12 Special Studies Project" and it refers to a briefing to occur on 16 July 1954.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4VHdP_DdAUs" title="Ross Coulthart asks: Did JFK know about UFOs? | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4VHdP_DdAUs" target="_blank" rel="noopener noreferrer">Ross Coulthart asks: Did JFK know about UFOs? | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 503.8K &middot; Uploaded: August 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4VHdP_DdAUs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4VHdP_DdAUs">Open on YouTube</a></p></div></div></div>
+The disputed memorandum is dated 14 July 1954 and is addressed from Robert Cutler, President Eisenhower's Special Assistant for National Security Affairs, to General Nathan Twining. Its subject line reads"NCS/MJ-12 Special Studies Project" and it refers to a briefing to occur on 16 July 1954.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4VHdP_DdAUs" title="Ross Coulthart asks: Did JFK know about UFOs? | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4VHdP_DdAUs" target="_blank" rel="noopener noreferrer">Ross Coulthart asks: Did JFK know about UFOs? | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 503.8K &middot; Uploaded: August 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4VHdP_DdAUs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4VHdP_DdAUs">Open on YouTube</a></p></div></div></div>
 
 ## Why the National Security Council record trail matters
 

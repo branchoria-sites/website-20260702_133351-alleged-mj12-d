@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /bill-moore/
   short_title: Bill Moore
   heading_title: Bill Moore and the MJ 12 Backchannel Story
-date:'2026-06-29 20:58:04'
+date: '2026-06-29 20:58:04'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f-overview.webp
@@ -461,8 +461,6 @@ The answer from the official record is damaging to authenticity. The National [A
 
 The National Archives’ MJ-12 reference report is the strongest starting point because it focuses on custody and record context rather than belief. It states that extensive searches failed to identify the “Briefing Document: Operation Majestic 12” in the relevant official holdings. It also says the one MJ-12-related item found, the Cutler-[Twining]({{'twining/' | relative_url }}) memorandum, does not identify what MJ-12 was or explain the purpose of the alleged briefing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The problems with that memorandum are not minor. The National Archives says it was found in a record series filed by a Top Secret register number, yet the memo itself does not bear such a number. It was in a folder with no other documents about “NSC/MJ-12”. Searches of related Defence, Joint Chiefs, Air Force and other files produced no further information, and inquiries to the Air Force, Joint Chiefs and National Security Council also failed to produce corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ## The FBI and GAO findings sharpen the problem
@@ -475,8 +473,6 @@ GAO’s finding is especially important because it addresses a common misunderst
 
 GAO also noted that archivists at federal libraries found nothing fitting the MJ-12 description or referring to it, despite years of public inquiries, and that the Air Force determined a [1980 message]({{'1980-message/' | relative_url }}) containing the words “MJ Twelve” was a forgery. That matters because later claims sometimes treat every appearance of the phrase as corroboration; GAO’s summary shows why isolated mentions have to be tested for origin, context and authenticity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/154832" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Comments on Majestic 12 Material] &#124; U.S. GAO</span><span class="citation-popover-snippet">Comments on Majestic 12 Material] &#124; U.S. GAO</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f-Illustration-2-dark.svg" | relative_url }}" alt="Authenticity illustration 2" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Cutler-Twining memo does not rescue the case
-
-The Cutler-Twining memorandum is the most important MJ-12-related artefact because it was reportedly found in National Archives custody rather than arriving only as an anonymous film or later copy. For supporters, that gives it a stronger surface claim than the original Shandera film documents. Stanton Friedman, one of the best-known defenders of the core MJ-12 papers, treated the Eisenhower Briefing Document, Truman-Forrestal memo and Cutler-Twining memo as the crucial “original” set, while acknowledging that many later MJ-12-related documents were phoney or fraudulent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/update-on-operation-majestic-12-documents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">Update on Operation Majestic 12 Documents</span><span class="citation-popover-snippet">Update on Operation Majestic 12 Documents</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jRVhMiq-IQ" title="Majestic 12 EXPOSED: The Story Behind the Hoaxed UFO Documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jRVhMiq-IQ" target="_blank" rel="noopener noreferrer">Majestic 12 EXPOSED: The Story Behind the Hoaxed UFO Documents</a></p><p class="youtube-embed-meta">Channel: TheSneezingMonkey &middot; Views: 12.5K &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jRVhMiq-IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jRVhMiq-IQ">Open on YouTube</a></p></div></div></div>
 

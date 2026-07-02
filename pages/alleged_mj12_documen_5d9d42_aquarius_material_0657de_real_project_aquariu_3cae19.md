@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:59:36'
+date: '2026-06-29 20:59:36'
 parent_title: How Aquarius Claims Fed the MJ 12 Story
 parent_permalink: /aquarius/
 parent_nav_short_title: Aquarius
@@ -307,7 +307,6 @@ That environment makes it relatively easy for speculative narratives to appropri
 The Project AQUARIUS case provides a concrete example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">the Introduction to Report AD 507423, Project AQUARIUS is described as: &quot;... a part of the ARPA sponsored ocean surveillance program unde...</span></span></span>
 
 * **The codename is genuine.** ARPA documentation confirms an authentic Project AQUARIUS within Project MAY BELL devoted to radar-based ocean surveillance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">the Introduction to Report AD 507423, Project AQUARIUS is described as: &quot;... a part of the ARPA sponsored ocean surveillance program unde...</span></span></span>
-* **The subject matter differs completely.** The released reports concern missile warning and maritime detection rather than UFO investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">the Introduction to Report AD 507423, Project AQUARIUS is described as: &quot;... a part of the ARPA sponsored ocean surveillance program unde...</span></span></span>
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 141.0K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
 
 ## The lesson for assessing alleged MJ-12 material

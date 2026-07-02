@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /marking-problem/
   short_title: Marking Problem
   heading_title: The Classification Marking That Did Not Fit
-date:'2026-06-29 21:00:12'
+date: '2026-06-29 21:00:12'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c-Illustration-1.webp
@@ -281,9 +281,7 @@ image: /assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg3
 ## Introduction
 
 The strongest argument ever made for the alleged MJ-12 papers is that one document—the so-called Cutler–Twining memorandum—was discovered in the custody of the US National [Archives]({{'archives/' | relative_url }}) rather than arriving anonymously through UFO researchers. Yet its archival setting also creates one of the sharpest criticisms. The memorandum was found in Record Group (RG) 341, but it does not fit the filing practices expected for the series in which it appeared. For archivists and document historians, this matters because [provenance]({{'provenance/' | relative_url }}) is established not only by what a document says, but also by whether it follows the administrative systems that produced and controlled it. The filing anomalies surrounding RG 341 therefore do not by themselves prove forgery, but they substantially weaken arguments that the memo can be treated as routine government evidence for MJ-12.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">This... A search of all NSC Meeting Minutes for July 1954 found no mention of MJ-12 nor Majestic.Read more...</span><span class="citation-popover-meta">Published: July 1954</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c-Illustration-1-dark.svg" | relative_url }}" alt="Filing Anomalies illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6_rg341_filing_anomali_fd1e8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-## Why Record Group 341 matters
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6smHEhd9MI" title="Karl Pflock discusses The Cutler - Twining Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer">Karl Pflock discusses The Cutler - Twining Memo</a></p><p class="youtube-embed-meta">Channel: Paul Kimball</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6smHEhd9MI">Open on YouTube</a></p></div></div></div>
+## Why Record Group 341 matters<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6smHEhd9MI" title="Karl Pflock discusses The Cutler - Twining Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer">Karl Pflock discusses The Cutler - Twining Memo</a></p><p class="youtube-embed-meta">Channel: Paul Kimball</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6smHEhd9MI">Open on YouTube</a></p></div></div></div>
 
 ## How Record Group 341 was organised
 

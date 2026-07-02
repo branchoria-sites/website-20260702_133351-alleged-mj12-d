@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 21:00:21'
+date: '2026-06-29 21:00:21'
 parent_title: The Extraordinary Recovery Claims Inside MJ 12
 parent_permalink: /recoveries/
 parent_nav_short_title: Recoveries
@@ -319,9 +319,7 @@ A convincing forgery can successfully imitate:<div class="content-enhancement co
 * administrative organisation;
 * period-specific terminology.</div>
 
-None of these characteristics establishes that the document originated within the government itself.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tS8-VrsvvvA" title="Alien Dominion Majestic 12 (2020) [Documentary] 👽 The Hidden Truth About Extraterrestrial Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tS8-VrsvvvA" target="_blank" rel="noopener noreferrer">Alien Dominion Majestic 12 (2020) [Documentary] 👽 The Hidden Truth About Extraterrestrial Encounters</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tS8-VrsvvvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tS8-VrsvvvA">Open on YouTube</a></p></div></div></div>
+None of these characteristics establishes that the document originated within the government itself.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tS8-VrsvvvA" title="Alien Dominion Majestic 12 (2020) [Documentary] 👽 The Hidden Truth About Extraterrestrial Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tS8-VrsvvvA" target="_blank" rel="noopener noreferrer">Alien Dominion Majestic 12 (2020) [Documentary] 👽 The Hidden Truth About Extraterrestrial Encounters</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tS8-VrsvvvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tS8-VrsvvvA">Open on YouTube</a></p></div></div></div>
 
 ## What authentication would require beyond the text
 

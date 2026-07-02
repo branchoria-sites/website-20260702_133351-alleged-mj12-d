@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:59:55'
+date: '2026-06-29 20:59:55'
 parent_title: Bill Moore and the MJ 12 Backchannel Story
 parent_permalink: /bill-moore/
 parent_nav_short_title: Bill Moore
@@ -284,8 +284,6 @@ image: /assets/images/alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_shan
 Within the wider network involving [Bill Moore]({{'bill-moore/' | relative_url }}), Shandera and Stanton Friedman, the anonymous film roll became the foundation upon which later claims were built. Yet because no sender was identified, no chain of custody could be established and no original government copies accompanied the photographs, the [provenance]({{'provenance/' | relative_url }}) of the documents has remained the principal obstacle to authenticating them. The question is therefore not simply whether the papers look official, but whether anyone can demonstrate where they came from before arriving in Shandera's mailbox.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 ## The reported film delivery
-
-The accepted chronology among those who first publicised the documents begins with an unmarked package reportedly delivered to Shandera's home in North Hollywood. Accounts from Moore and later summaries describe a brown envelope bearing only a New Mexico [postmark]({{'postmark/' | relative_url }}) and containing an undeveloped roll of 35 mm film. There was no covering letter, no return address and no explanation of its origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TPf7Aw4THno" title="Bill Moore and Jaime Shandera discuss Majestic 12 UFO Documents 1988" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TPf7Aw4THno" target="_blank" rel="noopener noreferrer">Bill Moore and Jaime Shandera discuss Majestic 12 UFO Documents 1988</a></p><p class="youtube-embed-meta">Channel: Red Panda Koala’s UFO History Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TPf7Aw4THno" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TPf7Aw4THno">Open on YouTube</a></p></div></div></div>
 

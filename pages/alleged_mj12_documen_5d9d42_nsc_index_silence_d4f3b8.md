@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /plausibility/
   short_title: Plausibility
   heading_title: Why MJ 12 Looked Real to Many Readers
-date:'2026-06-29 20:58:05'
+date: '2026-06-29 20:58:05'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8-overview.webp
@@ -462,15 +462,11 @@ The Eisenhower Library’s appointment-book evidence points in the same directio
 
 The MJ-12 claim becomes weaker when it is treated as a governance claim rather than only as a UFO claim. The National Security Council was not simply a room where important people occasionally met. In the Eisenhower administration it generated agendas, minutes, policy papers, staff memoranda, decision records, and routing practices. A guide to the Dwight D. Eisenhower National Security Files describes the collection as containing the administrative and logistical support needed for an advisory committee, including agendas and minutes of individual NSC meetings compiled by Robert Cutler, Eisenhower’s first national security adviser.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexisnexis.com/documents/academic/upa_cis/101074_DDENSFPt%203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexisnexis.com">[LexisNexis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexisnexis.com</span><span class="citation-popover-title">Lexis Nexis1</span><span class="citation-popover-snippet">Lexis Nexis1</span></span></span>
 
-Even highly sensitive national-security matters could leave controlled traces. A microfilm guide to NSC documents lists numerous [Top Secret]({{'top-secret/' | relative_url }}) policy papers and progress reports from the period, including Cold War subjects such as Soviet satellites, China, Berlin, psychological strategy, civil defence, and internal-security programmes. The same guide lists a Top Secret progress report on policy toward the Soviet satellites in Eastern Europe dated 16 July 1954, showing that sensitive material could be recorded, numbered, indexed, and later declassified without revealing everything publicly at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bsb-muenchen.de/mikro/lit2857.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bsb-muenchen.de">[bsb-muenchen.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bsb-muenchen.de</span><span class="citation-popover-snippet">Open source on bsb-muenchen.de.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s9VoC8MoeUs" title="Majestic 12 | Secret Documents Expose UFO Cover-Up Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s9VoC8MoeUs" target="_blank" rel="noopener noreferrer">Majestic 12 | Secret Documents Expose UFO Cover-Up Vol. 1</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 2.8M &middot; Uploaded: September 2025 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s9VoC8MoeUs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s9VoC8MoeUs">Open on YouTube</a></p></div></div></div>
 
 ## The Cutler-Twining memo is an exception, not a corroborating trail
 
 For believers in MJ-12, the Cutler-Twining memorandum has often looked like the strongest piece of evidence because it was found in National Archives custody rather than merely received through an anonymous package. But archival custody is not the same as authentication. The National Archives is careful about this distinction: when it certifies a reproduction under seal, it attests that the copy reproduces a document in its custody; it does not authenticate the document’s contents or prove the document was genuinely created as described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
-
-The memo’s setting inside the records creates several problems. The National Archives says the document was located in Record Group 341, entry 267, a series filed by Top Secret register number, but that the Cutler-Twining memo does not bear such a number. It was filed in folder T4-1846, yet the folder contained no other documents about “NSC/MJ-12”. The memo also lacked official government letterhead or watermark, while the Eisenhower Library’s sample of Cutler’s NSC staff documents showed regular paper and watermark patterns unlike the disputed item.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6smHEhd9MI" title="Karl Pflock discusses The Cutler - Twining Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer">Karl Pflock discusses The Cutler - Twining Memo</a></p><p class="youtube-embed-meta">Channel: Paul Kimball</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6smHEhd9MI">Open on YouTube</a></p></div></div></div>
 ## What silence means and does not mean

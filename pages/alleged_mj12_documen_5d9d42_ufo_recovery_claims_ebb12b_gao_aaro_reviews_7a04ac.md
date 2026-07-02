@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:59:20'
+date: '2026-06-29 20:59:20'
 parent_title: The Extraordinary Recovery Claims Inside MJ 12
 parent_permalink: /recoveries/
 parent_nav_short_title: Recoveries
@@ -290,8 +290,6 @@ Its findings were notably limited but clear:
 * The Information Security Oversight Office, the U.S. Air Force and the National [Archives]({{'archives/' | relative_url }}) reported that their knowledge of MJ-12 came from documents submitted by private individuals rather than official government files.
 * Archivists searched relevant presidential libraries and federal archives but found no executive-branch records matching [the alleged MJ-12 documents]({{'the-alleged-mj-12-documents/' | relative_url }}) or supporting their claimed origin.
 * The Air Force concluded that a purported 1980 communication referring to"MJ Twelve" was itself a forgery.
-* GAO found no evidence that the circulated MJ-12 papers were authentic executive-branch documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/154832" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">GAO[Comments on Majestic 12 Material]28 Jul 1995 — GAO examined agencies&#x27; views on the authenticity of Majestic 12, allegedly a classifie...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o-gDG07GoJA" title="Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s AARO Director: &#x27;UAP are real&#x27; | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 268.4K &middot; Uploaded: November 2024 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o-gDG07GoJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o-gDG07GoJA">Open on YouTube</a></p></div></div></div>
 
 ## What AARO reported about historical recovery claims

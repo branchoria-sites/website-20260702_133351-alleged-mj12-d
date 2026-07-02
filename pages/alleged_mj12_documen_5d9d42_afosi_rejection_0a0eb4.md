@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -432,7 +432,7 @@ next_link:
   permalink: /aquarius/
   short_title: Aquarius
   heading_title: How Aquarius Claims Fed the MJ 12 Story
-date:'2026-06-29 20:58:02'
+date: '2026-06-29 20:58:02'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4-overview.webp
@@ -455,8 +455,6 @@ The FBI’s historical account of its UFO files also places the episode in the B
 ## Why counterintelligence channels mattered
 
 The MJ-12 papers did not simply claim that aliens existed. They claimed to be secret government documents. That changed the practical question for federal agencies. If the papers had been genuine, their public circulation could have involved mishandled classified material; if they were not genuine, they raised the possibility of forged government records with false classification markings.
-
-Air Force OSI was a meaningful channel for that question because it is the Department of the Air Force’s major investigative service, with responsibilities that include criminal investigations and counterintelligence. Its official fact sheet says AFOSI provides investigative service across Air Force activities, reports to the Inspector General in the Office of the Secretary of the Air Force, and handles both criminal investigations and counterintelligence services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">air force office of special investigations</span><span class="citation-popover-snippet">&gt; Office of Special Investigations &gt; Display...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 

@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:03'
+date: '2026-06-29 20:58:03'
 parent_title: MJ 12 Files
 parent_permalink: /the-alleged-mj-12-documents/
 parent_nav_short_title: MJ 12 Files
@@ -462,8 +462,6 @@ This is why their critique is more damaging than a simple debunking checklist. A
 Robert Pratt was a journalist and later editor of the MUFON UFO Journal. According to Sparks and Greenwood, Pratt secretly recorded meetings and telephone conversations with William L. Moore in 1982, while the two were discussing a possible fictionalised book based on Moore’s claimed contact with Richard Doty and supposed secret UFO information. Those tapes, notes and transcripts were later entrusted to MUFON and became a key source for Sparks and Greenwood’s 2007 paper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) The Secret Pratt Tapes and the Origins of MJ-12 (Brad Sparks &amp; Barry Greenwood)...</span></span></span>
 
 The timing is the point. The better-known MJ-12 papers were said to have arrived in December 1984, when Jaime Shandera received an envelope with an [Albuquerque postmark]({{'postmark/' | relative_url }}) containing exposed 35mm film. Sparks and Greenwood argue that the Pratt material shows recognisable MJ-12-like concepts already circulating in 1981–82 conversations involving Moore and Doty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) The Secret Pratt Tapes and the Origins of MJ-12 (Brad Sparks &amp; Barry Greenwood)...</span></span></span>
-
-The most important link is the “Aquarius” material. Sparks and Greenwood say the Pratt files connect the later MJ-12 Eisenhower Briefing Document with an earlier supposed “original Aquarius Document” from the Truman-Eisenhower transition in late 1952. They point out that both involve a late-1952 presidential-transition briefing, alleged recovered alien craft and bodies, and an MJ-12-linked control structure. In their reading, the MJ-12 Eisenhower Briefing Document was not a separate discovery from a hidden archive but a later expression of the same dubious Aquarius storyline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) The Secret Pratt Tapes and the Origins of MJ-12 (Brad Sparks &amp; Barry Greenwood)...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XS8WGTqBBik" title="Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer">Mirage Men: How the US Government Faked an Alien Invasion | Full Documentary</a></p><p class="youtube-embed-meta">Channel: BingeWorthy Documentaries &middot; Views: 9.7K &middot; Uploaded: January 2026 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XS8WGTqBBik">Open on YouTube</a></p></div></div></div>
 

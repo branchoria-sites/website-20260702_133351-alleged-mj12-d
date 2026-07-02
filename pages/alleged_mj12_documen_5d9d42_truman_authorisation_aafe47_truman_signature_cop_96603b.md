@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ prev_link:
   permalink: /paper-trail-bc95f8/
   short_title: Paper Trail
   heading_title: Where Are the Records a Real MJ 12 Needed?
-date:'2026-06-29 21:00:52'
+date: '2026-06-29 21:00:52'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_signature_cop_96603b-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_signature_cop_96603b-Illustration-1.webp
@@ -306,9 +306,7 @@ This reasoning explains why the debate over tiny marks attracted disproportionat
 
 Within the MJ-12 narrative, the alleged Truman memorandum serves as the documentary foundation for presidential authorisation of Operation Majestic Twelve. If its signature is copied from another authenticated document, confidence in the memo's originality is substantially reduced.
 
-The significance extends beyond one page. The alleged Truman memo is intended to authenticate the later Eisenhower briefing document by providing a presidential origin for the supposed programme. A copied signature therefore raises the possibility that an authentic historical document was used as raw material in constructing a persuasive forgery.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3IO_yW4Zpg" title="Majestic 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3IO_yW4Zpg" target="_blank" rel="noopener noreferrer">Majestic 12</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 30.0K &middot; Uploaded: September 2014 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3IO_yW4Zpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3IO_yW4Zpg">Open on YouTube</a></p></div></div></div>
+The significance extends beyond one page. The alleged Truman memo is intended to authenticate the later Eisenhower briefing document by providing a presidential origin for the supposed programme. A copied signature therefore raises the possibility that an authentic historical document was used as raw material in constructing a persuasive forgery.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3IO_yW4Zpg" title="Majestic 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3IO_yW4Zpg" target="_blank" rel="noopener noreferrer">Majestic 12</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 30.0K &middot; Uploaded: September 2014 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3IO_yW4Zpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3IO_yW4Zpg">Open on YouTube</a></p></div></div></div>
 
 ## Why the Debate Still Matters
 

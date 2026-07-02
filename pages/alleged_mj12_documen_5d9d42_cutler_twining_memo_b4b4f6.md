@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /cutler-timing/
   short_title: Cutler Timing
   heading_title: The Travel Date That Hurt MJ 12
-date:'2026-06-29 20:58:10'
+date: '2026-06-29 20:58:10'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_twining_memo_b4b4f6-overview.webp
@@ -458,8 +458,6 @@ The memo’s named figures also gave it surface [plausibility]({{'plausibility/'
 ## Why the archive context matters
 
 The Cutler-Twining memo is important because it is the one MJ-12-related item that the National Archives found while searching government-held records. The Archives reports that it searched Air Force and Joint Chiefs of Staff records, and that the Truman and Eisenhower Libraries searched their holdings for references to, or copies of, the MJ-12 documents. It also searched National Security Council policy paper and meeting-minute indexes for terms including MJ-12, Majestic, UFOs, flying saucers, extraterrestrial biological entities and Aquarius. Those searches were negative except for the Cutler-Twining memorandum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
-That makes the memo tempting evidence, but not straightforward evidence. Archives custody proves that a piece of paper was in a government record collection when it was found; it does not automatically prove that the document was created by the official named on it, filed correctly at the time, or preserved through normal channels. The National Archives itself makes this point bluntly: when it certifies a reproduction under seal, it attests that the reproduction is a true copy of a document in its custody, not that the document or its contents are authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 

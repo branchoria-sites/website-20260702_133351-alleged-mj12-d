@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /rank-plausibility/
   short_title: Rank Plausibility
   heading_title: When a Real General Makes a Fake Look Real
-date:'2026-06-29 20:58:59'
+date: '2026-06-29 20:58:59'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1-Illustration-1.webp
@@ -281,9 +281,7 @@ image: /assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_j
 ## Introduction
 
 The most specific and testable objection to the alleged MJ-12 papers is not a question about UFOs at all. It is a question about a person's whereabouts. One of the best-known alleged MJ-12 documents is a memorandum dated 14 July 1954 from Robert Cutler, Special Assistant to President Dwight Eisenhower, to General [Nathan Twining]({{'twining/' | relative_url }}). However, surviving White House records indicate that Cutler was travelling overseas between 3 and 15 July 1954, including visits to military installations in Europe and North Africa. That creates a straightforward historical test: if Cutler was absent, how could he have produced or signed the memorandum on the stated date? This"Cutler trip" problem has become one of the strongest documentary challenges to the [authenticity]({{'authenticity/' | relative_url }}) of the alleged MJ-12 memorandum because it can be checked against independent archival records rather than witness testimony or speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Eisenhower Presidential Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThese searches were all negative except for a Memorandum for General Twin...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1-Illustration-1-dark.svg" | relative_url }}" alt="Cutler Trip illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af_cutler_july_1954_abs_3653b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-## Where Cutler was in July 1954
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
+## Where Cutler was in July 1954<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
 
 ## How White House paperwork normally worked
 

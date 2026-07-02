@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ prev_link:
   permalink: /timing-hook/
   short_title: Timing Hook
   heading_title: Why 18 November 1952 Made MJ 12 Plausible
-date:'2026-06-29 21:00:16'
+date: '2026-06-29 21:00:16'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_sign_grudge_bluebook_61d109-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_sign_grudge_bluebook_61d109-Illustration-1.webp
@@ -326,8 +326,6 @@ If Project BLUE BOOK genuinely functioned as the overt liaison for an ultra-secr
 * security procedures;
 * records transferred to the National [Archives]({{'archives/' | relative_url }});
 * presidential or National Security Council files.
-
-Instead, extensive archival searches have failed to identify documentation linking the public Air Force UFO projects to an organisation called Majestic-12 or to the specific briefing narrative. The National Archives has reported searches across Air Force, Joint Chiefs of Staff, National Security Council and presidential records without finding corroborating evidence for the alleged briefing or its claimed organisational structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe National Archives has received numerous inquiries concerning document...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dDxYZyMEmUU" title="UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer">UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dDxYZyMEmUU">Open on YouTube</a></p></div></div></div>
 

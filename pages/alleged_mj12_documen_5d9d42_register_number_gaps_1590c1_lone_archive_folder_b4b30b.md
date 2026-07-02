@@ -19,8 +19,8 @@ keywords:
 - lone-folder
 affiliate_category: alleged-mj-12-documen
 show_ads: true
-description:'A single memo in an otherwise unsupported folder raises a different problem from ordinary missing evidence: it lacks file-system neighbors.'
-hero_summary:'A single memo in an otherwise unsupported folder raises a different problem from ordinary missing evidence: it lacks file-system neighbors.'
+description: 'A single memo in an otherwise unsupported folder raises a different problem from ordinary missing evidence: it lacks file-system neighbors.'
+hero_summary: 'A single memo in an otherwise unsupported folder raises a different problem from ordinary missing evidence: it lacks file-system neighbors.'
 layout: default
 permalink: /lone-folder/
 sidebar_expanded_urls:
@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /missing-number/
   short_title: Missing Number
   heading_title: Why one missing number matters so much
-date:'2026-06-29 21:00:18'
+date: '2026-06-29 21:00:18'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b-Illustration-1.webp
@@ -333,9 +333,7 @@ Archives distinguish between the [authenticity]({{'authenticity/' | relative_url
 For that reason, archivists examine whether a document fits its surrounding record system. If it lacks expected filing characteristics while neighbouring documentation is absent, the possibility of later insertion or misfiling cannot automatically be excluded. Equally, an anomalous document is not automatically evidence of deliberate planting; accidental filing errors also occur. The key point is that the document's archival setting no longer provides the strong corroboration that supporters might claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.clir.org/pubs/reports/pub89/archival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clir.org">[CLIR+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clir.org</span><span class="citation-popover-snippet">The Archival Paradigm: The Genesis and Rationales of...The principle of provenance has two components: records of the same provenanc...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b-Illustration-3-dark.svg" | relative_url }}" alt="Lone Folder illustration 3" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_lone_archive_folder_b4b30b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the lone-folder problem carries unusual weight
 
-The criticism is not simply that evidence is missing. Historians frequently work with incomplete archives.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gcfffl6ojc0" title="Classified Records Transfer Process Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gcfffl6ojc0" target="_blank" rel="noopener noreferrer">Classified Records Transfer Process Introduction</a></p><p class="youtube-embed-meta">Channel: US National Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gcfffl6ojc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gcfffl6ojc0">Open on YouTube</a></p></div></div></div>
+The criticism is not simply that evidence is missing. Historians frequently work with incomplete archives.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gcfffl6ojc0" title="Classified Records Transfer Process Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gcfffl6ojc0" target="_blank" rel="noopener noreferrer">Classified Records Transfer Process Introduction</a></p><p class="youtube-embed-meta">Channel: US National Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gcfffl6ojc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gcfffl6ojc0">Open on YouTube</a></p></div></div></div>
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a></h4><p class="fr-book-author">By Annie Jacobsen</p><p class="fr-book-desc">Illustrates handling of classified records.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/809552-M.jpg" alt="Cover for Roswell Incident" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a></h4><p class="fr-book-author">By Charles Berlitz, William L. Moore</p><p class="fr-book-desc">First published 1997. Subjects: Unidentified flying objects, sightings and encounters, Human-alien encounters.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a></h4><p class="fr-book-author">By Charles Berlitz, William L. Moore</p><p class="fr-book-desc">Central historical source for MJ-12 discussions.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

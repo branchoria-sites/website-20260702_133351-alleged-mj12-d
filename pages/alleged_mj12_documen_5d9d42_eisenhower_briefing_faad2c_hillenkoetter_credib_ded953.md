@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /roswell-claim/
   short_title: Roswell Claim
   heading_title: How Roswell Became a Government Programme
-date:'2026-06-29 21:00:15'
+date: '2026-06-29 21:00:15'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953-Illustration-1.webp

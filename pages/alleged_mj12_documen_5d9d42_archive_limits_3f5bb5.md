@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:00'
+date: '2026-06-29 20:58:00'
 parent_title: MJ 12 Files
 parent_permalink: /the-alleged-mj-12-documents/
 parent_nav_short_title: MJ 12 Files
@@ -462,8 +462,6 @@ This is not a mere “absence of evidence” problem. It is a mismatch between t
 ## Why Archives Still Have Limits
 
 Archives are strongest when the question is about document authenticity, custody and administrative consistency. They are weaker when the question shifts to every possible sighting, every informal conversation, every sensor anomaly or every alleged compartmented activity. The Freedom of Information Act, for example, gives the public a way to request agency records, but agencies process their own holdings, redact exempt material, and are not required to create new records, conduct research or answer broad questions in response to a request.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foia.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foia.gov">[FOIA.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foia.gov</span><span class="citation-popover-title">FOI A.gov</span><span class="citation-popover-snippet">Freedom of Information Act: Frequently Asked Questions (FAQ)...</span></span></span>
-
-Records also reach the public only through a chain of earlier decisions. A document has to be created, treated as a record, retained under a schedule, transferred or preserved, described well enough to be found, and released or declassified. The National Archives’ own modern UAP pages show this continuing process in real time: the 2024 National Defence Authorisation Act created a dedicated UAP Records Collection, and agencies are transferring digital copies to NARA on a rolling basis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fIUO2B7hLfA" title="Declassified FBI UFO Files Reveal Mysterious ‘Four-Foot Crewmen’ | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fIUO2B7hLfA" target="_blank" rel="noopener noreferrer">Declassified FBI UFO Files Reveal Mysterious ‘Four-Foot Crewmen’ | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.3K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fIUO2B7hLfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fIUO2B7hLfA">Open on YouTube</a></p></div></div></div>
 

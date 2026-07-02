@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /burden-shift/
   short_title: Burden Shift
   heading_title: Where Was the Record Trail?
-date:'2026-06-29 20:58:18'
+date: '2026-06-29 20:58:18'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_gao_review_86e803_agency_origin_gap_26332e-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_gao_review_86e803_agency_origin_gap_26332e-Illustration-1.webp
@@ -311,15 +311,11 @@ That distinction is important because provenance—the documented chain showing 
 
 The agencies' conclusion rested on several related observations rather than on any single piece of evidence.
 
-First, they found no records relating to"Majestic 12" within their own official files. The absence extended beyond the circulated briefing papers themselves to supporting documentation that might have corroborated their existence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/154832.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">GAO[Comments on Majestic 12 Material]The origin of this material i,s uqkriown, to represent highly classified government;records explain...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s_ymJcmeEDc" title="The Majestic Documents. Ryan Wood on the Richard Dolan Show. June 10, 2019." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s_ymJcmeEDc" target="_blank" rel="noopener noreferrer">The Majestic Documents. Ryan Wood on the Richard Dolan Show. June 10, 2019.</a></p><p class="youtube-embed-meta">Channel: Richard Dolan Intelligent Disclosure</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s_ymJcmeEDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s_ymJcmeEDc">Open on YouTube</a></p></div></div></div>
 
 ## The importance of archival searches
 
-GAO also sought the views of archivists at the Harry S. Truman and Dwight D. Eisenhower Presidential Libraries because several alleged MJ-12 documents were attributed to officials serving during those administrations.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6smHEhd9MI" title="Karl Pflock discusses The Cutler - Twining Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer">Karl Pflock discusses The Cutler - Twining Memo</a></p><p class="youtube-embed-meta">Channel: Paul Kimball</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6smHEhd9MI">Open on YouTube</a></p></div></div></div>
+GAO also sought the views of archivists at the Harry S. Truman and Dwight D. Eisenhower Presidential Libraries because several alleged MJ-12 documents were attributed to officials serving during those administrations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6smHEhd9MI" title="Karl Pflock discusses The Cutler - Twining Memo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer">Karl Pflock discusses The Cutler - Twining Memo</a></p><p class="youtube-embed-meta">Channel: Paul Kimball</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6smHEhd9MI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6smHEhd9MI">Open on YouTube</a></p></div></div></div>
 
 ## How the shared answer weakened authenticity
 

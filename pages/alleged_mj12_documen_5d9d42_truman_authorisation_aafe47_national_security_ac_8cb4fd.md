@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ next_link:
   permalink: /control-claim/
   short_title: Control Claim
   heading_title: Why Presidential Control Changed the MJ 12 Story
-date:'2026-06-29 21:00:50'
+date: '2026-06-29 21:00:50'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd-Illustration-1.webp
@@ -294,9 +294,7 @@ An additional detail strengthens the appearance of authenticity. Truman's appoin
 
 The strongest historical objection arises not from the personalities or the date, but from how the newly created national security system actually functioned.
 
-The National Security Act was designed to centralise and regularise decision-making at the highest levels. Presidential directives concerning enduring national security responsibilities were increasingly channelled through identifiable institutions, particularly the National Security Council and the Secretary of Defense. Even when operational details remained compartmentalised, policy decisions typically generated associated records such as correspondence, filing references, security-control numbers, implementation memoranda or later administrative follow-up.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ER8mwsOrDjk" title="The Birth of CIA Amidst the Cold War Unrest (PART 1) I SLICE HISTORY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ER8mwsOrDjk" target="_blank" rel="noopener noreferrer">The Birth of CIA Amidst the Cold War Unrest (PART 1) I SLICE HISTORY</a></p><p class="youtube-embed-meta">Channel: SLICE History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ER8mwsOrDjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ER8mwsOrDjk">Open on YouTube</a></p></div></div></div>
+The National Security Act was designed to centralise and regularise decision-making at the highest levels. Presidential directives concerning enduring national security responsibilities were increasingly channelled through identifiable institutions, particularly the National Security Council and the Secretary of Defense. Even when operational details remained compartmentalised, policy decisions typically generated associated records such as correspondence, filing references, security-control numbers, implementation memoranda or later administrative follow-up.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ER8mwsOrDjk" title="The Birth of CIA Amidst the Cold War Unrest (PART 1) I SLICE HISTORY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ER8mwsOrDjk" target="_blank" rel="noopener noreferrer">The Birth of CIA Amidst the Cold War Unrest (PART 1) I SLICE HISTORY</a></p><p class="youtube-embed-meta">Channel: SLICE History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ER8mwsOrDjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ER8mwsOrDjk">Open on YouTube</a></p></div></div></div>
 
 ## Why missing institutional traces matter
 

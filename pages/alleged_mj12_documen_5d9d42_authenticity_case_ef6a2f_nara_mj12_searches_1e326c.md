@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ next_link:
   permalink: /cutler-memo-17d516/
   short_title: Cutler Memo
   heading_title: Can the Cutler Twining Memo Hold Up?
-date:'2026-06-29 20:59:12'
+date: '2026-06-29 20:59:12'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_nara_mj12_searches_1e326c-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_nara_mj12_searches_1e326c-Illustration-1.webp
@@ -286,8 +286,7 @@ These searches included:<div class="content-enhancement content-enhancement--ins
 * National Security Council policy paper indexes and meeting-minute indexes from both the Truman and Eisenhower administrations.
 * Records of the Joint Chiefs of Staff.
 * Air Force records associated with UFO investigations.
-* Holdings at the Truman and Eisenhower Presidential Libraries.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
+* Holdings at the Truman and Eisenhower Presidential Libraries.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ## Why the missing trail matters
 
@@ -308,9 +307,7 @@ This distinction is important. The National Archives did not conclude that all s
 
 The principal exception identified during the archival searches was a one-page memorandum attributed to presidential aide Robert Cutler concerning an"NSC/MJ-12 Special Studies Project." For supporters of MJ-12, this document has often been presented as independent confirmation that the alleged organisation existed.
 
-However, the archival context proved problematic.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
+However, the archival context proved problematic.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
 
 ## Why an isolated document is difficult to authenticate
 

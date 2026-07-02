@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:25'
+date: '2026-06-29 20:58:25'
 parent_title: Did MJ 12 Ideas Exist Before the Papers?
 parent_permalink: /pratt-tapes/
 parent_nav_short_title: Pratt Tapes
@@ -279,9 +279,7 @@ The significance of the Doty–Moore–Pratt relationship lies less in any singl
 
 Each participant occupied a different position within the emerging UFO controversy.
 
-**William L. Moore** was one of the leading civilian investigators of the Roswell incident during the late 1970s and early 1980s. His research focused on military personnel, government records and possible evidence for official secrecy. Because of his reputation, new claims passed to Moore often acquired credibility within UFO [research circles]({{'research-circle/' | relative_url }}) before wider scrutiny.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SSTsW_wFn_U" title="The Feds Told Him to Chase Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer">The Feds Told Him to Chase Aliens</a></p><p class="youtube-embed-meta">Channel: Oki&#x27;s Weird Stories &middot; Views: 410.8K &middot; Uploaded: October 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SSTsW_wFn_U">Open on YouTube</a></p></div></div></div>
+**William L. Moore** was one of the leading civilian investigators of the Roswell incident during the late 1970s and early 1980s. His research focused on military personnel, government records and possible evidence for official secrecy. Because of his reputation, new claims passed to Moore often acquired credibility within UFO [research circles]({{'research-circle/' | relative_url }}) before wider scrutiny.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SSTsW_wFn_U" title="The Feds Told Him to Chase Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer">The Feds Told Him to Chase Aliens</a></p><p class="youtube-embed-meta">Channel: Oki&#x27;s Weird Stories &middot; Views: 410.8K &middot; Uploaded: October 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SSTsW_wFn_U">Open on YouTube</a></p></div></div></div>
 
 ## How information moved through the network
 

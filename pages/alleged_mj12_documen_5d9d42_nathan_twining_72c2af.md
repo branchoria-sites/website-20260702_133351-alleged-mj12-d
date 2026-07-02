@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /ufo-culture/
   short_title: UFO Culture
   heading_title: Why MJ 12 Changed UFO Culture
-date:'2026-06-29 20:58:01'
+date: '2026-06-29 20:58:01'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_nathan_twining_72c2af-overview.webp
@@ -481,8 +481,6 @@ The later history of official UFO investigation reinforces that narrower reading
 The strongest challenge to Twining’s alleged MJ-12 role is not that Twining was the wrong kind of officer. He was exactly the kind of officer a convincing MJ-12 story would choose. The challenge is that the supporting record does not behave as it should if the alleged project were real.
 
 The National Archives says it searched records of the Air Force, Joint Chiefs of Staff, Truman and Eisenhower Libraries, and National Security Council files for MJ-12-related terms. Those searches were negative except for the Cutler-Twining memorandum. That single surviving item is therefore asked to carry almost the entire archival burden of connecting Twining to MJ-12.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
-The National Archives then lists several problems with that memo. It was found in a [Top Secret]({{'top-secret/' | relative_url }}) register series but lacked the Top Secret register number expected for that filing system. No other documents in the folder concerned “NSC/MJ-12”. Further searches in related files produced no supporting information. NSC records showed no meeting on 16 July 1954 and no mention of MJ-12 or Majestic in July 1954 meeting minutes or indices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
 

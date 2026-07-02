@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ next_link:
   permalink: /debris-question/
   short_title: Debris Question
   heading_title: Was Roswell Secrecy About Aliens or Balloons?
-date:'2026-06-29 20:58:28'
+date: '2026-06-29 20:58:28'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_roswell_link_b95814_eisenhower_briefing_bce18f-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_roswell_link_b95814_eisenhower_briefing_bce18f-Illustration-1.webp
@@ -311,8 +311,6 @@ The briefing's greatest strength as a story also became its greatest weakness as
 By specifying dates, offices, participants and administrative procedures, it created numerous opportunities for verification. Researchers could compare signatures, document formats, filing systems, travel schedules, presidential papers and National [Archives]({{'archives/' | relative_url }}) holdings against the claims made in the briefing.
 
 This process produced several well-known challenges.
-
-The US National Archives conducted extensive searches for records relating to MJ-12, Majestic, extraterrestrial biological entities and associated terminology. It reported finding no archival evidence authenticating the alleged Majestic-12 project. The Archives note that searches of Project Blue Book material likewise did not uncover documentation supporting the claimed Roswell extraterrestrial recovery described in the briefing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThese searches were all negative except for a Memorandum for General Twin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ecEY2xNFzPw" title="UFO Reverse Engineering, Crash Retrievals, and the Pentagon’s New Files | UAP Gerb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ecEY2xNFzPw" target="_blank" rel="noopener noreferrer">UFO Reverse Engineering, Crash Retrievals, and the Pentagon’s New Files | UAP Gerb</a></p><p class="youtube-embed-meta">Channel: Event Horizon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ecEY2xNFzPw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ecEY2xNFzPw">Open on YouTube</a></p></div></div></div>
 

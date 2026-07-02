@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /menzel/
   short_title: Menzel
   heading_title: Why Donald Menzel Complicates the MJ 12 Roster
-date:'2026-06-29 20:58:14'
+date: '2026-06-29 20:58:14'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_membership_credibili_cf122b-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_membership_credibili_cf122b-overview.webp

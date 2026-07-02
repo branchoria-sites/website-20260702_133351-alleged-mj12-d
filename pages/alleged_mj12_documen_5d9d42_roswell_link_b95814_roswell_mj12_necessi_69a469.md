@@ -19,8 +19,8 @@ keywords:
 - need-for-mj-12
 affiliate_category: alleged-mj-12-documen
 show_ads: true
-description:'The Roswell recovery story gave MJ-12 a practical reason to exist: managing custody, science, secrecy and presidential control.'
-hero_summary:'The Roswell recovery story gave MJ-12 a practical reason to exist: managing custody, science, secrecy and presidential control.'
+description: 'The Roswell recovery story gave MJ-12 a practical reason to exist: managing custody, science, secrecy and presidential control.'
+hero_summary: 'The Roswell recovery story gave MJ-12 a practical reason to exist: managing custody, science, secrecy and presidential control.'
 layout: default
 permalink: /need-for-mj-12/
 sidebar_expanded_urls:
@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /press-reversal/
   short_title: Press Reversal
   heading_title: The Press Reversal That Fueled MJ 12
-date:'2026-06-29 20:58:34'
+date: '2026-06-29 20:58:34'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_mj12_necessi_69a469-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_roswell_link_b95814_roswell_mj12_necessi_69a469-Illustration-1.webp

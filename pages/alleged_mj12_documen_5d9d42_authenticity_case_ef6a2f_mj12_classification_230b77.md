@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /provenance-test/
   short_title: Provenance Test
   heading_title: Why the MJ 12 Paper Trail Breaks Down
-date:'2026-06-29 20:59:21'
+date: '2026-06-29 20:59:21'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_classification_230b77-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_mj12_classification_230b77-Illustration-1.webp
@@ -318,9 +318,7 @@ Documents preserved in the Foreign Relations of the United States series and the
 * **Confidential**
 * **Top Secret; Eyes Only**
 * **Restricted Data** (for nuclear information governed separately under the Atomic Energy Act)
-* distribution controls such as **Limited Distribution** or **Hold Closely**</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PeULVsP-jEQ" title="Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PeULVsP-jEQ" target="_blank" rel="noopener noreferrer">Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PeULVsP-jEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PeULVsP-jEQ">Open on YouTube</a></p></div></div></div>
+* distribution controls such as **Limited Distribution** or **Hold Closely**</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PeULVsP-jEQ" title="Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PeULVsP-jEQ" target="_blank" rel="noopener noreferrer">Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PeULVsP-jEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PeULVsP-jEQ">Open on YouTube</a></p></div></div></div>
 
 ## How markings expose forged or misplaced documents
 

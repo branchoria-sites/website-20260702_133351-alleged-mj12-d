@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:11'
+date: '2026-06-29 20:58:11'
 parent_title: MJ 12 Files
 parent_permalink: /the-alleged-mj-12-documents/
 parent_nav_short_title: MJ 12 Files
@@ -460,8 +460,6 @@ Later MJ-12-related material pushed the recovery premise into an even more proce
 ## Why biological claims raise the stakes
 
 Claims about recovered metal, unusual wreckage or secret aircraft are already difficult to prove. Claims about biological entities raise the standard sharply because they would leave many more kinds of evidence. A recovered non-human body would not be only a [national-security]({{'1947-context/' | relative_url }}) artefact; it would be a biological, medical, forensic, archival and scientific event. Even under secrecy, it would normally generate handling records, pathology notes, photographs, specimen logs, storage procedures, laboratory transfers, chain-of-custody documentation and later references in classified indexing systems.
-
-That is why the biological element is so important in assessing MJ-12. The alleged briefing document does not simply say that debris was collected; it says that four dead occupants were analysed, given a technical label, and treated as part of an official problem of classification, secrecy and scientific interpretation. The later manual-style material goes still further, describing field recovery, preservation and removal of cadavers and biological remains, including the need to photograph remains before removal and to decontaminate personnel and equipment after recovery operations. These are not small claims. They imply a complete institutional apparatus for non-human biological material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12 Part 1 of 1</span><span class="citation-popover-snippet">Majestic 12 Part 1 of 1</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 

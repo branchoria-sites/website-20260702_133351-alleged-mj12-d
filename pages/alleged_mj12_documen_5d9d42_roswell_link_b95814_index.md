@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-roswell/
 description: Focused pages that expand on Roswell Link.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_roswell_link_b95814
 parent_title: Roswell Link

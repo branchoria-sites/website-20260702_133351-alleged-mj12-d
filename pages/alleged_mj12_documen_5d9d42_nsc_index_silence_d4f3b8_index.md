@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-nsc-index/
 description: Focused pages that expand on NSC Silence.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_nsc_index_silence_d4f3b8
 parent_title: NSC Silence

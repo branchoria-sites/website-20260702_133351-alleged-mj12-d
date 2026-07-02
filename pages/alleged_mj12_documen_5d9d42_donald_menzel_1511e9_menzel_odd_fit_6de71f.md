@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:17'
+date: '2026-06-29 20:58:17'
 parent_title: Why Donald Menzel Complicates the MJ 12 Roster
 parent_permalink: /menzel/
 parent_nav_short_title: Menzel
@@ -283,9 +283,7 @@ image: /assets/images/alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_od
 Donald H. [Menzel]({{'menzel/' | relative_url }}) is one of the most puzzling names in the alleged MJ-12 papers because his public career appeared to make him an unlikely candidate for a secret committee studying recovered extraterrestrial craft. As a Harvard astronomer, Menzel became one of the best-known scientific critics of flying-saucer claims, publishing books and giving public testimony arguing that most sightings could be explained by atmospheric optics, astronomy, psychology or misidentification. When the alleged MJ-12 briefing documents surfaced in the 1980s with his name among senior military and intelligence figures, readers immediately noticed the mismatch. That apparent contradiction became one of the most debated features of the roster, with believers and sceptics drawing opposite conclusions from the same fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f-Illustration-1-dark.svg" | relative_url }}" alt="Odd Fit illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_donald_menzel_1511e9_menzel_odd_fit_6de71f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Menzel's public debunking role
 
-Unlike many scientists who simply ignored UFO reports, Menzel actively challenged extraordinary explanations. Beginning with *Flying Saucers* (1953) and continuing through later publications, he argued that many celebrated sightings resulted from ordinary but poorly understood natural phenomena. His public reputation therefore became inseparable from scepticism about extraterrestrial visitation.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ckpFA0j38u4" title="Physicist: Space objects appeared, disappeared years before first satellites | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ckpFA0j38u4" target="_blank" rel="noopener noreferrer">Physicist: Space objects appeared, disappeared years before first satellites | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 762.6K &middot; Uploaded: September 2024 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ckpFA0j38u4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ckpFA0j38u4">Open on YouTube</a></p></div></div></div>
+Unlike many scientists who simply ignored UFO reports, Menzel actively challenged extraordinary explanations. Beginning with *Flying Saucers* (1953) and continuing through later publications, he argued that many celebrated sightings resulted from ordinary but poorly understood natural phenomena. His public reputation therefore became inseparable from scepticism about extraterrestrial visitation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ckpFA0j38u4" title="Physicist: Space objects appeared, disappeared years before first satellites | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ckpFA0j38u4" target="_blank" rel="noopener noreferrer">Physicist: Space objects appeared, disappeared years before first satellites | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 762.6K &middot; Uploaded: September 2024 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ckpFA0j38u4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ckpFA0j38u4">Open on YouTube</a></p></div></div></div>
 
 ## Why the roster placement surprised readers
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-pratt/
 description: Focused pages that expand on Pratt Tapes.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50
 parent_title: Pratt Tapes

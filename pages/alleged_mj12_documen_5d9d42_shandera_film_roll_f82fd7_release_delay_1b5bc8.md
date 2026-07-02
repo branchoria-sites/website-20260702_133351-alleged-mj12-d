@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /research-circle/
   short_title: Research Circle
   heading_title: Why Send the Film to Shandera?
-date:'2026-06-29 20:58:29'
+date: '2026-06-29 20:58:29'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8-Illustration-1.webp
@@ -282,8 +282,6 @@ image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_rele
 
 The gap between the reported receipt of the alleged MJ-12 film in December 1984 and its public release in May 1987 is one of the most debated features of the Majestic-12 story. Supporters have argued that the delay reflected careful verification rather than haste, while critics contend that the extended period created unresolved questions about document custody, access and possible alteration. The delay does not by itself prove either [authenticity]({{'authenticity/' | relative_url }}) or forgery. Instead, it has become an important part of how [the alleged MJ-12 documents]({{'the-alleged-mj-12-documents/' | relative_url }}) are evaluated, because it affects how researchers judge provenance, verification and the integrity of the chain of custody.<img src="{{"/assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8-Illustration-1-dark.svg" | relative_url }}" alt="Release Gap illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_release_delay_1b5bc8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The December 1984 to May 1987 timeline
-
-According to the standard account given by Jaime Shandera, William L. Moore and later Stanton T. Friedman, Shandera received an anonymous package in December 1984 containing undeveloped 35 mm film. After development, the film reportedly revealed photographs of documents describing the alleged"Majestic-12" committee. Rather than releasing the material immediately, the recipients kept it largely private while pursuing additional evidence and consulting other researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6fMNn4f07S8" title="Operation Majestic 12: The Document Leak That Spawned a Thousand Conspiracy Theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6fMNn4f07S8" target="_blank" rel="noopener noreferrer">Operation Majestic 12: The Document Leak That Spawned a Thousand Conspiracy Theories</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 134.9K &middot; Uploaded: November 2025 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6fMNn4f07S8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6fMNn4f07S8">Open on YouTube</a></p></div></div></div>
 

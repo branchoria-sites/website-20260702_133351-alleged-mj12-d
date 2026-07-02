@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ next_link:
   permalink: /death-vacancy/
   short_title: Death Vacancy
   heading_title: Why the Forrestal Vacancy Detail Persuades
-date:'2026-06-29 20:59:15'
+date: '2026-06-29 20:59:15'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_authorizat_25bf22-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_authorizat_25bf22-Illustration-1.webp
@@ -297,9 +297,7 @@ Critics have long argued that this is one of the documents' strongest literary f
 
 The central weakness in Forrestal's supposed authorising role is not that he lacked the necessary status. It is that no supporting documentary trail has been found.
 
-A presidential directive creating a permanent, highly compartmentalised organisation through the Secretary of Defense would ordinarily be expected to leave at least some administrative footprint, even if the operational details remained classified. Researchers have searched presidential libraries, military collections and National [Archives]({{'archives/' | relative_url }}) holdings for corroborating records associated with the alleged Truman memorandum and the MJ-12 briefing.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCmV5eNx8WE" title="Majestic 12 and the Secret Government 🎧 By William Cooper. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCmV5eNx8WE" target="_blank" rel="noopener noreferrer">Majestic 12 and the Secret Government 🎧 By William Cooper. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Full Length Audiobooks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCmV5eNx8WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCmV5eNx8WE">Open on YouTube</a></p></div></div></div>
+A presidential directive creating a permanent, highly compartmentalised organisation through the Secretary of Defense would ordinarily be expected to leave at least some administrative footprint, even if the operational details remained classified. Researchers have searched presidential libraries, military collections and National [Archives]({{'archives/' | relative_url }}) holdings for corroborating records associated with the alleged Truman memorandum and the MJ-12 briefing.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCmV5eNx8WE" title="Majestic 12 and the Secret Government 🎧 By William Cooper. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCmV5eNx8WE" target="_blank" rel="noopener noreferrer">Majestic 12 and the Secret Government 🎧 By William Cooper. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Full Length Audiobooks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCmV5eNx8WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCmV5eNx8WE">Open on YouTube</a></p></div></div></div>
 
 ## Why Forrestal's name remains persuasive
 

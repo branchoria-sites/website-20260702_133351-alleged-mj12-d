@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ next_link:
   permalink: /film-roll-1b51fd/
   short_title: Film Roll
   heading_title: Why a Film Roll Made MJ 12 Harder to Prove
-date:'2026-06-29 21:00:00'
+date: '2026-06-29 21:00:00'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259-Illustration-1.webp
@@ -276,8 +276,6 @@ image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutl
 
 The discovery of the so-called Cutler–Twining memorandum briefly appeared to solve the greatest weakness in the alleged MJ-12 papers: the lack of any independent archival reference to"MJ-12". Unlike the anonymous 35 mm film received by Jaime Shandera, this document was reportedly found in the US National [Archives]({{'archives/' | relative_url }}), giving it the appearance of an authentic government record. For supporters, it seemed to move the story from an anonymous leak into the historical record. Yet the memo ultimately became a verification detour rather than a confirmation. Although it contained the phrase"NSC/MJ-12 Special Studies Project", researchers were unable to establish a reliable documentary trail connecting it to the earlier film-roll documents, and archivists identified significant problems with the memo's [provenance]({{'provenance/' | relative_url }}) and filing characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — The National Archives has received numerous inquiries c...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259-Illustration-1-dark.svg" | relative_url }}" alt="Archive Detour illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7_cutler_twining_detou_b9a259-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Moore and Shandera found the memo
-
-According to accounts given by William L. Moore and Jaime Shandera, they did not simply stumble across the document while browsing archival collections. Moore stated that, after receiving a series of anonymous postcards containing cryptic numerical clues, the pair searched recently declassified [National Security]({{'1947-context/' | relative_url }}) Council material at the National Archives. There they located a one-page memorandum dated 14 July 1954 from Robert Cutler, President Eisenhower's Special Assistant, to General Nathan F. [Twining]({{'twining/' | relative_url }}), then Air Force Chief of Staff. The memo referred to postponing an"NSC/MJ-12 Special Studies Project" briefing scheduled for 16 July 1954.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
@@ -309,9 +307,7 @@ Among the problems noted were:
 * Searches across related National Security Council, Joint Chiefs of Staff, Air Force and presidential records failed to locate corroborating references to an"MJ-12" project.
 * No supporting documentation explaining the meeting, the project or its participants was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — The National Archives has received numerous inquiries c...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span></div>
 
-These observations did not prove the memo was forged, but they meant the archival context expected of a genuine classified government programme was missing. Instead of leading researchers into a broader documentary trail, the memo remained an isolated reference.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5gVxTygJ79E" title="The Majestic 12 Documents | The Truman Memorandum | A UFO Researcher&#x27;s Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5gVxTygJ79E" target="_blank" rel="noopener noreferrer">The Majestic 12 Documents | The Truman Memorandum | A UFO Researcher&#x27;s Discovery</a></p><p class="youtube-embed-meta">Channel: Ancient Eclipsed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5gVxTygJ79E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5gVxTygJ79E">Open on YouTube</a></p></div></div></div>
+These observations did not prove the memo was forged, but they meant the archival context expected of a genuine classified government programme was missing. Instead of leading researchers into a broader documentary trail, the memo remained an isolated reference.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5gVxTygJ79E" title="The Majestic 12 Documents | The Truman Memorandum | A UFO Researcher&#x27;s Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5gVxTygJ79E" target="_blank" rel="noopener noreferrer">The Majestic 12 Documents | The Truman Memorandum | A UFO Researcher&#x27;s Discovery</a></p><p class="youtube-embed-meta">Channel: Ancient Eclipsed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5gVxTygJ79E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5gVxTygJ79E">Open on YouTube</a></p></div></div></div>
 
 ## The archive find changed the debate, not the evidence
 

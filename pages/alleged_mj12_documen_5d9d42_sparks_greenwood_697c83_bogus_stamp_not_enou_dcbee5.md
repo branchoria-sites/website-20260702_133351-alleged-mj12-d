@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:59:23'
+date: '2026-06-29 20:59:23'
 parent_title: The Researchers Who Rebuilt MJ 12's Origins
 parent_permalink: /sparks-greenwood/
 parent_nav_short_title: Sparks Greenwood
@@ -282,8 +282,6 @@ image: /assets/images/alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_bogus_
 
 The large red **“BOGUS”** stamp that appears across copies of the alleged MJ-12 papers in the FBI's online records is often treated as if it settled the controversy by itself. It certainly became one of the most recognisable official rejections of the documents. However, it did not end debate because the dispute had already shifted beyond a simple question of [authenticity]({{'authenticity/' | relative_url }}). Supporters questioned the meaning and authority of the FBI annotation, while critics such as Brad Sparks and Barry Greenwood argued that the more important issue was not the stamp itself but how the MJ-12 story had emerged and spread through UFO research networks. In that sense, the official rejection addressed whether particular papers appeared genuine, whereas [provenance]({{'provenance/' | relative_url }}) research sought to explain why those papers became persuasive despite official denials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_bogus_stamp_not_enou_dcbee5-Illustration-1-dark.svg" | relative_url }}" alt="BOGUS Stamp illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_bogus_stamp_not_enou_dcbee5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_sparks_greenwood_697c83_bogus_stamp_not_enou_dcbee5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What official rejection established
-
-The FBI's involvement began after receiving copies of the alleged MJ-12 material during the late 1980s. Following contact with the Air Force Office of Special Investigations, the Bureau concluded that no authorised committee matching the documents' claims had been established and marked the material as **"completely bogus"** before closing the matter. The stamp therefore represented the Bureau's assessment of the documents submitted to it rather than a lengthy public investigation into every aspect of the wider MJ-12 narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8KEGVhSgp1k" title="Do These Memos Prove MJ-12 And The Deep State Assassinated JFK Over UFOs? | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8KEGVhSgp1k" target="_blank" rel="noopener noreferrer">Do These Memos Prove MJ-12 And The Deep State Assassinated JFK Over UFOs? | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Quest TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8KEGVhSgp1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8KEGVhSgp1k">Open on YouTube</a></p></div></div></div>
 

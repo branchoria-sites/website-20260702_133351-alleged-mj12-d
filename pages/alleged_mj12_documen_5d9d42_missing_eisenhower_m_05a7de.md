@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /nsc-silence/
   short_title: NSC Silence
   heading_title: Why NSC Records Are Silent on MJ 12
-date:'2026-06-29 20:58:14'
+date: '2026-06-29 20:58:14'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de-overview.webp

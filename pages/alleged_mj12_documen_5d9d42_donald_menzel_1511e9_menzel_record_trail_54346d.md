@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:30'
+date: '2026-06-29 20:58:30'
 parent_title: Why Donald Menzel Complicates the MJ 12 Roster
 parent_permalink: /menzel/
 parent_nav_short_title: Menzel
@@ -304,8 +304,7 @@ The GAO summarised a remarkably consistent picture across agencies:<div class="c
 
 * The Information Security Oversight Office, Air Force and National Archives knew of the MJ-12 papers only because private individuals had submitted copies to them.
 * Agencies found no evidence that the documents originated within the executive branch.
-* Archivists searching federal repositories found nothing matching the alleged records or supporting their authenticity.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rOrEJia25S0" title="The Chilluminati Podcast - Episode 181 - The Majestic 12 and the Alien Agenda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rOrEJia25S0" target="_blank" rel="noopener noreferrer">The Chilluminati Podcast - Episode 181 - The Majestic 12 and the Alien Agenda</a></p><p class="youtube-embed-meta">Channel: Chilluminati Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rOrEJia25S0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rOrEJia25S0">Open on YouTube</a></p></div></div></div>
+* Archivists searching federal repositories found nothing matching the alleged records or supporting their authenticity.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rOrEJia25S0" title="The Chilluminati Podcast - Episode 181 - The Majestic 12 and the Alien Agenda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rOrEJia25S0" target="_blank" rel="noopener noreferrer">The Chilluminati Podcast - Episode 181 - The Majestic 12 and the Alien Agenda</a></p><p class="youtube-embed-meta">Channel: Chilluminati Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rOrEJia25S0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rOrEJia25S0">Open on YouTube</a></p></div></div></div>
 
 ## How the FBI Treated the Disputed Papers
 

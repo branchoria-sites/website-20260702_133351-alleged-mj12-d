@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /intel-memo/
   short_title: Intel Memo
   heading_title: Why Forrestal Looked Like a Secrecy Broker
-date:'2026-06-29 20:58:32'
+date: '2026-06-29 20:58:32'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_first_nsc_meeting_1c00b2-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_first_nsc_meeting_1c00b2-Illustration-1.webp

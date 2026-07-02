@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /gao-review-9e346e/
   short_title: GAO Review
   heading_title: Did MJ 12 Come From Government Files?
-date:'2026-06-29 20:58:56'
+date: '2026-06-29 20:58:56'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_fbi_bogus_finding_85393a-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f_fbi_bogus_finding_85393a-Illustration-1.webp
@@ -308,8 +308,6 @@ The"bogus" annotation therefore reflects the official disposition of the questio
 ## What the FBI finding actually proves
 
 The FBI file provides strong evidence for three specific conclusions.
-
-First, it demonstrates that the U.S. government did not recognise the submitted MJ-12 papers as authentic classified records. Had investigators concluded otherwise, the expected response would have involved protection of classified information rather than closing the matter as involving fabricated documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PeULVsP-jEQ" title="Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PeULVsP-jEQ" target="_blank" rel="noopener noreferrer">Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PeULVsP-jEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PeULVsP-jEQ">Open on YouTube</a></p></div></div></div>
 

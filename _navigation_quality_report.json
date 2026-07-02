@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T14:23:52.750358Z",
+  "generated_at_utc": "2026-07-02T16:48:40.782728Z",
   "summary": {
     "total_pages_with_permalink": 242,
     "visible_pages": 211,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 1493,
+    "inline_internal_edge_count": 1464,
     "inline_internal_target_page_count": 211,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
     "visible_pages_with_inline_outbound_links": 210,
-    "average_inline_inbound_links_per_visible_page": 7.08,
+    "average_inline_inbound_links_per_visible_page": 6.94,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -30,13 +30,13 @@
         "basename": "alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_national_security_ac_8cb4fd",
         "title": "Why 1947 Helps and Hurts the Memo",
         "permalink": "/1947-context/",
-        "inline_inbound_count": 144
+        "inline_inbound_count": 139
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_national_archives_se_919a76",
         "title": "What the National Archives Did Not Find",
         "permalink": "/archives/",
-        "inline_inbound_count": 140
+        "inline_inbound_count": 135
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_authenticity_case_ef6a2f",
@@ -48,7 +48,7 @@
         "basename": "alleged_mj12_documen_5d9d42",
         "title": "The Alleged MJ 12 Documents",
         "permalink": "/the-alleged-mj-12-documents/",
-        "inline_inbound_count": 124
+        "inline_inbound_count": 119
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_provenance_testing_ced9f1",
@@ -60,13 +60,13 @@
         "basename": "alleged_mj12_documen_5d9d42_nathan_twining_72c2af",
         "title": "Why Nathan Twining Became an MJ 12 Anchor",
         "permalink": "/twining/",
-        "inline_inbound_count": 74
+        "inline_inbound_count": 71
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_classification_flaws_95e345_top_secret_not_enoug_47fad3",
         "title": "Why a Top Secret Stamp Is Not Enough",
         "permalink": "/top-secret/",
-        "inline_inbound_count": 60
+        "inline_inbound_count": 57
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb_mj12_bureaucracy_c1a856",
@@ -90,19 +90,19 @@
         "basename": "alleged_mj12_documen_5d9d42_aquarius_material_0657de",
         "title": "How Aquarius Claims Fed the MJ 12 Story",
         "permalink": "/aquarius/",
-        "inline_inbound_count": 32
+        "inline_inbound_count": 31
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd",
         "title": "The Missing Presidential Paper Trail",
         "permalink": "/library-searches/",
-        "inline_inbound_count": 32
+        "inline_inbound_count": 31
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_plausibility_trap_1e63ba",
         "title": "Why MJ 12 Looked Real to Many Readers",
         "permalink": "/plausibility/",
-        "inline_inbound_count": 30
+        "inline_inbound_count": 29
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_missing_eisenhower_m_05a7de_appointment_books_pr_3fc8a8",
@@ -126,7 +126,7 @@
         "basename": "alleged_mj12_documen_5d9d42_ufo_culture_impact_b3cafb",
         "title": "Why MJ 12 Changed UFO Culture",
         "permalink": "/ufo-culture/",
-        "inline_inbound_count": 20
+        "inline_inbound_count": 19
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_afosi_rejection_0a0eb4",
@@ -141,15 +141,15 @@
         "inline_inbound_count": 13
       },
       {
-        "basename": "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_roswell_research_fee_414019",
-        "title": "When a Leak Echoes the Researcher",
-        "permalink": "/feedback-loop/",
-        "inline_inbound_count": 12
-      },
-      {
         "basename": "alleged_mj12_documen_5d9d42_eisenhower_briefing_faad2c_hillenkoetter_credib_ded953",
         "title": "Why Hillenkoetter Was a Strategic Name",
         "permalink": "/hillenkoetter/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_pratt_tapes_a5fb50_roswell_research_fee_414019",
+        "title": "When a Leak Echoes the Researcher",
+        "permalink": "/feedback-loop/",
         "inline_inbound_count": 11
       },
       {
@@ -157,12 +157,6 @@
         "title": "The Extraordinary Recovery Claims Inside MJ 12",
         "permalink": "/recoveries/",
         "inline_inbound_count": 11
-      },
-      {
-        "basename": "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770",
-        "title": "Bill Moore and the MJ 12 Backchannel Story",
-        "permalink": "/bill-moore/",
-        "inline_inbound_count": 10
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_donald_menzel_1511e9",
@@ -187,6 +181,12 @@
         "title": "What Official Reviews Found About Alien Recovery",
         "permalink": "/official-reviews/",
         "inline_inbound_count": 10
+      },
+      {
+        "basename": "alleged_mj12_documen_5d9d42_bill_moore_network_0f1770",
+        "title": "Bill Moore and the MJ 12 Backchannel Story",
+        "permalink": "/bill-moore/",
+        "inline_inbound_count": 8
       },
       {
         "basename": "alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_lay_coyne_delegation_741652",

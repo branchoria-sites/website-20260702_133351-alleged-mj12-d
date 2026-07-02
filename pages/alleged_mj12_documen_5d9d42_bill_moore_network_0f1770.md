@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,13 +225,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:58:06'
+date: '2026-06-29 20:58:06'
 parent_title: MJ 12 Files
 parent_permalink: /the-alleged-mj-12-documents/
 parent_nav_short_title: MJ 12 Files
@@ -445,9 +445,7 @@ header:
 image: /assets/images/alleged_mj12_documen_5d9d42_bill_moore_network_0f1770-overview-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B1swLAHD5y0" title="1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer">1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive</a></p><p class="youtube-embed-meta">Channel: UFOs Around The World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B1swLAHD5y0">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B1swLAHD5y0" title="1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer">1989 MUFON UFO Cover Up Conference – John Lear, Bill Cooper &amp; Bill Moore Rare Suppressed Archive</a></p><p class="youtube-embed-meta">Channel: UFOs Around The World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B1swLAHD5y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B1swLAHD5y0">Open on YouTube</a></p></div></div></div>
 
 ## Moore's place in MJ-12 history
 
@@ -461,8 +459,6 @@ Moore’s importance therefore lies less in any single claim he made than in the
 ## Why researcher networks mattered
 
 MJ-12 persuaded many readers because it looked like a document case, but it behaved like a network case. Its credibility rose or fell not only on typefaces, signatures and classification markings, but on relationships: Moore and Shandera; Moore and Friedman; Moore and Richard Doty; Moore and Paul Bennewitz; and the wider circle of UFO writers who received rumours, facsimiles, drafts and briefings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/429487873/MUFON-UFO-Journal-November-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">MUFON UFO Journal</span><span class="citation-popover-snippet">MUFON UFO Journal</span></span></span>
-
-The Bennewitz affair is the clearest example of why those relationships matter. Paul Bennewitz, an Albuquerque businessman and electronics enthusiast, believed he was detecting alien activity near Kirtland Air Force Base. Moore’s 1989 MUFON address described Bennewitz as someone who had drawn conclusions from incomplete data and who became the target of a disinformation operation. Moore said that Air Force OSI agent Richard Doty acted as a liaison and that Moore supplied information about Bennewitz’s current thinking and activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/429487873/MUFON-UFO-Journal-November-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">MUFON UFO Journal</span><span class="citation-popover-snippet">MUFON UFO Journal</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PuMuD4i_6ZY" title="Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer">Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 20.7K &middot; Uploaded: March 2021 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PuMuD4i_6ZY">Open on YouTube</a></p></div></div></div>
 
@@ -478,8 +474,6 @@ The same network problem appears in the “Aquarius” strand. GAO reported find
 ## How source channels complicate trust
 
 The Moore controversy shows why MJ-12 cannot be evaluated like an ordinary archive discovery. In an ordinary records case, the researcher’s personality is secondary to the chain of custody. In MJ-12, the chain of custody runs through people whose claims, motives and contacts are part of the evidence problem. Moore’s 1989 MUFON speech did not merely embarrass him; it forced readers to ask whether the same network that promoted MJ-12 had also normalised the circulation of false or semi-false material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/429487873/MUFON-UFO-Journal-November-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">MUFON UFO Journal</span><span class="citation-popover-snippet">MUFON UFO Journal</span></span></span>
-
-The official record sharpens that concern. The National Archives found no supporting MJ-12 record trail and listed specific problems with the Cutler-Twining memo, including its filing context, lack of related documents, questionable security marking, paper characteristics and the absence of a matching NSC meeting record. The Eisenhower Library also noted that Cutler was overseas on the date he supposedly issued the memorandum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUfimKiS-po" title="Full, infamous 1989 disinformation confession speech by Bill Moore on ufology, Paul Bennewitz &amp; more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUfimKiS-po" target="_blank" rel="noopener noreferrer">Full, infamous 1989 disinformation confession speech by Bill Moore on ufology, Paul Bennewitz &amp; more</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 11.6K &middot; Uploaded: September 2025 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUfimKiS-po" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUfimKiS-po">Open on YouTube</a></p></div></div></div>
 

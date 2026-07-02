@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /order-number/
   short_title: Order Number
   heading_title: Does the Executive Order Claim Fit Truman Records?
-date:'2026-06-29 21:00:52'
+date: '2026-06-29 21:00:52'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_meeting_camou_67f598-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_truman_authorisation_aafe47_truman_meeting_camou_67f598-Illustration-1.webp

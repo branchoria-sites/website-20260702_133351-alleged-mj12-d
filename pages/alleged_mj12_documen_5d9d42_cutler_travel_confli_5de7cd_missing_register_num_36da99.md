@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /secret-meeting/
   short_title: Secret Meeting
   heading_title: Can Secrecy Explain Every Missing Record?
-date:'2026-06-29 21:00:28'
+date: '2026-06-29 21:00:28'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-1.webp
@@ -281,9 +281,7 @@ image: /assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_mi
 ## Introduction
 
 One of the less-discussed but technically important objections to the alleged MJ-12 Cutler–Twining memorandum concerns not its wording or date, but its place in the archival filing system. The document was reportedly found in Record Group 341, Entry 267, filed in folder T4-1846. According to the US National Archives, that record series was organised using Top Secret register numbers, yet the disputed memorandum carries no such number. This matters because highly [classified records]({{'secret-trails/' | relative_url }}) were not simply placed into folders at random: they normally entered a documented control system that allowed officials to account for sensitive documents throughout their administrative life. The absence of the expected register number does not, by itself, prove forgery, but it creates a records-management anomaly that investigators have consistently treated as one element in a wider pattern of [authenticity]({{'authenticity/' | relative_url }}) concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The series is filed by a Top Secret register number. This document does not bear such a number. The...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-1-dark.svg" | relative_url }}" alt="Register Gap illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-## Record Group 341 and Entry 267
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_mERq7ad6gg" title="Webinar on Non-Compliant Digitization Frequently Asked Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer">Webinar on Non-Compliant Digitization Frequently Asked Questions</a></p><p class="youtube-embed-meta">Channel: US National Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_mERq7ad6gg">Open on YouTube</a></p></div></div></div>
+## Record Group 341 and Entry 267<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_mERq7ad6gg" title="Webinar on Non-Compliant Digitization Frequently Asked Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer">Webinar on Non-Compliant Digitization Frequently Asked Questions</a></p><p class="youtube-embed-meta">Channel: US National Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_mERq7ad6gg">Open on YouTube</a></p></div></div></div>
 
 ## Why Top Secret register numbers mattered
 
@@ -293,8 +291,6 @@ The National Archives' criticism is narrowly framed. It does not argue that ever
 
 This distinction is significant because the issue is evidential rather than theoretical. If a document supposedly entered a controlled Top Secret filing series through ordinary administrative procedures, researchers would expect it to bear the identifying feature used to organise that series. Its absence raises the question of how the memorandum would have been incorporated into the filing system in the first place.<img src="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-2-dark.svg" | relative_url }}" alt="Register Gap illustration 2" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd_missing_register_num_36da99-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the T4-1846 folder did not contain
-
-The National Archives identifies a second related anomaly. Although the memorandum was filed in folder T4-1846, archivists reported that the folder contained no other documents concerning"NSC/MJ-12." In other words, the alleged memorandum appears in isolation rather than as part of a broader documentary sequence surrounding the supposed project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The series is filed by a Top Secret register number. This document does not bear such a number. The...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 

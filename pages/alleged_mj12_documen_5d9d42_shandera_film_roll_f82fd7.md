@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /forrestal/
   short_title: Forrestal
   heading_title: Why James Forrestal Fit the MJ 12 Story
-date:'2026-06-29 20:58:08'
+date: '2026-06-29 20:58:08'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_shandera_film_roll_f82fd7-overview.webp
@@ -463,9 +463,7 @@ The Shandera package made the MJ-12 papers memorable because it looked like a le
 
 The Shandera film offered a dramatic origin but not a verifiable one. The recipient was known; the sender was not. The claimed documents could be read and copied; the original sheets could not be examined. The postmark suggested a place; it did not identify a person, office or file series. The result was a weak starting point for a claim that depended heavily on authenticity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/majestic-12.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">majestic 12</span><span class="citation-popover-snippet">Majestic 1216 Apr 2024 — In December 1984 this alleged briefing. In December 1984 a package. Inside was a roll of 35mm film...</span><span class="citation-popover-meta">Published: December 1984</span></span></span>
 
-This distinction helps explain why the story has remained so durable. The delivery account is vivid enough to be retold in a sentence, but it is too incomplete to settle the case. It supplies atmosphere rather than custody. It explains how Shandera and his colleagues said they first encountered the papers, but it does not explain where the papers came from before the film was made or why a genuine insider would choose this route rather than a form that could later be authenticated.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
+This distinction helps explain why the story has remained so durable. The delivery account is vivid enough to be retold in a sentence, but it is too incomplete to settle the case. It supplies atmosphere rather than custody. It explains how Shandera and his colleagues said they first encountered the papers, but it does not explain where the papers came from before the film was made or why a genuine insider would choose this route rather than a form that could later be authenticated.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ## Why the Albuquerque Postmark Became a Clue
 
@@ -479,8 +477,6 @@ That does not prove that Shandera created the film or knew who sent it. It does 
 ## The Two-Year Verification Gap
 
 One of the most important parts of the origin story is the interval between receipt and release. Shandera reportedly received the film in December 1984, but Moore, Shandera and Friedman did not make the documents public until May 1987. Supporters have treated this delay as evidence that the researchers were cautious, trying to check the material before releasing it. Sceptics have treated it as part of the problem: a long private interval in which the public cannot see what was done, who was consulted, what copies existed, or how the story evolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1990/01/22165233/p30.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Open source on centerforinquiry.org.</span></span></span>
-
-During that interval, Moore and Shandera searched declassified records at the National Archives. In 1985, they found the Cutler-Twining memorandum, dated 14 July 1954, referring to an “NSC/MJ-12 Special Studies Project”. To supporters, this was the strongest link between the anonymous film and an actual archival file. It appeared to put the term “MJ-12” inside government custody rather than only inside the film-roll documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
 

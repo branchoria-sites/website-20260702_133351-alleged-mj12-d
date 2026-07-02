@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /eberstadt/
   short_title: Eberstadt
   heading_title: The Blueprint That Made Forrestal Plausible
-date:'2026-06-29 20:59:15'
+date: '2026-06-29 20:59:15'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49-Illustration-1.webp
@@ -282,8 +282,6 @@ image: /assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrest
 
 [James Forrestal]({{'forrestal/' | relative_url }})'s transition from the last cabinet-level Secretary of the Navy to the first United States Secretary of Defense is one of the reasons his name appears convincing in alleged MJ-12 documents. His career genuinely bridged the shift from the temporary wartime command system of the Second World War to the permanent [national security]({{'1947-context/' | relative_url }}) institutions created at the beginning of the Cold War. That historical position gives later secret-government narratives a degree of administrative plausibility. However, while Forrestal's responsibilities made him a believable candidate for handling highly classified defence matters, they do not provide evidence that he participated in a hidden UFO oversight body. His real career explains why his name feels credible in such claims; it does not authenticate them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.defense.gov/Multimedia/Biographies/Article-View/Article/571293/james-v-forrestal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.defense.gov">[history.defense.gov+2National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.defense.gov</span><span class="citation-popover-title">james v forrestal</span><span class="citation-popover-snippet">James V. ForrestalJames Forrestal became the first secretary of defense on 17 September 1947 his swearing-in took place, at President Tru...</span><span class="citation-popover-meta">Published: September 1947</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49-Illustration-1-dark.svg" | relative_url }}" alt="Defense Bridge illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_james_forrestal_26f0e9_forrestal_defense_tr_d30f49-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From wartime Navy procurement to demobilisation
-
-Forrestal entered government as Under Secretary of the Navy in 1940 after a successful career in finance and became Secretary of the Navy in 1944. During the final years of the Second World War he oversaw one of the largest military procurement systems in history, managing industrial production, logistics, personnel expansion and the transition from wartime mobilisation towards post-war demobilisation. These responsibilities required constant interaction with the Army, the Joint Chiefs of Staff and the White House while dealing with information that was routinely classified at the highest levels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.defense.gov/Multimedia/Biographies/Article-View/Article/571293/james-v-forrestal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.defense.gov">[history.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.defense.gov</span><span class="citation-popover-title">james v forrestal</span><span class="citation-popover-snippet">James V. ForrestalJames Forrestal became the first secretary of defense on 17 September 1947 his swearing-in took place, at President Tru...</span><span class="citation-popover-meta">Published: September 1947</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCmV5eNx8WE" title="Majestic 12 and the Secret Government 🎧 By William Cooper. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCmV5eNx8WE" target="_blank" rel="noopener noreferrer">Majestic 12 and the Secret Government 🎧 By William Cooper. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Full Length Audiobooks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCmV5eNx8WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCmV5eNx8WE">Open on YouTube</a></p></div></div></div>
 

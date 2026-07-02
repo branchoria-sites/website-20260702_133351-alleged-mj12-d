@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,16 +438,14 @@ next_link:
   permalink: /fbi-file/
   short_title: FBI File
   heading_title: Why the FBI File Did Not Confirm MJ 12
-date:'2026-06-29 20:58:12'
+date: '2026-06-29 20:58:12'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd-overview.webp
 image: /assets/images/alleged_mj12_documen_5d9d42_cutler_travel_confli_5de7cd-overview-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jRVhMiq-IQ" title="Majestic 12 EXPOSED: The Story Behind the Hoaxed UFO Documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jRVhMiq-IQ" target="_blank" rel="noopener noreferrer">Majestic 12 EXPOSED: The Story Behind the Hoaxed UFO Documents</a></p><p class="youtube-embed-meta">Channel: TheSneezingMonkey &middot; Views: 12.5K &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jRVhMiq-IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jRVhMiq-IQ">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jRVhMiq-IQ" title="Majestic 12 EXPOSED: The Story Behind the Hoaxed UFO Documents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jRVhMiq-IQ" target="_blank" rel="noopener noreferrer">Majestic 12 EXPOSED: The Story Behind the Hoaxed UFO Documents</a></p><p class="youtube-embed-meta">Channel: TheSneezingMonkey &middot; Views: 12.5K &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jRVhMiq-IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jRVhMiq-IQ">Open on YouTube</a></p></div></div></div>
 
 ## Where Cutler Was Reported to Be
 
@@ -480,8 +478,6 @@ The strongest sceptical reading is not that a [secret meeting]({{'secret-meeting
 ## How Appointment Records Affect the Claim
 
 Appointment books are not perfect historical instruments, but in this case they matter because the alleged MJ-12 briefing is presented as a scheduled event, not a vague rumour. A dated memo about a briefing two days later should be tested against the calendars and minutes that record high-level government business. The National Archives’ report does exactly that: it places the memo beside Eisenhower’s appointment books, NSC meeting files, NSC indexes and related agency files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
-The appointment-book evidence is especially important because the Eisenhower Library’s statement does not simply say “we found no MJ-12 entry”. It says the appointment books contain no entry for a special meeting on 16 July 1954 that might have included such a briefing, and that even off-the-record meetings were normally represented by time-and-participant entries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> That makes the missing entry more meaningful. The absence is not being judged against an expectation of full public disclosure; it is being judged against the library’s knowledge of how Eisenhower’s appointment records handled sensitive or off-the-record business.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzB87RJkQVU" title="The Majestic-12 Documents [With Ryan S. Wood]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer">The Majestic-12 Documents [With Ryan S. Wood]</a></p><p class="youtube-embed-meta">Channel: UAP Gerb &middot; Views: 110.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzB87RJkQVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzB87RJkQVU">Open on YouTube</a></p></div></div></div>
 

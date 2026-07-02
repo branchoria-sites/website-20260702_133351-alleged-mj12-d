@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /roswell-gap/
   short_title: Roswell Gap
   heading_title: Why Missing Roswell Files Are Not Enough
-date:'2026-06-29 20:58:22'
+date: '2026-06-29 20:58:22'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_gao_review_86e803_presidential_library_6abbfd-Illustration-1.webp
@@ -305,8 +305,6 @@ The breadth of these searches matters because authentic executive-branch program
 ## What the searches failed to find
 
 The presidential library searches consistently failed to uncover evidence supporting the existence of the alleged MJ-12 programme.
-
-GAO summarised the archivists' findings by noting that, despite receiving numerous public enquiries over the years, the Truman and Eisenhower Libraries had found nothing in their searches of related records—including classified intelligence and National Security Council documents—that matched the alleged MJ-12 material or even referenced that designation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/154832.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Comments on Majestic 12 Material</span><span class="citation-popover-snippet">GAO[Comments on Majestic 12 Material]July 28, 1995 — I&#x27;?:. We also asked the archivists at the HarryS. Truman and. Dwight D. Eisenhower l...</span><span class="citation-popover-meta">Published: July 28, 1995</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.7K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 

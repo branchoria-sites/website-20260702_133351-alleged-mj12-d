@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -271,7 +271,7 @@ next_link:
   permalink: /paper-clues-9fadcf/
   short_title: Paper Clues
   heading_title: The paper clues that trouble MJ 12
-date:'2026-06-29 21:00:47'
+date: '2026-06-29 21:00:47'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75-Illustration-1.webp
@@ -281,9 +281,7 @@ image: /assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_to
 ## Introduction
 
 Finding a disputed document in a National Archives record group does not, by itself, authenticate its contents. This point is central to the debate over the alleged MJ-12 papers. The most frequently cited archival discovery—the 14 July 1954 Cutler-to-Twining memorandum—was indeed found within an official Air Force record group. However, the National Archives has consistently distinguished between a document's physical location and its evidential value. In its own reference report, the Archives highlights several [filing anomalies]({{'filing-anomalies/' | relative_url }}), including the absence of a required [Top Secret]({{'top-secret/' | relative_url }}) register number and the lack of related records in the same file series. Those features are significant because genuine classified government records are normally supported by administrative context rather than standing alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The series is filed by a Top Secret register number. This document does not bear such a number. The...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75-Illustration-1-dark.svg" | relative_url }}" alt="Filing Gap illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_national_archives_se_919a76_top_secret_filing_ga_9e1b75-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-## Record Group 341 and the scale problem
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
+## Record Group 341 and the scale problem<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ## The missing Top Secret register number
 
@@ -297,9 +295,7 @@ This absence is important because it is not merely a formatting curiosity. In a 
 * filing and withdrawal records;
 * related correspondence;
 * disposition records;
-* parallel copies maintained by other offices.</div>
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_mERq7ad6gg" title="Webinar on Non-Compliant Digitization Frequently Asked Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer">Webinar on Non-Compliant Digitization Frequently Asked Questions</a></p><p class="youtube-embed-meta">Channel: US National Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_mERq7ad6gg">Open on YouTube</a></p></div></div></div>
+* parallel copies maintained by other offices.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_mERq7ad6gg" title="Webinar on Non-Compliant Digitization Frequently Asked Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer">Webinar on Non-Compliant Digitization Frequently Asked Questions</a></p><p class="youtube-embed-meta">Channel: US National Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_mERq7ad6gg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_mERq7ad6gg">Open on YouTube</a></p></div></div></div>
 
 ## Why surrounding documents matter
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-gao-review/
 description: Focused pages that expand on GAO Review.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_gao_review_86e803
 parent_title: GAO Review

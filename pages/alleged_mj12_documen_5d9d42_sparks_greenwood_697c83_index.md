@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alleged-mj12-documen-5d9d42-sparks/
 description: Focused pages that expand on Sparks Greenwood.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: alleged_mj12_documen_5d9d42_sparks_greenwood_697c83
 parent_title: Sparks Greenwood

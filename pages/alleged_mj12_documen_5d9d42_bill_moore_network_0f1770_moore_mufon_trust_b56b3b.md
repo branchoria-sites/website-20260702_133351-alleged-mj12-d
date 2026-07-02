@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,13 +197,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:59:12'
+date: '2026-06-29 20:59:12'
 parent_title: Bill Moore and the MJ 12 Backchannel Story
 parent_permalink: /bill-moore/
 parent_nav_short_title: Bill Moore
@@ -272,13 +272,9 @@ header:
 image: /assets/images/alleged_mj12_documen_5d9d42_bill_moore_network_0f1770_moore_mufon_trust_b56b3b-Illustration-1-social.jpg
 ---
 
-## Introduction
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8sWUem4_Mfg" title="UFOs and the United States Government with Greg Bishop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8sWUem4_Mfg" target="_blank" rel="noopener noreferrer">UFOs and the United States Government with Greg Bishop</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 58.6K &middot; Uploaded: June 2022 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8sWUem4_Mfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8sWUem4_Mfg">Open on YouTube</a></p></div></div></div>
+## Introduction<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8sWUem4_Mfg" title="UFOs and the United States Government with Greg Bishop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8sWUem4_Mfg" target="_blank" rel="noopener noreferrer">UFOs and the United States Government with Greg Bishop</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 58.6K &middot; Uploaded: June 2022 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8sWUem4_Mfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8sWUem4_Mfg">Open on YouTube</a></p></div></div></div>
 
 ## What Moore admitted in 1989
-
-Speaking at the MUFON symposium in Las Vegas in July 1989, Moore described his contacts with individuals he identified as [members]({{'members/' | relative_url }}) of the Air Force Office of Special Investigations (OSI), particularly Richard Doty. He acknowledged that he had cooperated with them over several years, believing that maintaining access to official contacts might eventually produce genuine information about UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bill Moore (ufologist</span><span class="citation-popover-snippet">Bill Moore (ufologist</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUfimKiS-po" title="Full, infamous 1989 disinformation confession speech by Bill Moore on ufology, Paul Bennewitz &amp; more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUfimKiS-po" target="_blank" rel="noopener noreferrer">Full, infamous 1989 disinformation confession speech by Bill Moore on ufology, Paul Bennewitz &amp; more</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 11.6K &middot; Uploaded: September 2025 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUfimKiS-po" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUfimKiS-po">Open on YouTube</a></p></div></div></div>
 
@@ -302,8 +298,7 @@ The result was a broader credibility crisis with several lasting consequences:<d
 
 * Researchers became more sceptical of claims originating from intelligence or military intermediaries.
 * Anonymous document leaks received increased scrutiny regarding provenance and chain of custody.
-* Personal trust between investigators fractured, with accusations of infiltration and disinformation becoming more common.
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wLVvhP_urlo" title="The Legends of Ufology - William Moore Part II" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wLVvhP_urlo" target="_blank" rel="noopener noreferrer">The Legends of Ufology - William Moore Part II</a></p><p class="youtube-embed-meta">Channel: Raised By Giants</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wLVvhP_urlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wLVvhP_urlo">Open on YouTube</a></p></div></div></div>
+* Personal trust between investigators fractured, with accusations of infiltration and disinformation becoming more common.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wLVvhP_urlo" title="The Legends of Ufology - William Moore Part II" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wLVvhP_urlo" target="_blank" rel="noopener noreferrer">The Legends of Ufology - William Moore Part II</a></p><p class="youtube-embed-meta">Channel: Raised By Giants</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wLVvhP_urlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wLVvhP_urlo">Open on YouTube</a></p></div></div></div>
 
 ## How readers can weigh tainted source channels
 

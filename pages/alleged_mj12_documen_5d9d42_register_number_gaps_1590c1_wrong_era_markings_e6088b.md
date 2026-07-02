@@ -49,7 +49,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -197,7 +197,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -265,7 +265,7 @@ prev_link:
   permalink: /search-trail/
   short_title: Search Trail
   heading_title: Where should MJ 12 records have appeared?
-date:'2026-06-29 20:59:58'
+date: '2026-06-29 20:59:58'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b-Illustration-1-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b-Illustration-1.webp
@@ -276,8 +276,6 @@ image: /assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wr
 
 One of the most frequently cited objections to the alleged MJ-12 papers is that some of their security markings appear inconsistent with the administrative practices of the period they claim to represent. On its own, an unusual classification stamp might be explained as an uncommon office practice or a later annotation. The difficulty arises when an apparently wrong-era marking appears on the same document that also lacks the expected archival control features, such as a [Top Secret]({{'top-secret/' | relative_url }}) register number. Rather than being isolated anomalies, the irregularities point in the same direction: the document does not fit the recordkeeping system it purports to come from. This cumulative approach is why historians and archivists generally assess the disputed markings alongside filing context, control numbers and [provenance]({{'provenance/' | relative_url }}) rather than treating any single feature as decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">This particular document poses problems for the...Read more...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b-Illustration-1-dark.svg" | relative_url }}" alt="Wrong Marking illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_register_number_gaps_1590c1_wrong_era_markings_e6088b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the marking is disputed for a 1954 memo
-
-The central issue concerns the phrase **"Top Secret Restricted Information"** appearing on the alleged 14 July 1954 Cutler–Twining memorandum. According to the National Archives, inquiries made to the [National Security]({{'1947-context/' | relative_url }}) Council's Freedom of Information Office found that this marking was not introduced into National Security Council practice until the Nixon administration. The Eisenhower [Presidential Library]({{'library-searches/' | relative_url }}) independently confirmed that the marking was not used during the Eisenhower years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">This particular document poses problems for the...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 

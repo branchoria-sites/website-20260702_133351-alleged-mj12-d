@@ -77,7 +77,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -225,7 +225,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -438,7 +438,7 @@ next_link:
   permalink: /film-roll/
   short_title: Film Roll
   heading_title: How the MJ 12 Papers First Surfaced
-date:'2026-06-29 20:57:59'
+date: '2026-06-29 20:57:59'
 header:
   og_image: /assets/images/alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4-overview-social.jpg
   preview_image: /assets/images/alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4-overview.webp
@@ -459,8 +459,6 @@ That is exactly the kind of bureaucratic pathway that later gets misunderstood. 
 The FBI Vault’s own public description reinforces this limited reading. It says the memo “appeared to be” a briefing for President-elect Eisenhower about a secret committee created to exploit a recovered extraterrestrial aircraft, but then adds that the Air Force investigation determined the document to be fake. The phrasing separates appearance from finding: the document looked like a sensational classified briefing, but the official conclusion did not validate it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12Majestic 12 In 1988, two FBI offices received similar versions of a memo... document to be a fake...</span></span></span><img src="{{"/assets/images/alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4-Illustration-1-dark.svg" | relative_url }}" alt="FBI File illustration 1" data-theme-src-dark="{{"/assets/images/alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/alleged_mj12_documen_5d9d42_fbi_file_myth_474dc4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Bureau Needed to Know
 
-The FBI needed to know whether the MJ-12 papers were genuine [classified records]({{'secret-trails/' | relative_url }}), not whether they made an exciting UFO narrative. That is why the file repeatedly turns on classification status, Department of Defence interest and Air Force Office of Special Investigations input. In one 1988 routing, Dallas said it did not know whether the purported 35-year-old document had been properly declassified and asked headquarters to “discern if the document is still classified”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Majestic%2012/Majestic%2012%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Majestic 12 Part 1 of 1</span><span class="citation-popover-snippet">Majestic 12 Part 1 of 1</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kJQ_FsmU19g" title="The Airforce UFO Cover Up That Drove a Man INSANE | They&#x27;re LYING to US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kJQ_FsmU19g" target="_blank" rel="noopener noreferrer">The Airforce UFO Cover Up That Drove a Man INSANE | They&#x27;re LYING to US</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 5.4M &middot; Uploaded: September 2022 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kJQ_FsmU19g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kJQ_FsmU19g">Open on YouTube</a></p></div></div></div>
 
 ## The “Bogus” Finding Was a File Outcome, Not a Disclosure Tease
@@ -474,9 +472,7 @@ There is a fair nuance here. MuckRock’s review of the declassified file argues
 
 The core myth is a category error: “the FBI has a file on MJ-12” becomes “the FBI confirmed MJ-12”. Those are very different claims. The FBI Vault is an electronic FOIA library containing records released to the public, including proactive disclosures and frequently requested records. The presence of a document in that library means the FBI processed and released a record; it does not mean the FBI vouches for every allegation inside that record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
 
-The same problem appears with many government-reading-room documents. A released file can contain tips, rumours, hoaxes, complaints, internal doubts, third-party claims and agency correspondence. Its evidential value depends on what the file shows officials did with the claim. In the MJ-12 case, the file shows receipt, concern about classification markings, consultation with Air Force channels and closure after the material was treated as bogus. That is the opposite of a clean authentication chain.
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
+The same problem appears with many government-reading-room documents. A released file can contain tips, rumours, hoaxes, complaints, internal doubts, third-party claims and agency correspondence. Its evidential value depends on what the file shows officials did with the claim. In the MJ-12 case, the file shows receipt, concern about classification markings, consultation with Air Force channels and closure after the material was treated as bogus. That is the opposite of a clean authentication chain.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
 ## What the FBI File Actually Proves
 
