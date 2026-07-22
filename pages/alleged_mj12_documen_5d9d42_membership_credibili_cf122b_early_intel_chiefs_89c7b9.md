@@ -355,7 +355,7 @@ That makes the intelligence chiefs significant as credibility signals rather tha
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
         </h4>
         <p class="fr-book-author">By Tim Weiner</p>
-        
+
         <p class="fr-book-desc">Places the early Directors of Central Intelligence in the broader institutional history of the CIA.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That makes the intelligence chiefs significant as credibility signals rather tha
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Examines the intersection of secrecy, Cold War history, and popular myths relevant to discussions of alleged MJ-12 documents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That makes the intelligence chiefs significant as credibility signals rather tha
           <a href="https://www.amazon.com/s?k=CIA+Hugh+Wilford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CIA">CIA</a>
         </h4>
         <p class="fr-book-author">By Hugh Wilford</p>
-        
+
         <p class="fr-book-desc">Provides historical context for the creation of the CIA and its early leadership without endorsing MJ-12 claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=CIA+Hugh+Wilford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That makes the intelligence chiefs significant as credibility signals rather tha
           <a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil&#x27;s chessboard">The devil&#x27;s chessboard</a>
         </h4>
         <p class="fr-book-author">By David Talbot</p>
-        
+
         <p class="fr-book-desc">Explains the evolution of U.S. intelligence institutions after the founding era referenced in the article.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

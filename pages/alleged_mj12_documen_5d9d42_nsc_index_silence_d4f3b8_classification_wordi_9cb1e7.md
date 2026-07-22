@@ -376,7 +376,7 @@ Importantly, historians generally avoid treating any single discrepancy as decis
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Provides broad context on U.S. classified programs, secrecy, and document culture surrounding controversial claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Importantly, historians generally avoid treating any single discrepancy as decis
           <a href="https://www.amazon.com/s?k=Above+Top+Secret+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
         </h4>
         <p class="fr-book-author">By Timothy Good</p>
-        
+
         <p class="fr-book-desc">Covers alleged classified UFO material and provides background directly connected to the MJ-12 debate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Above+Top+Secret+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Importantly, historians generally avoid treating any single discrepancy as decis
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Victor Marchetti, John Marks</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how U.S. government classification systems and intelligence documentation function in practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Importantly, historians generally avoid treating any single discrepancy as decis
           <a href="https://www.amazon.com/s?k=The+Pentagon+Papers+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon Papers">The Pentagon Papers</a>
         </h4>
         <p class="fr-book-author">By Neil Sheehan</p>
-        
+
         <p class="fr-book-desc">Illustrates how classified documents are created, handled, and later scrutinized for authenticity and historical significance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pentagon+Papers+Neil+Sheehan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

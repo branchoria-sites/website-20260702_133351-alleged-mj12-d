@@ -341,7 +341,7 @@ For that reason, historians generally treat Forrestal's appearance in alleged MJ
           <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
         </h4>
         <p class="fr-book-author">By Philip Corso, William J. Birnes</p>
-        
+
         <p class="fr-book-desc">Provides the broader UFO-government narrative that includes figures such as Forrestal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ For that reason, historians generally treat Forrestal's appearance in alleged MJ
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Examines real Cold War secrecy often linked to UFO narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ For that reason, historians generally treat Forrestal's appearance in alleged MJ
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Victor Marchetti, John Marks</p>
-        
+
         <p class="fr-book-desc">Helps readers understand real secrecy and bureaucracy versus conspiracy claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For that reason, historians generally treat Forrestal's appearance in alleged MJ
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Explores documented military involvement without relying on MJ-12 claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

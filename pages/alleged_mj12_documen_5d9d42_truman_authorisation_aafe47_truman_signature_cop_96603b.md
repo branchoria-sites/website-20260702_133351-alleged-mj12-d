@@ -340,13 +340,30 @@ Even so, the signature comparison remains one of the most document-specific and 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truman+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10572946-M.jpg" alt="Cover for Truman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Truman+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truman">Truman</a>
+        </h4>
+        <p class="fr-book-author">By David McCullough</p>
+
+        <p class="fr-book-desc">Covers the 1952 transition and historical context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Truman+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Questioned+documents+Albert+Sherman+Osborn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Questioned documents on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5705298-M.jpg" alt="Cover for Questioned documents" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Questioned+documents+Albert+Sherman+Osborn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Questioned documents">Questioned documents</a>
         </h4>
         <p class="fr-book-author">By Albert Sherman Osborn</p>
-        
+
         <p class="fr-book-desc">Explains principles used to assess signatures and document authenticity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Questioned+documents+Albert+Sherman+Osborn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +380,7 @@ Even so, the signature comparison remains one of the most document-specific and 
           <a href="https://www.amazon.com/s?k=Scientific+examination+of+questioned+documents+Ordway+Hilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific examination of questioned documents">Scientific examination of questioned documents</a>
         </h4>
         <p class="fr-book-author">By Ordway Hilton</p>
-        
+
         <p class="fr-book-desc">Covers techniques relevant to copied signatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scientific+examination+of+questioned+documents+Ordway+Hilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +397,7 @@ Even so, the signature comparison remains one of the most document-specific and 
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case closed">Case closed</a>
         </h4>
         <p class="fr-book-author">By Gerald L. Posner</p>
-        
+
         <p class="fr-book-desc">Demonstrates documentary and evidentiary analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,26 +406,9 @@ Even so, the signature comparison remains one of the most document-specific and 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truman+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10572946-M.jpg" alt="Cover for Truman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truman+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truman">Truman</a>
-        </h4>
-        <p class="fr-book-author">By David McCullough</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Truman, harry s., 1884-1972, Presidents, united states, nyt:e-book-nonfiction=2013-01-20, New York Times...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truman+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Questioned+documents&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Questioned documents</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+examination+of+questioned+documents&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific examination of questioned documents</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Case+closed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Case closed</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truman</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Questioned+documents&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Questioned documents</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+examination+of+questioned+documents&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific examination of questioned documents</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

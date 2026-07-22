@@ -352,7 +352,7 @@ The result is a useful caution for evaluating Cold War conspiratorial claims: ge
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Examines the significance of Menzel&#x27;s inclusion in the alleged committee.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ The result is a useful caution for evaluating Cold War conspiratorial claims: ge
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of flying saucers">The world of flying saucers</a>
         </h4>
         <p class="fr-book-author">By Donald Howard Menzel</p>
-        
+
         <p class="fr-book-desc">Provides background on Menzel alongside his scientific career.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The result is a useful caution for evaluating Cold War conspiratorial claims: ge
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Provides historical context for military-era UFO investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The result is a useful caution for evaluating Cold War conspiratorial claims: ge
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Summarizes Menzel&#x27;s defense work and UFO skepticism in historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

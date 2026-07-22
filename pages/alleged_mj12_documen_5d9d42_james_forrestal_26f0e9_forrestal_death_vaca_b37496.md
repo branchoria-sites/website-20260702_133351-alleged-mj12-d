@@ -371,7 +371,7 @@ Rather than relying exclusively on sensational material, the briefing spends att
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores how secrecy narratives evolve over time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Rather than relying exclusively on sensational material, the briefing spends att
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
         </h4>
         <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Places MJ-12 succession claims within the wider UFO mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Rather than relying exclusively on sensational material, the briefing spends att
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of the CIA">The Secret History of the CIA</a>
         </h4>
         <p class="fr-book-author">By Joseph J. Trento</p>
-        
+
         <p class="fr-book-desc">Adds institutional context to postwar intelligence leadership.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Rather than relying exclusively on sensational material, the briefing spends att
           <a href="https://www.amazon.com/s?k=James+Forrestal+Arnold+A.+Rogow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="James Forrestal">James Forrestal</a>
         </h4>
         <p class="fr-book-author">By Arnold A. Rogow</p>
-        
+
         <p class="fr-book-desc">Covers Forrestal&#x27;s career, resignation, and death in historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=James+Forrestal+Arnold+A.+Rogow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

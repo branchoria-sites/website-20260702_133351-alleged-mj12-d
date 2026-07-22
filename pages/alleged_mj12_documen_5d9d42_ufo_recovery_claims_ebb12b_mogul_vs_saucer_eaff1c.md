@@ -341,7 +341,7 @@ Finally, there is the broader documentary question. Extensive government reviews
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Presents the classic crashed-craft interpretation discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ Finally, there is the broader documentary question. Extensive government reviews
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides wider context for official and military perspectives on UFO claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ Finally, there is the broader documentary question. Extensive government reviews
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
         </h4>
         <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Examines Roswell evidence and challenges the Project Mogul explanation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Finally, there is the broader documentary question. Extensive government reviews
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case closed">Case closed</a>
         </h4>
         <p class="fr-book-author">By Gerald L. Posner</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in weighing competing explanations and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

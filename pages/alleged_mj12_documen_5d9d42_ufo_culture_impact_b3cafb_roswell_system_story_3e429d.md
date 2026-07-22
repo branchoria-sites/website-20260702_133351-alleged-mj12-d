@@ -355,7 +355,7 @@ By the end of the twentieth century, Roswell had acquired a dual identity. Histo
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Foundational account that shaped later Roswell narratives discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ By the end of the twentieth century, Roswell had acquired a dual identity. Histo
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Directly analyzes the alleged MJ-12 papers and their role in Roswell mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ By the end of the twentieth century, Roswell had acquired a dual identity. Histo
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
         </h4>
         <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Examines crash-retrieval claims that later became linked with MJ-12 narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ By the end of the twentieth century, Roswell had acquired a dual identity. Histo
           <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Randle</p>
-        
+
         <p class="fr-book-desc">Focuses on Roswell evidence before and alongside broader conspiracy frameworks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

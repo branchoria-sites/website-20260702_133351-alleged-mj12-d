@@ -369,7 +369,7 @@ Within the broader debate over the alleged MJ-12 documents, the missing paper tr
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores classified programs, secrecy, archives and how real secret projects leave historical traces.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Within the broader debate over the alleged MJ-12 documents, the missing paper tr
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Contrasts evidence-based investigation with extraordinary government secrecy claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Within the broader debate over the alleged MJ-12 documents, the missing paper tr
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Provides the foundational claims whose documentary support is evaluated on this page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within the broader debate over the alleged MJ-12 documents, the missing paper tr
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case closed">Case closed</a>
         </h4>
         <p class="fr-book-author">By Gerald L. Posner</p>
-        
+
         <p class="fr-book-desc">Directly examines documentary evidence and the lack of corroborating records behind Roswell claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

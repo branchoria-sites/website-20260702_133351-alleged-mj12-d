@@ -376,7 +376,7 @@ The enduring interest in the alleged MJ-12 papers demonstrates why this distinct
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Promotes evidence-based reasoning directly applicable to evaluating disputed historical documents and extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ The enduring interest in the alleged MJ-12 papers demonstrates why this distinct
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
         </h4>
         <p class="fr-book-author">By Darrell Huff</p>
-        
+
         <p class="fr-book-desc">Teaches readers to question persuasive but misleading presentations of factual information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ The enduring interest in the alleged MJ-12 papers demonstrates why this distinct
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
         </h4>
         <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
         <p class="fr-book-desc">Encourages evaluating evidence, provenance, and persuasive claims instead of accepting surface plausibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Calling+Bullshit+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The enduring interest in the alleged MJ-12 papers demonstrates why this distinct
           <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
         </h4>
         <p class="fr-book-author">By Michael Barkun</p>
-        
+
         <p class="fr-book-desc">Provides the intellectual framework for understanding why allegedly secret documents gain credibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

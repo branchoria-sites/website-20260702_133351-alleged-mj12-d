@@ -359,7 +359,7 @@ His wartime leadership therefore serves two different historical purposes. It ex
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Offers broader context on secret military programs and why alleged covert committees such as MJ-12 remain culturally compelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ His wartime leadership therefore serves two different historical purposes. It ex
           <a href="https://www.amazon.com/s?k=Modern+arms+and+free+men+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern arms and free men">Modern arms and free men</a>
         </h4>
         <p class="fr-book-author">By Vannevar Bush</p>
-        
+
         <p class="fr-book-desc">Directly connects to Bush&#x27;s philosophy, wartime leadership, and scientific influence discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Modern+arms+and+free+men+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ His wartime leadership therefore serves two different historical purposes. It ex
           <a href="https://www.amazon.com/s?k=Endless+frontier+G.+Pascal+Zachary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Endless frontier">Endless frontier</a>
         </h4>
         <p class="fr-book-author">By G. Pascal Zachary</p>
-        
+
         <p class="fr-book-desc">Explains Bush&#x27;s vision for postwar science policy and reinforces his real historical stature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Endless+frontier+G.+Pascal+Zachary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ His wartime leadership therefore serves two different historical purposes. It ex
           <a href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Making of the Atomic Bomb">The Making of the Atomic Bomb</a>
         </h4>
         <p class="fr-book-author">By Richard Rhodes</p>
-        
+
         <p class="fr-book-desc">Provides essential context for the Manhattan Project and the classified scientific environment surrounding Bush.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Making+of+the+Atomic+Bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

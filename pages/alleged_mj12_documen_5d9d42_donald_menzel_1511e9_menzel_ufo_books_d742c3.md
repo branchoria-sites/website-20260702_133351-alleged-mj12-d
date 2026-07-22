@@ -346,7 +346,7 @@ They do not, however, conclusively resolve the MJ-12 question. Public statements
           <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
         </h4>
         <p class="fr-book-author">By David Michael Jacobs</p>
-        
+
         <p class="fr-book-desc">Places Menzel&#x27;s books within the wider UFO movement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ They do not, however, conclusively resolve the MJ-12 question. Public statements
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Provides official investigative context contemporary with Menzel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ They do not, however, conclusively resolve the MJ-12 question. Public statements
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of flying saucers">The world of flying saucers</a>
         </h4>
         <p class="fr-book-author">By Donald Howard Menzel</p>
-        
+
         <p class="fr-book-desc">Develops Menzel&#x27;s skeptical framework in greater depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ They do not, however, conclusively resolve the MJ-12 question. Public statements
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Offers readers a contrasting evidence-based viewpoint.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

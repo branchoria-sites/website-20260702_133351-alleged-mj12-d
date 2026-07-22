@@ -358,7 +358,7 @@ This is why forged markings represented the core risk identified during the offi
           <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
         </h4>
         <p class="fr-book-author">By Ronald Story</p>
-        
+
         <p class="fr-book-desc">Places document controversies into wider UFO history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ This is why forged markings represented the core risk identified during the offi
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Frames government documentation issues carefully.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ This is why forged markings represented the core risk identified during the offi
           <a href="https://www.amazon.com/s?k=Project+Beta+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
         </h4>
         <p class="fr-book-author">By Greg Bishop</p>
-        
+
         <p class="fr-book-desc">Examines forged narratives and misinformation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Project+Beta+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ This is why forged markings represented the core risk identified during the offi
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
         </h4>
         <p class="fr-book-author">By Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Covers MJ-12 authenticity debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

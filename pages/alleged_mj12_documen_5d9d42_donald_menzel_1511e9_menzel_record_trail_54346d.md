@@ -343,7 +343,7 @@ For historians evaluating the alleged MJ-12 documents, the central issue is ther
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
         </h4>
         <p class="fr-book-author">By Michael D. Swords</p>
-        
+
         <p class="fr-book-desc">Examines documentary evidence and official records relevant to MJ-12 claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+and+Government+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For historians evaluating the alleged MJ-12 documents, the central issue is ther
           <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
         </h4>
         <p class="fr-book-author">By David Michael Jacobs</p>
-        
+
         <p class="fr-book-desc">Places archival controversies into historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For historians evaluating the alleged MJ-12 documents, the central issue is ther
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case closed">Case closed</a>
         </h4>
         <p class="fr-book-author">By Gerald L. Posner</p>
-        
+
         <p class="fr-book-desc">Discusses official investigations and Cold War UFO records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+closed+Gerald+L.+Posner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For historians evaluating the alleged MJ-12 documents, the central issue is ther
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of flying saucers">The world of flying saucers</a>
         </h4>
         <p class="fr-book-author">By Donald Howard Menzel</p>
-        
+
         <p class="fr-book-desc">First published 1963. Subjects: Unidentified flying objects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

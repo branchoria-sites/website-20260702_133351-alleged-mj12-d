@@ -352,7 +352,7 @@ Whether viewed as deliberate fabrication or sincere belief, the historical relat
           <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day After Roswell">The Day After Roswell</a>
         </h4>
         <p class="fr-book-author">By Philip Corso, William J. Birnes</p>
-        
+
         <p class="fr-book-desc">Expanded the recovered-technology narrative that made MJ-12 stories more compelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Day+After+Roswell+Philip+Corso&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Whether viewed as deliberate fabrication or sincere belief, the historical relat
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores how Cold War secrecy influenced public imagination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Whether viewed as deliberate fabrication or sincere belief, the historical relat
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Played a major role in reviving Roswell for a mass audience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Whether viewed as deliberate fabrication or sincere belief, the historical relat
           <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Randle</p>
-        
+
         <p class="fr-book-desc">Documents the late twentieth-century revival of Roswell as a major UFO story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -370,7 +370,7 @@ The Shandera film created an unusual evidential situation. It preserved readable
           <a href="https://www.amazon.com/s?k=Case+MJ-12+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case MJ-12">Case MJ-12</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Randle</p>
-        
+
         <p class="fr-book-desc">Discusses why originals matter for authentication.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+MJ-12+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The Shandera film created an unusual evidential situation. It preserved readable
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Provides the principal advocate&#x27;s perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The Shandera film created an unusual evidential situation. It preserved readable
           <a href="https://www.amazon.com/s?k=Scientific+examination+of+questioned+documents+Ordway+Hilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific examination of questioned documents">Scientific examination of questioned documents</a>
         </h4>
         <p class="fr-book-author">By Ordway Hilton</p>
-        
+
         <p class="fr-book-desc">Directly explains the physical tests unavailable for the MJ-12 film.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scientific+examination+of+questioned+documents+Ordway+Hilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The Shandera film created an unusual evidential situation. It preserved readable
           <a href="https://www.amazon.com/s?k=Questioned+documents+Albert+Sherman+Osborn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Questioned documents">Questioned documents</a>
         </h4>
         <p class="fr-book-author">By Albert Sherman Osborn</p>
-        
+
         <p class="fr-book-desc">Introduces principles of document examination and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Questioned+documents+Albert+Sherman+Osborn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

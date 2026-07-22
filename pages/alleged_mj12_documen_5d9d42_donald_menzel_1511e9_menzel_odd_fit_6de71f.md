@@ -348,7 +348,7 @@ His name functioned differently from the military figures listed alongside him. 
           <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
         </h4>
         <p class="fr-book-author">By David Michael Jacobs</p>
-        
+
         <p class="fr-book-desc">Explores the broader MJ-12 and UFO belief context in which Menzel&#x27;s inclusion is debated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ His name functioned differently from the military figures listed alongside him. 
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of flying saucers">The world of flying saucers</a>
         </h4>
         <p class="fr-book-author">By Donald Howard Menzel</p>
-        
+
         <p class="fr-book-desc">Expands Menzel&#x27;s scientific explanations of UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+flying+saucers+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ His name functioned differently from the military figures listed alongside him. 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Offers a contrasting perspective on official UFO investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ His name functioned differently from the military figures listed alongside him. 
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Provides background on the mythology that later intersected with MJ-12 claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

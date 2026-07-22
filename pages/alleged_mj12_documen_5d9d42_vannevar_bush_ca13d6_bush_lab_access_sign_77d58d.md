@@ -348,30 +348,13 @@ The distinction is central to evaluating the MJ-12 claims. Bush functions as a m
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Prometheus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/229635-M.jpg" alt="Cover for American Prometheus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Prometheus">American Prometheus</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explores the wartime scientific and administrative networks surrounding major classified research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Science--the+endless+frontier+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Science--the endless frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1999738-M.jpg" alt="Cover for Science--the endless frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Science--the+endless+frontier+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Science--the endless frontier">Science--the endless frontier</a>
         </h4>
         <p class="fr-book-author">By Vannevar Bush, United States Office of Scientific Rese et al.</p>
-        
+
         <p class="fr-book-desc">Explains Bush&#x27;s vision for organizing American scientific research and government coordination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Science--the+endless+frontier+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +371,7 @@ The distinction is central to evaluating the MJ-12 claims. Bush functions as a m
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Illustrates how large-scale classified research networks evolved after the institutional model Bush helped establish.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,9 +380,26 @@ The distinction is central to evaluating the MJ-12 claims. Bush functions as a m
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Prometheus+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Prometheus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/229635-M.jpg" alt="Cover for American Prometheus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=American+Prometheus+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Prometheus">American Prometheus</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explores the wartime scientific and administrative networks surrounding major classified research.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=American+Prometheus+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Prometheus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Science+the+endless+frontier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Science the endless frontier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Science+the+endless+frontier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Science the endless frontier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Prometheus</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -390,7 +390,7 @@ The alleged Cutler memorandum presents MJ-12 as an NSC-related Special Studies P
           <a href="https://www.amazon.com/s?k=The+Power+of+Pull+Fred+I.+Greenstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Pull">The Power of Pull</a>
         </h4>
         <p class="fr-book-author">By Fred I. Greenstein</p>
-        
+
         <p class="fr-book-desc">Explains Eisenhower&#x27;s structured decision-making and administrative processes central to NSC recordkeeping.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Pull+Fred+I.+Greenstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The alleged Cutler memorandum presents MJ-12 as an NSC-related Special Studies P
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Victor Marchetti, John Marks</p>
-        
+
         <p class="fr-book-desc">Provides essential context for how U.S. national security secrecy and documentation functioned during the Cold War.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The alleged Cutler memorandum presents MJ-12 as an NSC-related Special Studies P
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Helps readers compare documented classified programs with claims about alleged secret projects like MJ-12.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The alleged Cutler memorandum presents MJ-12 as an NSC-related Special Studies P
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides broader context for evaluating government documentation and evidence surrounding UFO-related claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -364,7 +364,7 @@ Supporters argue that his intelligence background, wartime experience and later 
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
         </h4>
         <p class="fr-book-author">By Tim Weiner</p>
-        
+
         <p class="fr-book-desc">Explains the early CIA environment surrounding Hillenkoetter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Supporters argue that his intelligence background, wartime experience and later 
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Victor Marchetti, John Marks</p>
-        
+
         <p class="fr-book-desc">Relevant to senior intelligence leadership and secrecy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Supporters argue that his intelligence background, wartime experience and later 
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
+
         <p class="fr-book-desc">Historical context for official investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Supporters argue that his intelligence background, wartime experience and later 
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
         </h4>
         <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
         <p class="fr-book-desc">Supports critical analysis of documentary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -360,7 +360,7 @@ Taken together, these factors do not prove with absolute certainty that no secre
           <a href="https://www.amazon.com/s?k=Case+MJ-12+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case MJ-12">Case MJ-12</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Randle</p>
-        
+
         <p class="fr-book-desc">Addresses documentary problems with the executive-order claim.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+MJ-12+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Taken together, these factors do not prove with absolute certainty that no secre
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Explains the claimed Truman authorization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Taken together, these factors do not prove with absolute certainty that no secre
           <a href="https://www.amazon.com/s?k=The+Truman+Presidency+Michael+James+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Truman Presidency">The Truman Presidency</a>
         </h4>
         <p class="fr-book-author">By Michael James Lacey</p>
-        
+
         <p class="fr-book-desc">Provides historical context for presidential decision-making.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Truman+Presidency+Michael+James+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

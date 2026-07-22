@@ -360,7 +360,7 @@ Rather than asking readers to believe only that a spacecraft crashed, the docume
           <a href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
         </h4>
         <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
-        
+
         <p class="fr-book-desc">Directly covers Roswell witness narratives, recovery claims and the transformation of the incident into a larger secrecy story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witness+to+Roswell+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Rather than asking readers to believe only that a spacecraft crashed, the docume
           <a href="https://www.amazon.com/s?k=The+Roswell+Legacy+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Legacy">The Roswell Legacy</a>
         </h4>
         <p class="fr-book-author">By Jesse Marcel, Linda Marcel</p>
-        
+
         <p class="fr-book-desc">Focuses on the Roswell debris story and how the case became embedded in government-cover-up claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Roswell+Legacy+Jesse+Marcel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Rather than asking readers to believe only that a spacecraft crashed, the docume
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
         </h4>
         <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Presents the Roswell crash as part of a broader recovery-and-secrecy narrative closely related to MJ-12 claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Rather than asking readers to believe only that a spacecraft crashed, the docume
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Gives readers a strong framework for evaluating extraordinary claims, hoaxes and weak evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

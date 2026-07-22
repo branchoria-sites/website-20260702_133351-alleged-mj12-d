@@ -523,7 +523,7 @@ That is also the trap. Real historical fit can make a false document more persua
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Helps readers distinguish documented secret programs from mythology surrounding UFO-related government stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -540,7 +540,7 @@ That is also the trap. Real historical fit can make a false document more persua
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Provides strong context for understanding the real institutions and science-policy world that make figures like Vannevar Bush seem plausi...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -557,7 +557,7 @@ That is also the trap. Real historical fit can make a false document more persua
           <a href="https://www.amazon.com/s?k=Modern+arms+and+free+men+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern arms and free men">Modern arms and free men</a>
         </h4>
         <p class="fr-book-author">By Vannevar Bush</p>
-        
+
         <p class="fr-book-desc">Written by Bush himself, explaining his views on science, government, and national security in the postwar era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Modern+arms+and+free+men+Vannevar+Bush&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -574,7 +574,7 @@ That is also the trap. Real historical fit can make a false document more persua
           <a href="https://www.amazon.com/s?k=Endless+frontier+G.+Pascal+Zachary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Endless frontier">Endless frontier</a>
         </h4>
         <p class="fr-book-author">By G. Pascal Zachary</p>
-        
+
         <p class="fr-book-desc">Explains Bush&#x27;s wartime leadership, political influence, and why his name lends credibility to alleged MJ-12 narratives without supportin...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Endless+frontier+G.+Pascal+Zachary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

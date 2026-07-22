@@ -371,7 +371,7 @@ For historians and archivists, this is why provenance—the documented chain of 
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Top Secret/Majic">Top Secret/Majic</a>
         </h4>
         <p class="fr-book-author">By Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Explains the roles of Shandera, Friedman and Moore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Top+Secret%2FMajic+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For historians and archivists, this is why provenance—the documented chain of 
           <a href="https://www.amazon.com/s?k=Case+MJ-12+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Case MJ-12">Case MJ-12</a>
         </h4>
         <p class="fr-book-author">By Kevin D. Randle</p>
-        
+
         <p class="fr-book-desc">Critically assesses the research circle and evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Case+MJ-12+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For historians and archivists, this is why provenance—the documented chain of 
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
         </h4>
         <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Shows the research environment surrounding Shandera.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For historians and archivists, this is why provenance—the documented chain of 
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell Incident">Roswell Incident</a>
         </h4>
         <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
         <p class="fr-book-desc">Introduces Moore and the Roswell investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Roswell+Incident+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

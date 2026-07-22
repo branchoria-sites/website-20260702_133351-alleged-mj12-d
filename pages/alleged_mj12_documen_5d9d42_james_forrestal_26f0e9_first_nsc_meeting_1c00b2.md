@@ -371,7 +371,7 @@ What they do not demonstrate is the existence of a secret committee managing rec
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Examines government secrecy in contrast to conspiracy narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ What they do not demonstrate is the existence of a secret committee managing rec
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of the CIA">The Secret History of the CIA</a>
         </h4>
         <p class="fr-book-author">By Joseph J. Trento</p>
-        
+
         <p class="fr-book-desc">Explains early CIA and NSC development after 1947.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ What they do not demonstrate is the existence of a secret committee managing rec
           <a href="https://www.amazon.com/s?k=The+national+security+constitution+Harold+Hongju+Koh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The national security constitution">The national security constitution</a>
         </h4>
         <p class="fr-book-author">By Harold Hongju Koh</p>
-        
+
         <p class="fr-book-desc">Provides essential context for the National Security Council.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+national+security+constitution+Harold+Hongju+Koh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ What they do not demonstrate is the existence of a secret committee managing rec
           <a href="https://www.amazon.com/s?k=James+Forrestal+Arnold+A.+Rogow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="James Forrestal">James Forrestal</a>
         </h4>
         <p class="fr-book-author">By Arnold A. Rogow</p>
-        
+
         <p class="fr-book-desc">Details Forrestal&#x27;s role in the first NSC period.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=James+Forrestal+Arnold+A.+Rogow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

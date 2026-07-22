@@ -549,7 +549,7 @@ His name adds three useful lessons for reading the MJ-12 material:
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Explores the culture of secrecy that fuels later UFO narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Area+51+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -566,7 +566,7 @@ His name adds three useful lessons for reading the MJ-12 material:
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
         </h4>
         <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
-        
+
         <p class="fr-book-desc">Places MJ-12 narratives within the broader Roswell story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crash+at+Corona+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -583,7 +583,7 @@ His name adds three useful lessons for reading the MJ-12 material:
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of the CIA">The Secret History of the CIA</a>
         </h4>
         <p class="fr-book-author">By Joseph J. Trento</p>
-        
+
         <p class="fr-book-desc">Provides context for postwar intelligence institutions linked to Forrestal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+CIA+Joseph+J.+Trento&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -600,7 +600,7 @@ His name adds three useful lessons for reading the MJ-12 material:
           <a href="https://www.amazon.com/s?k=James+Forrestal+Arnold+A.+Rogow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="James Forrestal">James Forrestal</a>
         </h4>
         <p class="fr-book-author">By Arnold A. Rogow</p>
-        
+
         <p class="fr-book-desc">Explains Forrestal&#x27;s real career apart from conspiracy claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=James+Forrestal+Arnold+A.+Rogow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
