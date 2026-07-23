@@ -415,16 +415,16 @@ Historical authentication works in the opposite direction. Recognisable official
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence: The Psychology of Persuasion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence: The Psychology of Persuasion">Influence: The Psychology of Persuasion</a>
         </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+        <p class="fr-book-author">By Robert B. Cialdini</p>
 
-        <p class="fr-book-desc">Profiles many of the figures named in MJ-12 discussions.</p>
+        <p class="fr-book-desc">Explains authority effects central to the page topic.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Influence%3A+The+Psychology+of+Persuasion+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -394,16 +394,16 @@ That shift had lasting consequences for late twentieth-century [UFO culture]({{'
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris+and+Elliot+Aronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris+and+Elliot+Aronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
         </h4>
-        <p class="fr-book-author">By Carol Tavris and Elliot Aronson</p>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
 
         <p class="fr-book-desc">Explains why people maintain beliefs despite contrary evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris+and+Elliot+Aronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
