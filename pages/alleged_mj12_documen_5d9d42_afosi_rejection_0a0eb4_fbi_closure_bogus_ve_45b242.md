@@ -694,7 +694,7 @@ Within the FBI's own documentation, the most significant feature of the OSI asse
 11.<a id="endnote-11"></a>
    Source: reaganlibrary.gov  
    Title: operation majestic 12 mj 12 document  
-   Link:<a href="https://www.reaganlibrary.gov/[archives" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/[archives</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Majestic 12 (MJ-12 Document)4 Jun 2026 — Operation Majestic 12 (MJ-12 Document) The folders and case files listed on these topi...</p></details>
+   Link:https://www.reaganlibrary.gov/[archives<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Majestic 12 (MJ-12 Document)4 Jun 2026 — Operation Majestic 12 (MJ-12 Document) The folders and case files listed on these topi...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: reddit.com  
